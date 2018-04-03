@@ -10,12 +10,12 @@ gtag('config', 'UA-41355170-3');
 <meta property="og:site_name" content="mountainboooy">
 <meta property="og:description" content="UIkeyboardの動きに合わせてビューも移動させたい。以下の動画ではピンクの部分が対象のビュー。  通常の方法NSNotificationCenterを使い、キーボードの動きを通知。その際にキーボードの動きに合わせてビューのアニメーションを行う。キーボードのアニメーションに関するパラメータはNSNotificationCenterの引数として渡されるので、それを使用する。 問題点NSNotif">
 <meta property="og:locale" content="ja">
-<meta property="og:image" content="http://mountainboy.me/wp-content/uploads/2014/07/keyboard.gif">
-<meta property="og:updated_time" content="2018-02-15T10:07:40.147Z">
+<meta property="og:image" content="http://mountainboy.boo.jp/wordpress/wp-content/uploads/2014/07/keyboard.gif">
+<meta property="og:updated_time" content="2018-04-03T10:47:18.954Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="UIKeyboardの動きに合わせてviewをアニメーションさせる方法">
 <meta name="twitter:description" content="UIkeyboardの動きに合わせてビューも移動させたい。以下の動画ではピンクの部分が対象のビュー。  通常の方法NSNotificationCenterを使い、キーボードの動きを通知。その際にキーボードの動きに合わせてビューのアニメーションを行う。キーボードのアニメーションに関するパラメータはNSNotificationCenterの引数として渡されるので、それを使用する。 問題点NSNotif">
-<meta name="twitter:image" content="http://mountainboy.me/wp-content/uploads/2014/07/keyboard.gif"><!--css--><link rel="stylesheet" href="/css/style.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i|Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,400,500,700,900"><link rel="stylesheet" href="/css/prism-xonokai.css" type="text/css">
+<meta name="twitter:image" content="http://mountainboy.boo.jp/wordpress/wp-content/uploads/2014/07/keyboard.gif"><!--css--><link rel="stylesheet" href="/css/style.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i|Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,400,500,700,900"><link rel="stylesheet" href="/css/prism-xonokai.css" type="text/css">
 <link rel="stylesheet" href="/css/prism-line-numbers.css" type="text/css"></head><body><div class="sidemenu"><div class="backdrop"></div><ul class="unstyled-list sidemenu-list"><li><a class="unstyled-link" href="/">Home </a></li><li><a class="unstyled-link" href="/about">About</a></li></ul></div><script>$(function () {
   $('.logo').click(toggleMenu)    
   $('.sidemenu').click(toggleMenu)
@@ -48,7 +48,7 @@ function closeMenu () {
     $('.sidemenu').hide()
   }, 300)
 }</script><header><div class="container"> <a class="logo"><strong class="logo-text">M</strong></a></div></header><div class="body"> <div class="post"><div class="container"><!-- date--><div class="created">2014.7.12</div><!--title--><h1 class="post-title">UIKeyboardの動きに合わせてviewをアニメーションさせる方法</h1><!-- tags--><div class="post-tags"><a class="btn btn-tag post-tag" href="/tags/iOS/">iOS</a><a class="btn btn-tag post-tag" href="/tags/iPhone/">iPhone</a><a class="btn btn-tag post-tag" href="/tags/iOS7/">iOS7</a><a class="btn btn-tag post-tag" href="/tags/UIKeyboard/">UIKeyboard</a><a class="btn btn-tag post-tag" href="/tags/UIViewAnimationCurve/">UIViewAnimationCurve</a><a class="btn btn-tag post-tag" href="/tags/UIViewAnimationOptions/">UIViewAnimationOptions</a></div><!-- article--><div class="article"><p>UIkeyboardの動きに合わせてビューも移動させたい。以下の動画ではピンクの部分が対象のビュー。</p>
-<p><a href="http://mountainboy.me/wp-content/uploads/2014/07/keyboard.gif" target="_blank" rel="noopener"><img src="http://mountainboy.me/wp-content/uploads/2014/07/keyboard.gif" alt="keyboard"></a></p>
+<p><a href="http://mountainboy.boo.jp/wordpress/wp-content/uploads/2014/07/keyboard.gif" target="_blank" rel="noopener"><img src="http://mountainboy.boo.jp/wordpress/wp-content/uploads/2014/07/keyboard.gif" alt="keyboard"></a></p>
 <p><span style="font-size: 12pt;"><strong>通常の方法</strong></span><br>NSNotificationCenterを使い、キーボードの動きを通知。その際にキーボードの動きに合わせてビューのアニメーションを行う。キーボードのアニメーションに関するパラメータはNSNotificationCenterの引数として渡されるので、それを使用する。</p>
 <p><span style="font-size: 12pt;"><strong>問題点</strong></span><br>NSNotificationの引数として渡されるUIKeyboardのアニメーションの動きはUIViewAnimationCurve型。しかし、UIViewのアニメーションを定義するのに必要なパラメータはUIViewAnimationOptions型。なのでUIViewAnimationCurveをUIViewAnimationOptionsに変換してあげる必要がある。UIViewAnimationOptionsはドキュメントでは4つ定義してあり、通常であればこの4つのいずれかに当てはまるはず。ところが、UIKeyboardに使われてるUIViewAnimationCurveは上記のいずれのオプションにも当てはまらない。iO7以降では、KIKeyboardのアニメーションはドキュメント非記述の設定で動いているようだ。</p>
 <p><span style="font-size: 12pt;"><strong>解決案</strong></span><br>UIViewAnimationCurveの値を強引にUIViewAnimationOptionsに変換する。どうやらUIViewAnimationCurveをビット演算で左に16回シフトするとUIViewAnimationOptionsの値になるようだ。</p>

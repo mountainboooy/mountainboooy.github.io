@@ -1,5 +1,5 @@
 .post {
-  padding-top: 72px;
+  padding: 52px 0 72px;
 }
 .post-title {
   margin: 8px 0 12px;
@@ -9,7 +9,7 @@
   flex-flow: row wrap;
   justify-content: flex-start;
   align-items: flex-start;
-  margin: 0 -4px;
+  margin: 0 -4px 32px;
 }
 .post-tag {
   margin: 4px;

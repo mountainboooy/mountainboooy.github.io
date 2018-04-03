@@ -1,0 +1,18 @@
+.summary {
+  padding: 16px 0 20px;
+  cursor: pointer;
+  border-top: 1px solid #f1f1f1;
+}
+.summary-title {
+  margin: 8px 0 12px;
+}
+.summary-tags {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 0 -4px;
+}
+.summary-tag {
+  margin: 4px;
+}

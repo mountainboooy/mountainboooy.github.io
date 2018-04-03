@@ -1,0 +1,23 @@
+header {
+  height: 56px;
+  display: flex;
+}
+header .container {
+  width: 100%;
+  height: 100%;
+  justify-content: flex-start;
+  align-items: center;
+}
+header .logo {
+  display: inline-block;
+  text-align: center;
+  font-size: 27px;
+  line-height: 48px;
+  height: 48px;
+  width: 48px;
+  margin-left: -12px;
+  cursor: pointer;
+}
+header .logo-text {
+  border-bottom: 4px solid secondary-color;
+}

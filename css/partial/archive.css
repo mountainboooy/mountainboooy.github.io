@@ -1,0 +1,22 @@
+.archive {
+  padding: 0 2.5rem;
+}
+.archive > ul {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-column-gap: 2.5rem;
+}
+.archive > ul > li {
+  grid-column: span 4;
+responsive(xl)
+responsive(md)
+}
+.archive__page-nav {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-column-gap: 2.5rem;
+}
+.archive__page-nav .page-nav {
+  grid-column: 5/span 4;
+responsive(xl)
+}

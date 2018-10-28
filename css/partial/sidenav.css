@@ -1,0 +1,57 @@
+.sidenav {
+  background-color: sidenav-bg-color;
+  height: 100%;
+  position: fixed;
+  width: 16rem;
+  display: flex;
+  flex-flow: column nowrap;
+  overflow: scroll;
+}
+.sidenav__header {
+  color: #fff;
+  text-align: center;
+  font-family: 'Righteous';
+  font-size: 108px;
+  line-height: 14rem;
+  user-select: none;
+  pointer-events: none;
+}
+.sidenav__menu {
+  padding-bottom: 2.5rem;
+}
+.sidenav__menu__item {
+  position: relative;
+}
+.sidenav__menu__item a {
+  padding: 0 2rem;
+  line-height: 3.75rem;
+  color: #fff;
+  display: block;
+}
+.sidenav__menu__item a.selected {
+  color: sidenav-highlight-color;
+  font-weight: bold;
+}
+.sidenav__menu__item:hover {
+  background-color: sidenav-bg-color-hoverd;
+}
+.sidenav__menu__item__marker {
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  bottom: 0.5rem;
+  width: 0.25rem;
+  background-color: sidenav-highlight-color;
+  opacity: 0;
+}
+.sidenav__menu__item__marker.selected {
+  opacity: 1;
+}
+.sidenav__divider {
+  margin-top: auto;
+  margin-right: 2rem;
+  margin-left: 2rem;
+  height: 1px;
+  background-color: rgba(255,255,255,0.1);
+  flex-shrink: 0;
+}

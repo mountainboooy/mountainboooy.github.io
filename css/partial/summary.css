@@ -1,12 +1,29 @@
 .summary {
-  padding: 16px 0 20px;
+  padding: 0.5rem 0 3rem;
   cursor: pointer;
-  border-top: 1px solid #f1f1f1;
+  border-top: 1px solid splitter-color-dark;
 }
-.summary-title {
-  margin: 8px 0 12px;
+.summary__title {
+  margin: 24px 0 12px;
+  min-height: 4.5rem;
 }
-.summary-tags {
+.summary__title a {
+  color: primary-color-dark;
+}
+.summary__title a:hover {
+  color: text-link-color-hovered;
+}
+.summary__desc {
+  max-height: 4.5rem;
+  margin: 0.75rem 0 1.5rem;
+  overflow: hidden;
+}
+.summary__desc * {
+  margin: 0 !important;
+  font-size: $base-font-size !important;
+  font-weight: normal !important;
+}
+.summary__tags {
   display: flex;
   flex-flow: row wrap;
   justify-content: flex-start;

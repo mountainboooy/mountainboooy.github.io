@@ -1,0 +1,32 @@
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/><title>UI考察：slack</title><!-- javascript--><script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script><script src="/js/main.js"></script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.css"><!-- Google Analytics--><!-- Global site tag (gtag.js)--><script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-41355170-3"></script><script>window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-41355170-3');
+</script><!-- Open graph      --><meta name="description" content="巷で大人気のチャットツール、slackのUIを舐めてみた。あまり詳細な部分は見れてない。">
+<meta name="keywords" content="Design,UI Design,slack UIデザイン">
+<meta property="og:type" content="article">
+<meta property="og:title" content="UI考察：slack">
+<meta property="og:url" content="https://github.com/mountainboooy.github.io/2015/05/09/1496/index.html">
+<meta property="og:site_name" content="mountainboooy">
+<meta property="og:description" content="巷で大人気のチャットツール、slackのUIを舐めてみた。あまり詳細な部分は見れてない。">
+<meta property="og:locale" content="ja">
+<meta property="og:image" content="https://i.gyazo.com/b4e607aba2e57b34851ca6795702dd0d.png">
+<meta property="og:image" content="https://i.gyazo.com/9012924925582fdb851cd329b8ecda06.png">
+<meta property="og:updated_time" content="2018-10-28T04:23:33.452Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="UI考察：slack">
+<meta name="twitter:description" content="巷で大人気のチャットツール、slackのUIを舐めてみた。あまり詳細な部分は見れてない。">
+<meta name="twitter:image" content="https://i.gyazo.com/b4e607aba2e57b34851ca6795702dd0d.png"><!--css--><link rel="stylesheet" href="/css/style.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i|Righteous|Roboto:400,400i,500,500i,700,700i"><link rel="stylesheet" href="/css/prism-xonokai.css" type="text/css">
+<link rel="stylesheet" href="/css/prism-line-numbers.css" type="text/css"></head><body><div class="content"><div class="content-nav"><div class="sidenav"><div class="sidenav__header">m</div><ul class="unstyled-list sidenav__menu"><li class="sidenav__menu__item"><a class="unstyled-link" href="/">BLOG</a><div class="sidenav__menu__item__marker"></div></li><li class="sidenav__menu__item"><a class="unstyled-link" href="/about">PROFILE</a><div class="sidenav__menu__item__marker"></div></li><li class="sidenav__menu__item"><a class="unstyled-link" href="/works">WORKS</a><div class="sidenav__menu__item__marker"></div></li></ul><div class="sidenav__divider"></div><div class="profile"><div class="profile-thumb"><img src="https://i.gyazo.com/13a3f490a5a42074ffdb1722d8a38c3d.jpg"/></div><div class="profile-name"><h3 class="align-center">TAKEU YOSHIHARA</h3></div><div class="profile-desc">ゴーシュは町の活動写真館でセロを弾く係りでした。けれどもあんまり上手でないという評判でした。ゴーシュは町の活動写真館でセロを弾く係りでした。上手でないどころではなく実は仲間のゴーシュは町の活動写真館でセロを弾く係りでした。上手でないどころではなく実は仲間の…</div></div></div></div><div class="content-main"> <div class="post"><div class="container"><!-- date--><div class="created">2015.5.9</div><!--title--><h1 class="post-title">UI考察：slack</h1><!-- tags--><div class="post-tags"><a class="btn btn-tag post-tag" href="/tags/Design/">Design</a><a class="btn btn-tag post-tag" href="/tags/UI-Design/">UI Design</a><a class="btn btn-tag post-tag" href="/tags/slack-UIデザイン/">slack UIデザイン</a></div><!-- article--><div class="article"><p>巷で大人気のチャットツール、slackのUIを舐めてみた。あまり詳細な部分は見れてない。<a id="more"></a></p>
+<p><a href="https://i.gyazo.com/4e179626a96445352220cd49ef7fd158.png" target="_blank" rel="noopener"><img src="https://i.gyazo.com/b4e607aba2e57b34851ca6795702dd0d.png" alt="slack-logo"></a></p>
+<p><a href="https://i.gyazo.com/9012924925582fdb851cd329b8ecda06.png" target="_blank" rel="noopener"><img src="https://i.gyazo.com/9012924925582fdb851cd329b8ecda06.png" alt="9012924925582fdb851cd329b8ecda06"></a></p>
+<p><br></p>
+<h4 id="明快なレイアウトとコントラスト"><a href="#明快なレイアウトとコントラスト" class="headerlink" title="明快なレイアウトとコントラスト"></a>明快なレイアウトとコントラスト</h4><p>・コンテンツ部分と操作部分を徹底的にはっきりと分けている。<br>・操作部分はコントラストを抑え、あくまでコンテンツ部分を浮かしている。<br>・文字群のまとまりがわかりやすい。<br>・タイトル表示が明快。リズム感が心地よい。<br>・ローコントラストとハイコンとラストの部分がはっきり分かれている。<br>・ただしハイコントラストの方がはるかに分量がすくない。重要な情報を絞ってこれでもか、と強調している。<br>・選択可能部分は選択前には薄すぎるくらいのローコントラスト。<br>・そのため選択後の反応が強く見え、とてもわかりやすい。<br><br></p>
+<h4 id="オフィスツールっぽくない雰囲気"><a href="#オフィスツールっぽくない雰囲気" class="headerlink" title="オフィスツールっぽくない雰囲気"></a>オフィスツールっぽくない雰囲気</h4><p>・仕事を楽しく感じさせる色々な工夫がなされている。<br>・slackを使う自分の仕事はクールだ とさえ思わされるかもしれない。<br>・例えばカラーの組み合わせ。でもこれはデザイナーのテイストだと思う。<br>・例えば効果音。<br>・例えばフォント。調べるとgoogleのLatoフォントだった。アプリからサービスプロモーションのぺーじまで全てこのフォントで統一している。部分的に丸みがあるため主張せず、背景になじむのでツールアプリには向いているかもしれない。<br><br></p>
+<h4 id="細やかな機能"><a href="#細やかな機能" class="headerlink" title="細やかな機能"></a>細やかな機能</h4><p>・コマンンド入力時に補完が出てきて感動。やはり補完は重要。<br>・メンションやスターつきのフィルタがメイン画面を表示したままで出るのは安心感がある。ただし開閉にはアニメーションがほしい。<br><br></p>
+<h4 id="その他情報"><a href="#その他情報" class="headerlink" title="その他情報"></a>その他情報</h4><p>デザインの担当は<a href="http://metalab.co" target="_blank" rel="noopener">metalab</a>という会社。インハウスではないのか。意外。<a href="https://medium.com/@awilkinson/slack-s-2-8-billion-dollar-secret-sauce-5c5ec7117908" target="_blank" rel="noopener">ここ</a>でmetalabのAndrew Wilkinsonが開発秘話を語っている。かなり面白い。ざっくり以下のような内容。3点に集約されている。</p>
+<h5 id="It-Looks-Different"><a href="#It-Looks-Different" class="headerlink" title="It Looks Different"></a>It Looks Different</h5><p>従来のエンタープライズ向けのツールから離れることを目指したことが語られてる。他のアプリのような暗いブルーではなく、紙吹雪のようなカラースキームにかわいいロゴ。これらのカラーはエンタープライズカラーではなく、ゲーム業界にヒントを得ているらしい。</p>
+<h5 id="It-Feel-Different"><a href="#It-Feel-Different" class="headerlink" title="It Feel Different"></a>It Feel Different</h5><p>ユーザを楽しませるための細かいアニメーションのこだわりについて語られている。ロゴの回転やモーダルアニメーションなど。プロではないユーザはこういった細部に明確に気づくことはない。ただし小さなこだわりの集積を確実に感じると。</p>
+<h5 id="It-Sounds-Different"><a href="#It-Sounds-Different" class="headerlink" title="It Sounds Different"></a>It Sounds Different</h5><p>slackの中で使われるあらゆる言葉について語られている。アプリ内のアラートからツイートまで。ただ必要なことを伝えるだけでなく、ユーモアを踏まえた内容にこだわってるらしい。従来のツールが2001年宇宙の旅のHAL9000ならslackはInterStellerのTARSだと。<br><br></p>
+<h4 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h4><p>細部のこだわりの集積であることが実感できた。その工夫は全てPlayfulというようなコンセプトに向かっていて明快。コンセプトは重要だ。ただこうしたコンセプトは生活圏の文化の影響が大きいと思う。彼らは楽しむのが本当にうまい。同じことをやろうと思っても絶対にできないと思う。よそはよそ、うちはうち。</p>
+</div></div></div></div></div></body></html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/><title>UI考察：feedly</title><!-- javascript--><script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script><script src="/js/main.js"></script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.css"><!-- Google Analytics--><!-- Global site tag (gtag.js)--><script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-41355170-3"></script><script>window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-41355170-3');
+</script><!-- Open graph      --><meta name="description" content="普段使っているRSSリーダアプリfeedlyのUIを検証してみた。普段はデスクトップアプリをメインに使っている。">
+<meta name="keywords" content="Design,webサービス,UI Design,UIデザイン,feedly,アプリ">
+<meta property="og:type" content="article">
+<meta property="og:title" content="UI考察：feedly">
+<meta property="og:url" content="https://github.com/mountainboooy.github.io/2015/05/12/1517/index.html">
+<meta property="og:site_name" content="mountainboooy">
+<meta property="og:description" content="普段使っているRSSリーダアプリfeedlyのUIを検証してみた。普段はデスクトップアプリをメインに使っている。">
+<meta property="og:locale" content="ja">
+<meta property="og:image" content="https://i.gyazo.com/6c1f5f7a61fd6e6c6d952399bc6bf116.png">
+<meta property="og:updated_time" content="2018-10-28T04:11:52.630Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="UI考察：feedly">
+<meta name="twitter:description" content="普段使っているRSSリーダアプリfeedlyのUIを検証してみた。普段はデスクトップアプリをメインに使っている。">
+<meta name="twitter:image" content="https://i.gyazo.com/6c1f5f7a61fd6e6c6d952399bc6bf116.png"><!--css--><link rel="stylesheet" href="/css/style.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i|Righteous|Roboto:400,400i,500,500i,700,700i"><link rel="stylesheet" href="/css/prism-xonokai.css" type="text/css">
+<link rel="stylesheet" href="/css/prism-line-numbers.css" type="text/css"></head><body><div class="content"><div class="content-nav"><div class="sidenav"><div class="sidenav__header">m</div><ul class="unstyled-list sidenav__menu"><li class="sidenav__menu__item"><a class="unstyled-link" href="/">BLOG</a><div class="sidenav__menu__item__marker"></div></li><li class="sidenav__menu__item"><a class="unstyled-link" href="/about">PROFILE</a><div class="sidenav__menu__item__marker"></div></li><li class="sidenav__menu__item"><a class="unstyled-link" href="/works">WORKS</a><div class="sidenav__menu__item__marker"></div></li></ul><div class="sidenav__divider"></div><div class="profile"><div class="profile-thumb"><img src="https://i.gyazo.com/13a3f490a5a42074ffdb1722d8a38c3d.jpg"/></div><div class="profile-name"><h3 class="align-center">TAKEU YOSHIHARA</h3></div><div class="profile-desc">ゴーシュは町の活動写真館でセロを弾く係りでした。けれどもあんまり上手でないという評判でした。ゴーシュは町の活動写真館でセロを弾く係りでした。上手でないどころではなく実は仲間のゴーシュは町の活動写真館でセロを弾く係りでした。上手でないどころではなく実は仲間の…</div></div></div></div><div class="content-main"> <div class="post"><div class="container"><!-- date--><div class="created">2015.5.12</div><!--title--><h1 class="post-title">UI考察：feedly</h1><!-- tags--><div class="post-tags"><a class="btn btn-tag post-tag" href="/tags/Design/">Design</a><a class="btn btn-tag post-tag" href="/tags/webサービス/">webサービス</a><a class="btn btn-tag post-tag" href="/tags/UI-Design/">UI Design</a><a class="btn btn-tag post-tag" href="/tags/UIデザイン/">UIデザイン</a><a class="btn btn-tag post-tag" href="/tags/feedly/">feedly</a><a class="btn btn-tag post-tag" href="/tags/アプリ/">アプリ</a></div><!-- article--><div class="article"><p>普段使っているRSSリーダアプリfeedlyのUIを検証してみた。普段はデスクトップアプリをメインに使っている。<a id="more"></a></p>
+<p><a href="https://i.gyazo.com/6c1f5f7a61fd6e6c6d952399bc6bf116.png" target="_blank" rel="noopener"><img src="https://i.gyazo.com/6c1f5f7a61fd6e6c6d952399bc6bf116.png" alt="6c1f5f7a61fd6e6c6d952399bc6bf116-2"></a></p>
+<p>&nbsp;</p>
+<h4 id="基本構成"><a href="#基本構成" class="headerlink" title="基本構成"></a>基本構成</h4><p>左のサイドメニューとメインコンテンツ部分の2カラム構成。サイドメニューはオンカーソルで開き、外すと勝手に閉じる。できるだけコンテンツを大きく見せておきたいからだろう。モバイルアプリと同じ感覚で使えるのはいいかもしれない。使用障壁が低い。カラーはよくある基本的な構成。グレーのベースカラーと少しだけのコーポレートカラーの組み合わせ。</p>
+<p>####</p>
+<h4 id="よかったところ"><a href="#よかったところ" class="headerlink" title="よかったところ"></a>よかったところ</h4><p>・コンテンツがない状態で事例を提案してくるのはやっぱりありがたい。<br>・コンテンツの表示方法を3種の中からユーザに選ばせている。確かにこれもひとつの手段。</p>
+<p>####</p>
+<h4 id="悪かったところ"><a href="#悪かったところ" class="headerlink" title="悪かったところ"></a>悪かったところ</h4><p>・ウインドウがでかいのでカーソルの移動がめんどくさい。こういうのは操作できるモックで検証しないと気付かなさそう。<br>・アコーディオンは繊維アニメーションがないと一見して何がおきたのかわからない<br>・他のアプリに連携する際にわざわざブラウザが開くのはめちゃめちゃストレスがたまる。<br>・メニューのアイコンが不要<br>・サイドメニューの中に設定メニューも混ざっているが気づきにくい。<br>・こういう細かい点の積み重なりが大きく影響するんだろうな</p>
+<p>####</p>
+<h4 id="その他情報"><a href="#その他情報" class="headerlink" title="その他情報"></a>その他情報</h4><p><a href="http://photoshopvip.net/archives/75358" target="_blank" rel="noopener">ここ</a>でマテリアルデザイン反映までのプロセスが説明してある。googleのデザイナーと密接にやり取りしながら仕上がっていく様子が面白い。印象的だったのは、コンテンツの提案として表示されてあるスターターキットの表示方法。かなりのこだわりをもって改善されたようだ。実際に使っていても没入感を感じた箇所だった。<strong>感情的</strong>（英: Emotional）<strong>没入的</strong>（英: Immersive）はとても大きなキーワード。</p>
+</div></div></div></div></div></body></html>

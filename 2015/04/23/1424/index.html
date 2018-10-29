@@ -1,0 +1,23 @@
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/><title>Xcode6でのローカライズの流れをメモ</title><!-- javascript--><script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script><script src="/js/main.js"></script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.css"><!-- Google Analytics--><!-- Global site tag (gtag.js)--><script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-41355170-3"></script><script>window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-41355170-3');
+</script><!-- Open graph      --><meta name="description" content="Xcode6でのローカライズの流れを調べた。ローカライズが必要なのは以下のもの。">
+<meta name="keywords" content="iOS,Xcode6">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Xcode6でのローカライズの流れをメモ">
+<meta property="og:url" content="https://github.com/mountainboooy.github.io/2015/04/23/1424/index.html">
+<meta property="og:site_name" content="mountainboooy">
+<meta property="og:description" content="Xcode6でのローカライズの流れを調べた。ローカライズが必要なのは以下のもの。">
+<meta property="og:locale" content="ja">
+<meta property="og:updated_time" content="2018-10-28T04:24:59.846Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Xcode6でのローカライズの流れをメモ">
+<meta name="twitter:description" content="Xcode6でのローカライズの流れを調べた。ローカライズが必要なのは以下のもの。"><!--css--><link rel="stylesheet" href="/css/style.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i|Righteous|Roboto:400,400i,500,500i,700,700i"><link rel="stylesheet" href="/css/prism-xonokai.css" type="text/css">
+<link rel="stylesheet" href="/css/prism-line-numbers.css" type="text/css"></head><body><div class="content"><div class="content-nav"><div class="sidenav"><div class="sidenav__header">m</div><ul class="unstyled-list sidenav__menu"><li class="sidenav__menu__item"><a class="unstyled-link" href="/">BLOG</a><div class="sidenav__menu__item__marker"></div></li><li class="sidenav__menu__item"><a class="unstyled-link" href="/about">PROFILE</a><div class="sidenav__menu__item__marker"></div></li><li class="sidenav__menu__item"><a class="unstyled-link" href="/works">WORKS</a><div class="sidenav__menu__item__marker"></div></li></ul><div class="sidenav__divider"></div><div class="profile"><div class="profile-thumb"><img src="https://i.gyazo.com/13a3f490a5a42074ffdb1722d8a38c3d.jpg"/></div><div class="profile-name"><h3 class="align-center">TAKEU YOSHIHARA</h3></div><div class="profile-desc">ゴーシュは町の活動写真館でセロを弾く係りでした。けれどもあんまり上手でないという評判でした。ゴーシュは町の活動写真館でセロを弾く係りでした。上手でないどころではなく実は仲間のゴーシュは町の活動写真館でセロを弾く係りでした。上手でないどころではなく実は仲間の…</div></div></div></div><div class="content-main"> <div class="post"><div class="container"><!-- date--><div class="created">2015.4.23</div><!--title--><h1 class="post-title">Xcode6でのローカライズの流れをメモ</h1><!-- tags--><div class="post-tags"><a class="btn btn-tag post-tag" href="/tags/iOS/">iOS</a><a class="btn btn-tag post-tag" href="/tags/Xcode6/">Xcode6</a></div><!-- article--><div class="article"><p>Xcode6でのローカライズの流れを調べた。ローカライズが必要なのは以下のもの。<a id="more"></a></p>
+<p><span style="font-size: 11pt;"><strong>1. Storyboard</strong></span><br><span style="font-size: 11pt;"> <strong> 2. Info.plist</strong></span><br><span style="font-size: 11pt;"> <strong> 3. 各ソースコード</strong></span></p>
+<p><span style="font-size: 11pt;"><strong>1. Storyboard</strong></span><br>Storyboardのローカライズ情報は.stringsファイルで管理できる。UIに使われているラベルの値が関連づけれらて設定可能になる。各国に対応した画像を使う場合は.stringsではなくstoryboardの追加が必要。これらはUIの編集に伴う更新は自動では行われない。自動化のスクリプトが出回っているのでそれを使う。</p>
+<p><span style="font-size: 11pt;"><strong>2. Info.plist</strong></span><br>アプリ名なんかのローカライズはここでやる必要がある。</p>
+<p><span style="font-size: 11pt;"><strong>3. 各ソースコード</strong></span><br>Localizable.stringファイルを作成して管理。genstrings -a $(find . -name “*.m”) で自動生成可能。</p>
+<p>上記3種の設定は XLIFF (XML Localization Interchange File Format) 形式での書き出しが可能。このファイルを設定して再度読み込めば、元の設定を更新することも可能らしい。翻訳のみ他の人にお願いするときに便利っぽい。</p>
+</div></div></div></div></div></body></html>

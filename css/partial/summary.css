@@ -4,18 +4,19 @@
   border-top: 1px solid splitter-color-dark;
 }
 .summary__title {
-  margin: 24px 0 12px;
-  min-height: 4.5rem;
+  margin: 1rem 0 12px;
+  min-height: 3.5rem;
 }
 .summary__title a {
   color: primary-color-dark;
+  font-weight: bold;
 }
 .summary__title a:hover {
   color: text-link-color-hovered;
 }
 .summary__desc {
   max-height: 4.5rem;
-  margin: 0.75rem 0 1.5rem;
+  margin: 0.75rem 0 1rem;
   overflow: hidden;
 }
 .summary__desc * {

@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://github.com/mountainboooy.github.io/"/>
+  <link href="https://mountainboy.me/"/>
   <updated>2018-10-28T04:30:23.535Z</updated>
-  <id>https://github.com/mountainboooy.github.io/</id>
+  <id>https://mountainboy.me/</id>
   
   <author>
     <name>Takeru Yoshihara</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>自作の「新幹線予約サービス」リニューアル</title>
-    <link href="https://github.com/mountainboooy.github.io/2017/01/27/1605/"/>
-    <id>https://github.com/mountainboooy.github.io/2017/01/27/1605/</id>
+    <link href="https://mountainboy.me/2017/01/27/1605/"/>
+    <id>https://mountainboy.me/2017/01/27/1605/</id>
     <published>2017-01-26T15:39:09.000Z</published>
     <updated>2018-10-28T04:30:23.535Z</updated>
     
@@ -29,71 +29,71 @@
     
     </summary>
     
-      <category term="デザイン" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="ブログ" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/"/>
+      <category term="ブログ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/"/>
     
-      <category term="ライフ" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E3%83%A9%E3%82%A4%E3%83%95/"/>
+      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E3%83%A9%E3%82%A4%E3%83%95/"/>
     
-      <category term="旅" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
+      <category term="旅" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
     
-      <category term="開発" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/%E9%96%8B%E7%99%BA/"/>
+      <category term="開発" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/%E9%96%8B%E7%99%BA/"/>
     
     
-      <category term="Design" scheme="https://github.com/mountainboooy.github.io/tags/Design/"/>
+      <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
     
-      <category term="大阪" scheme="https://github.com/mountainboooy.github.io/tags/%E5%A4%A7%E9%98%AA/"/>
+      <category term="大阪" scheme="https://mountainboy.me/tags/%E5%A4%A7%E9%98%AA/"/>
     
-      <category term="webサービス" scheme="https://github.com/mountainboooy.github.io/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
+      <category term="webサービス" scheme="https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
     
-      <category term="京都" scheme="https://github.com/mountainboooy.github.io/tags/%E4%BA%AC%E9%83%BD/"/>
+      <category term="京都" scheme="https://mountainboy.me/tags/%E4%BA%AC%E9%83%BD/"/>
     
-      <category term="UIデザイン" scheme="https://github.com/mountainboooy.github.io/tags/UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="UIデザイン" scheme="https://mountainboy.me/tags/UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="新幹線" scheme="https://github.com/mountainboooy.github.io/tags/%E6%96%B0%E5%B9%B9%E7%B7%9A/"/>
+      <category term="新幹線" scheme="https://mountainboy.me/tags/%E6%96%B0%E5%B9%B9%E7%B7%9A/"/>
     
   </entry>
   
   <entry>
     <title>日付選択のUIの調査</title>
-    <link href="https://github.com/mountainboooy.github.io/2016/09/23/1589/"/>
-    <id>https://github.com/mountainboooy.github.io/2016/09/23/1589/</id>
+    <link href="https://mountainboy.me/2016/09/23/1589/"/>
+    <id>https://mountainboy.me/2016/09/23/1589/</id>
     <published>2016-09-23T11:04:57.000Z</published>
     <updated>2018-10-28T04:30:54.063Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;先日作った&lt;a href=&quot;http://mountainboy.me/2016/09/20/%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%97%85%E8%A1%8C%E8%80%85%E5%90%91%E3%81%91%E3%81%AB%E6%96%B0%E5%B9%B9%E7%B7%9A%E3%81%AE%E4%BA%88%E7%B4%84%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E4%BD%9C%E3%81%A3/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;新幹線の予約アプリ&lt;/a&gt;で日付選択のためにinputタグのtype=’date’を使っていたのだが、かなりの環境で表示されていないことがわかった。他の方法を考えることにした。シンプルなデザインでモバイルフレンドリなものを探す。ところで他のサービスはどんな手法を使ってるのだろうか。
+      &lt;p&gt;先日作った&lt;a href=&quot;http://mountainboy.me/2016/09/20/%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%97%85%E8%A1%8C%E8%80%85%E5%90%91%E3%81%91%E3%81%AB%E6%96%B0%E5%B9%B9%E7%B7%9A%E3%81%AE%E4%BA%88%E7%B4%84%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E4%BD%9C%E3%81%A3/&quot;&gt;新幹線の予約アプリ&lt;/a&gt;で日付選択のためにinputタグのtype=’date’を使っていたのだが、かなりの環境で表示されていないことがわかった。他の方法を考えることにした。シンプルなデザインでモバイルフレンドリなものを探す。ところで他のサービスはどんな手法を使ってるのだろうか。
     
     </summary>
     
-      <category term="デザイン" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="ブログ" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/"/>
+      <category term="ブログ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/"/>
     
-      <category term="開発" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E9%96%8B%E7%99%BA/"/>
+      <category term="開発" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E9%96%8B%E7%99%BA/"/>
     
     
-      <category term="webサービス" scheme="https://github.com/mountainboooy.github.io/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
+      <category term="webサービス" scheme="https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
     
-      <category term="airbnb" scheme="https://github.com/mountainboooy.github.io/tags/airbnb/"/>
+      <category term="airbnb" scheme="https://mountainboy.me/tags/airbnb/"/>
     
-      <category term="datepicker" scheme="https://github.com/mountainboooy.github.io/tags/datepicker/"/>
+      <category term="datepicker" scheme="https://mountainboy.me/tags/datepicker/"/>
     
-      <category term="form" scheme="https://github.com/mountainboooy.github.io/tags/form/"/>
+      <category term="form" scheme="https://mountainboy.me/tags/form/"/>
     
-      <category term="javascript" scheme="https://github.com/mountainboooy.github.io/tags/javascript/"/>
+      <category term="javascript" scheme="https://mountainboy.me/tags/javascript/"/>
     
-      <category term="jquery" scheme="https://github.com/mountainboooy.github.io/tags/jquery/"/>
+      <category term="jquery" scheme="https://mountainboy.me/tags/jquery/"/>
     
-      <category term="web" scheme="https://github.com/mountainboooy.github.io/tags/web/"/>
+      <category term="web" scheme="https://mountainboy.me/tags/web/"/>
     
   </entry>
   
   <entry>
     <title>外国人旅行者向けに新幹線の予約サービスを作ってみた</title>
-    <link href="https://github.com/mountainboooy.github.io/2016/09/20/1579/"/>
-    <id>https://github.com/mountainboooy.github.io/2016/09/20/1579/</id>
+    <link href="https://mountainboy.me/2016/09/20/1579/"/>
+    <id>https://mountainboy.me/2016/09/20/1579/</id>
     <published>2016-09-20T14:13:17.000Z</published>
     <updated>2018-10-28T04:13:37.352Z</updated>
     
@@ -103,31 +103,31 @@
     
     </summary>
     
-      <category term="デザイン" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="ブログ" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/"/>
+      <category term="ブログ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/"/>
     
-      <category term="開発" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E9%96%8B%E7%99%BA/"/>
+      <category term="開発" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E9%96%8B%E7%99%BA/"/>
     
     
-      <category term="webサービス" scheme="https://github.com/mountainboooy.github.io/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
+      <category term="webサービス" scheme="https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
     
-      <category term="リリース" scheme="https://github.com/mountainboooy.github.io/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/"/>
+      <category term="リリース" scheme="https://mountainboy.me/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/"/>
     
-      <category term="新幹線" scheme="https://github.com/mountainboooy.github.io/tags/%E6%96%B0%E5%B9%B9%E7%B7%9A/"/>
+      <category term="新幹線" scheme="https://mountainboy.me/tags/%E6%96%B0%E5%B9%B9%E7%B7%9A/"/>
     
-      <category term="shinkansen" scheme="https://github.com/mountainboooy.github.io/tags/shinkansen/"/>
+      <category term="shinkansen" scheme="https://mountainboy.me/tags/shinkansen/"/>
     
-      <category term="travel" scheme="https://github.com/mountainboooy.github.io/tags/travel/"/>
+      <category term="travel" scheme="https://mountainboy.me/tags/travel/"/>
     
-      <category term="旅行" scheme="https://github.com/mountainboooy.github.io/tags/%E6%97%85%E8%A1%8C/"/>
+      <category term="旅行" scheme="https://mountainboy.me/tags/%E6%97%85%E8%A1%8C/"/>
     
   </entry>
   
   <entry>
     <title>ウルトラライト仕様のバックパックを自作した</title>
-    <link href="https://github.com/mountainboooy.github.io/2015/12/26/1566/"/>
-    <id>https://github.com/mountainboooy.github.io/2015/12/26/1566/</id>
+    <link href="https://mountainboy.me/2015/12/26/1566/"/>
+    <id>https://mountainboy.me/2015/12/26/1566/</id>
     <published>2015-12-26T02:31:03.000Z</published>
     <updated>2018-10-28T04:25:42.841Z</updated>
     
@@ -137,27 +137,27 @@
     
     </summary>
     
-      <category term="旅" scheme="https://github.com/mountainboooy.github.io/categories/%E6%97%85/"/>
+      <category term="旅" scheme="https://mountainboy.me/categories/%E6%97%85/"/>
     
     
-      <category term="myog" scheme="https://github.com/mountainboooy.github.io/tags/myog/"/>
+      <category term="myog" scheme="https://mountainboy.me/tags/myog/"/>
     
-      <category term="outdoor" scheme="https://github.com/mountainboooy.github.io/tags/outdoor/"/>
+      <category term="outdoor" scheme="https://mountainboy.me/tags/outdoor/"/>
     
-      <category term="Ul" scheme="https://github.com/mountainboooy.github.io/tags/Ul/"/>
+      <category term="Ul" scheme="https://mountainboy.me/tags/Ul/"/>
     
-      <category term="ultra light" scheme="https://github.com/mountainboooy.github.io/tags/ultra-light/"/>
+      <category term="ultra light" scheme="https://mountainboy.me/tags/ultra-light/"/>
     
-      <category term="アウトドア" scheme="https://github.com/mountainboooy.github.io/tags/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2/"/>
+      <category term="アウトドア" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2/"/>
     
-      <category term="ウルトラライト" scheme="https://github.com/mountainboooy.github.io/tags/%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%83%A9%E3%82%A4%E3%83%88/"/>
+      <category term="ウルトラライト" scheme="https://mountainboy.me/tags/%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%83%A9%E3%82%A4%E3%83%88/"/>
     
   </entry>
   
   <entry>
     <title>UI検証 : プロダクトのランディングページ</title>
-    <link href="https://github.com/mountainboooy.github.io/2015/05/28/1554/"/>
-    <id>https://github.com/mountainboooy.github.io/2015/05/28/1554/</id>
+    <link href="https://mountainboy.me/2015/05/28/1554/"/>
+    <id>https://mountainboy.me/2015/05/28/1554/</id>
     <published>2015-05-27T15:15:22.000Z</published>
     <updated>2018-10-28T04:11:46.352Z</updated>
     
@@ -167,27 +167,27 @@
     
     </summary>
     
-      <category term="デザイン" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="開発" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E9%96%8B%E7%99%BA/"/>
+      <category term="開発" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E9%96%8B%E7%99%BA/"/>
     
     
-      <category term="Design" scheme="https://github.com/mountainboooy.github.io/tags/Design/"/>
+      <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
     
-      <category term="デザイン" scheme="https://github.com/mountainboooy.github.io/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="デザイン" scheme="https://mountainboy.me/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="webサービス" scheme="https://github.com/mountainboooy.github.io/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
+      <category term="webサービス" scheme="https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
     
-      <category term="UI Design" scheme="https://github.com/mountainboooy.github.io/tags/UI-Design/"/>
+      <category term="UI Design" scheme="https://mountainboy.me/tags/UI-Design/"/>
     
-      <category term="UIデザイン" scheme="https://github.com/mountainboooy.github.io/tags/UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="UIデザイン" scheme="https://mountainboy.me/tags/UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
   </entry>
   
   <entry>
     <title>プロトタイプツールのHype 3が超便利</title>
-    <link href="https://github.com/mountainboooy.github.io/2015/05/24/1526/"/>
-    <id>https://github.com/mountainboooy.github.io/2015/05/24/1526/</id>
+    <link href="https://mountainboy.me/2015/05/24/1526/"/>
+    <id>https://mountainboy.me/2015/05/24/1526/</id>
     <published>2015-05-24T14:02:55.000Z</published>
     <updated>2018-10-28T04:13:09.771Z</updated>
     
@@ -197,31 +197,31 @@
     
     </summary>
     
-      <category term="デザイン" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="開発" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E9%96%8B%E7%99%BA/"/>
+      <category term="開発" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E9%96%8B%E7%99%BA/"/>
     
     
-      <category term="Design" scheme="https://github.com/mountainboooy.github.io/tags/Design/"/>
+      <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
     
-      <category term="UI Design" scheme="https://github.com/mountainboooy.github.io/tags/UI-Design/"/>
+      <category term="UI Design" scheme="https://mountainboy.me/tags/UI-Design/"/>
     
-      <category term="UIデザイン" scheme="https://github.com/mountainboooy.github.io/tags/UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="UIデザイン" scheme="https://mountainboy.me/tags/UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="Hype" scheme="https://github.com/mountainboooy.github.io/tags/Hype/"/>
+      <category term="Hype" scheme="https://mountainboy.me/tags/Hype/"/>
     
-      <category term="Tumult" scheme="https://github.com/mountainboooy.github.io/tags/Tumult/"/>
+      <category term="Tumult" scheme="https://mountainboy.me/tags/Tumult/"/>
     
-      <category term="UI" scheme="https://github.com/mountainboooy.github.io/tags/UI/"/>
+      <category term="UI" scheme="https://mountainboy.me/tags/UI/"/>
     
-      <category term="モック" scheme="https://github.com/mountainboooy.github.io/tags/%E3%83%A2%E3%83%83%E3%82%AF/"/>
+      <category term="モック" scheme="https://mountainboy.me/tags/%E3%83%A2%E3%83%83%E3%82%AF/"/>
     
   </entry>
   
   <entry>
     <title>UI考察：feedly</title>
-    <link href="https://github.com/mountainboooy.github.io/2015/05/12/1517/"/>
-    <id>https://github.com/mountainboooy.github.io/2015/05/12/1517/</id>
+    <link href="https://mountainboy.me/2015/05/12/1517/"/>
+    <id>https://mountainboy.me/2015/05/12/1517/</id>
     <published>2015-05-11T15:35:28.000Z</published>
     <updated>2018-10-28T04:11:52.630Z</updated>
     
@@ -231,29 +231,29 @@
     
     </summary>
     
-      <category term="デザイン" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="開発" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E9%96%8B%E7%99%BA/"/>
+      <category term="開発" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E9%96%8B%E7%99%BA/"/>
     
     
-      <category term="Design" scheme="https://github.com/mountainboooy.github.io/tags/Design/"/>
+      <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
     
-      <category term="webサービス" scheme="https://github.com/mountainboooy.github.io/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
+      <category term="webサービス" scheme="https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
     
-      <category term="UI Design" scheme="https://github.com/mountainboooy.github.io/tags/UI-Design/"/>
+      <category term="UI Design" scheme="https://mountainboy.me/tags/UI-Design/"/>
     
-      <category term="UIデザイン" scheme="https://github.com/mountainboooy.github.io/tags/UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="UIデザイン" scheme="https://mountainboy.me/tags/UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="feedly" scheme="https://github.com/mountainboooy.github.io/tags/feedly/"/>
+      <category term="feedly" scheme="https://mountainboy.me/tags/feedly/"/>
     
-      <category term="アプリ" scheme="https://github.com/mountainboooy.github.io/tags/%E3%82%A2%E3%83%97%E3%83%AA/"/>
+      <category term="アプリ" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%97%E3%83%AA/"/>
     
   </entry>
   
   <entry>
     <title>今日オープンの蔦屋書店大阪に行った</title>
-    <link href="https://github.com/mountainboooy.github.io/2015/05/09/1509/"/>
-    <id>https://github.com/mountainboooy.github.io/2015/05/09/1509/</id>
+    <link href="https://mountainboy.me/2015/05/09/1509/"/>
+    <id>https://mountainboy.me/2015/05/09/1509/</id>
     <published>2015-05-09T02:30:47.000Z</published>
     <updated>2018-10-28T04:30:00.914Z</updated>
     
@@ -263,25 +263,25 @@
     
     </summary>
     
-      <category term="デザイン" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="ライフ" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/"/>
+      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/"/>
     
     
-      <category term="大阪" scheme="https://github.com/mountainboooy.github.io/tags/%E5%A4%A7%E9%98%AA/"/>
+      <category term="大阪" scheme="https://mountainboy.me/tags/%E5%A4%A7%E9%98%AA/"/>
     
-      <category term="本" scheme="https://github.com/mountainboooy.github.io/tags/%E6%9C%AC/"/>
+      <category term="本" scheme="https://mountainboy.me/tags/%E6%9C%AC/"/>
     
-      <category term="蔦屋書店" scheme="https://github.com/mountainboooy.github.io/tags/%E8%94%A6%E5%B1%8B%E6%9B%B8%E5%BA%97/"/>
+      <category term="蔦屋書店" scheme="https://mountainboy.me/tags/%E8%94%A6%E5%B1%8B%E6%9B%B8%E5%BA%97/"/>
     
-      <category term="買い物" scheme="https://github.com/mountainboooy.github.io/tags/%E8%B2%B7%E3%81%84%E7%89%A9/"/>
+      <category term="買い物" scheme="https://mountainboy.me/tags/%E8%B2%B7%E3%81%84%E7%89%A9/"/>
     
   </entry>
   
   <entry>
     <title>UI考察：slack</title>
-    <link href="https://github.com/mountainboooy.github.io/2015/05/09/1496/"/>
-    <id>https://github.com/mountainboooy.github.io/2015/05/09/1496/</id>
+    <link href="https://mountainboy.me/2015/05/09/1496/"/>
+    <id>https://mountainboy.me/2015/05/09/1496/</id>
     <published>2015-05-08T15:08:30.000Z</published>
     <updated>2018-10-28T04:23:33.452Z</updated>
     
@@ -291,25 +291,25 @@
     
     </summary>
     
-      <category term="デザイン" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="ライフ" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/"/>
+      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/"/>
     
-      <category term="開発" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/%E9%96%8B%E7%99%BA/"/>
+      <category term="開発" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/%E9%96%8B%E7%99%BA/"/>
     
     
-      <category term="Design" scheme="https://github.com/mountainboooy.github.io/tags/Design/"/>
+      <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
     
-      <category term="UI Design" scheme="https://github.com/mountainboooy.github.io/tags/UI-Design/"/>
+      <category term="UI Design" scheme="https://mountainboy.me/tags/UI-Design/"/>
     
-      <category term="slack UIデザイン" scheme="https://github.com/mountainboooy.github.io/tags/slack-UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="slack UIデザイン" scheme="https://mountainboy.me/tags/slack-UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
   </entry>
   
   <entry>
     <title>情報ソースをまとめておく</title>
-    <link href="https://github.com/mountainboooy.github.io/2015/05/06/1459/"/>
-    <id>https://github.com/mountainboooy.github.io/2015/05/06/1459/</id>
+    <link href="https://mountainboy.me/2015/05/06/1459/"/>
+    <id>https://mountainboy.me/2015/05/06/1459/</id>
     <published>2015-05-06T13:43:03.000Z</published>
     <updated>2018-10-28T04:14:01.503Z</updated>
     
@@ -319,29 +319,29 @@
     
     </summary>
     
-      <category term="デザイン" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="ライフ" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/"/>
+      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/"/>
     
-      <category term="開発" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/%E9%96%8B%E7%99%BA/"/>
+      <category term="開発" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/%E9%96%8B%E7%99%BA/"/>
     
     
-      <category term="feedly" scheme="https://github.com/mountainboooy.github.io/tags/feedly/"/>
+      <category term="feedly" scheme="https://mountainboy.me/tags/feedly/"/>
     
-      <category term="slack" scheme="https://github.com/mountainboooy.github.io/tags/slack/"/>
+      <category term="slack" scheme="https://mountainboy.me/tags/slack/"/>
     
-      <category term="StackExchange" scheme="https://github.com/mountainboooy.github.io/tags/StackExchange/"/>
+      <category term="StackExchange" scheme="https://mountainboy.me/tags/StackExchange/"/>
     
-      <category term="効率化" scheme="https://github.com/mountainboooy.github.io/tags/%E5%8A%B9%E7%8E%87%E5%8C%96/"/>
+      <category term="効率化" scheme="https://mountainboy.me/tags/%E5%8A%B9%E7%8E%87%E5%8C%96/"/>
     
-      <category term="情報" scheme="https://github.com/mountainboooy.github.io/tags/%E6%83%85%E5%A0%B1/"/>
+      <category term="情報" scheme="https://mountainboy.me/tags/%E6%83%85%E5%A0%B1/"/>
     
   </entry>
   
   <entry>
     <title>Self Sizing Cells 選択時にセルの位置がずれてしまう問題を解決</title>
-    <link href="https://github.com/mountainboooy.github.io/2015/04/25/1435/"/>
-    <id>https://github.com/mountainboooy.github.io/2015/04/25/1435/</id>
+    <link href="https://mountainboy.me/2015/04/25/1435/"/>
+    <id>https://mountainboy.me/2015/04/25/1435/</id>
     <published>2015-04-24T15:52:13.000Z</published>
     <updated>2018-10-28T04:11:24.395Z</updated>
     
@@ -351,23 +351,23 @@
     
     </summary>
     
-      <category term="開発" scheme="https://github.com/mountainboooy.github.io/categories/%E9%96%8B%E7%99%BA/"/>
+      <category term="開発" scheme="https://mountainboy.me/categories/%E9%96%8B%E7%99%BA/"/>
     
     
-      <category term="iOS" scheme="https://github.com/mountainboooy.github.io/tags/iOS/"/>
+      <category term="iOS" scheme="https://mountainboy.me/tags/iOS/"/>
     
-      <category term="iOS8" scheme="https://github.com/mountainboooy.github.io/tags/iOS8/"/>
+      <category term="iOS8" scheme="https://mountainboy.me/tags/iOS8/"/>
     
-      <category term="swift" scheme="https://github.com/mountainboooy.github.io/tags/swift/"/>
+      <category term="swift" scheme="https://mountainboy.me/tags/swift/"/>
     
-      <category term="UITableView" scheme="https://github.com/mountainboooy.github.io/tags/UITableView/"/>
+      <category term="UITableView" scheme="https://mountainboy.me/tags/UITableView/"/>
     
   </entry>
   
   <entry>
     <title>Xcode6でのローカライズの流れをメモ</title>
-    <link href="https://github.com/mountainboooy.github.io/2015/04/23/1424/"/>
-    <id>https://github.com/mountainboooy.github.io/2015/04/23/1424/</id>
+    <link href="https://mountainboy.me/2015/04/23/1424/"/>
+    <id>https://mountainboy.me/2015/04/23/1424/</id>
     <published>2015-04-23T14:20:13.000Z</published>
     <updated>2018-10-28T04:24:59.846Z</updated>
     
@@ -377,19 +377,19 @@
     
     </summary>
     
-      <category term="開発" scheme="https://github.com/mountainboooy.github.io/categories/%E9%96%8B%E7%99%BA/"/>
+      <category term="開発" scheme="https://mountainboy.me/categories/%E9%96%8B%E7%99%BA/"/>
     
     
-      <category term="iOS" scheme="https://github.com/mountainboooy.github.io/tags/iOS/"/>
+      <category term="iOS" scheme="https://mountainboy.me/tags/iOS/"/>
     
-      <category term="Xcode6" scheme="https://github.com/mountainboooy.github.io/tags/Xcode6/"/>
+      <category term="Xcode6" scheme="https://mountainboy.me/tags/Xcode6/"/>
     
   </entry>
   
   <entry>
     <title>UI考察：Alfred, Flashlight</title>
-    <link href="https://github.com/mountainboooy.github.io/2015/04/22/1414/"/>
-    <id>https://github.com/mountainboooy.github.io/2015/04/22/1414/</id>
+    <link href="https://mountainboy.me/2015/04/22/1414/"/>
+    <id>https://mountainboy.me/2015/04/22/1414/</id>
     <published>2015-04-21T15:19:37.000Z</published>
     <updated>2018-10-28T04:11:49.947Z</updated>
     
@@ -399,31 +399,31 @@
     
     </summary>
     
-      <category term="デザイン" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="ブログ" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/"/>
+      <category term="ブログ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/"/>
     
-      <category term="開発" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E9%96%8B%E7%99%BA/"/>
+      <category term="開発" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E9%96%8B%E7%99%BA/"/>
     
     
-      <category term="Design" scheme="https://github.com/mountainboooy.github.io/tags/Design/"/>
+      <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
     
-      <category term="デザイン" scheme="https://github.com/mountainboooy.github.io/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="デザイン" scheme="https://mountainboy.me/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="UI Design" scheme="https://github.com/mountainboooy.github.io/tags/UI-Design/"/>
+      <category term="UI Design" scheme="https://mountainboy.me/tags/UI-Design/"/>
     
-      <category term="UIデザイン" scheme="https://github.com/mountainboooy.github.io/tags/UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="UIデザイン" scheme="https://mountainboy.me/tags/UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="Alfred" scheme="https://github.com/mountainboooy.github.io/tags/Alfred/"/>
+      <category term="Alfred" scheme="https://mountainboy.me/tags/Alfred/"/>
     
-      <category term="Flashlight" scheme="https://github.com/mountainboooy.github.io/tags/Flashlight/"/>
+      <category term="Flashlight" scheme="https://mountainboy.me/tags/Flashlight/"/>
     
   </entry>
   
   <entry>
     <title>UIデザイン用のモックアップツールを選ぶ</title>
-    <link href="https://github.com/mountainboooy.github.io/2015/04/19/1408/"/>
-    <id>https://github.com/mountainboooy.github.io/2015/04/19/1408/</id>
+    <link href="https://mountainboy.me/2015/04/19/1408/"/>
+    <id>https://mountainboy.me/2015/04/19/1408/</id>
     <published>2015-04-19T02:28:44.000Z</published>
     <updated>2018-10-28T04:11:44.085Z</updated>
     
@@ -433,31 +433,31 @@
     
     </summary>
     
-      <category term="デザイン" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="ブログ" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/"/>
+      <category term="ブログ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/"/>
     
-      <category term="開発" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E9%96%8B%E7%99%BA/"/>
+      <category term="開発" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E9%96%8B%E7%99%BA/"/>
     
     
-      <category term="Design" scheme="https://github.com/mountainboooy.github.io/tags/Design/"/>
+      <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
     
-      <category term="デザイン" scheme="https://github.com/mountainboooy.github.io/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="デザイン" scheme="https://mountainboy.me/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="AfterEffects" scheme="https://github.com/mountainboooy.github.io/tags/AfterEffects/"/>
+      <category term="AfterEffects" scheme="https://mountainboy.me/tags/AfterEffects/"/>
     
-      <category term="Pixate" scheme="https://github.com/mountainboooy.github.io/tags/Pixate/"/>
+      <category term="Pixate" scheme="https://mountainboy.me/tags/Pixate/"/>
     
-      <category term="UI Design" scheme="https://github.com/mountainboooy.github.io/tags/UI-Design/"/>
+      <category term="UI Design" scheme="https://mountainboy.me/tags/UI-Design/"/>
     
-      <category term="UIデザイン" scheme="https://github.com/mountainboooy.github.io/tags/UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="UIデザイン" scheme="https://mountainboy.me/tags/UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
   </entry>
   
   <entry>
     <title>フォーリーアーティスト</title>
-    <link href="https://github.com/mountainboooy.github.io/2015/04/18/1405/"/>
-    <id>https://github.com/mountainboooy.github.io/2015/04/18/1405/</id>
+    <link href="https://mountainboy.me/2015/04/18/1405/"/>
+    <id>https://mountainboy.me/2015/04/18/1405/</id>
     <published>2015-04-18T14:50:11.000Z</published>
     <updated>2018-10-28T04:13:06.932Z</updated>
     
@@ -467,27 +467,27 @@
     
     </summary>
     
-      <category term="デザイン" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="ブログ" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/"/>
+      <category term="ブログ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/"/>
     
-      <category term="ライフ" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E3%83%A9%E3%82%A4%E3%83%95/"/>
+      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E3%83%A9%E3%82%A4%E3%83%95/"/>
     
     
-      <category term="Design" scheme="https://github.com/mountainboooy.github.io/tags/Design/"/>
+      <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
     
-      <category term="デザイン" scheme="https://github.com/mountainboooy.github.io/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="デザイン" scheme="https://mountainboy.me/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="Movie" scheme="https://github.com/mountainboooy.github.io/tags/Movie/"/>
+      <category term="Movie" scheme="https://mountainboy.me/tags/Movie/"/>
     
-      <category term="映画" scheme="https://github.com/mountainboooy.github.io/tags/%E6%98%A0%E7%94%BB/"/>
+      <category term="映画" scheme="https://mountainboy.me/tags/%E6%98%A0%E7%94%BB/"/>
     
   </entry>
   
   <entry>
     <title>Amazon Mobile Associates APIについてちょっと調べた</title>
-    <link href="https://github.com/mountainboooy.github.io/2014/12/07/1386/"/>
-    <id>https://github.com/mountainboooy.github.io/2014/12/07/1386/</id>
+    <link href="https://mountainboy.me/2014/12/07/1386/"/>
+    <id>https://mountainboy.me/2014/12/07/1386/</id>
     <published>2014-12-07T04:44:46.000Z</published>
     <updated>2018-10-28T04:33:24.844Z</updated>
     
@@ -497,31 +497,31 @@
     
     </summary>
     
-      <category term="開発" scheme="https://github.com/mountainboooy.github.io/categories/%E9%96%8B%E7%99%BA/"/>
+      <category term="開発" scheme="https://mountainboy.me/categories/%E9%96%8B%E7%99%BA/"/>
     
     
-      <category term="API" scheme="https://github.com/mountainboooy.github.io/tags/API/"/>
+      <category term="API" scheme="https://mountainboy.me/tags/API/"/>
     
-      <category term="Amazon" scheme="https://github.com/mountainboooy.github.io/tags/Amazon/"/>
+      <category term="Amazon" scheme="https://mountainboy.me/tags/Amazon/"/>
     
-      <category term="Amazon Mobile Associates API" scheme="https://github.com/mountainboooy.github.io/tags/Amazon-Mobile-Associates-API/"/>
+      <category term="Amazon Mobile Associates API" scheme="https://mountainboy.me/tags/Amazon-Mobile-Associates-API/"/>
     
-      <category term="Android" scheme="https://github.com/mountainboooy.github.io/tags/Android/"/>
+      <category term="Android" scheme="https://mountainboy.me/tags/Android/"/>
     
-      <category term="EC" scheme="https://github.com/mountainboooy.github.io/tags/EC/"/>
+      <category term="EC" scheme="https://mountainboy.me/tags/EC/"/>
     
-      <category term="iOS" scheme="https://github.com/mountainboooy.github.io/tags/iOS/"/>
+      <category term="iOS" scheme="https://mountainboy.me/tags/iOS/"/>
     
-      <category term="webサービス" scheme="https://github.com/mountainboooy.github.io/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
+      <category term="webサービス" scheme="https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
     
-      <category term="アイデア" scheme="https://github.com/mountainboooy.github.io/tags/%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/"/>
+      <category term="アイデア" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/"/>
     
   </entry>
   
   <entry>
     <title>John Muir Trail　感想</title>
-    <link href="https://github.com/mountainboooy.github.io/2014/12/06/1357/"/>
-    <id>https://github.com/mountainboooy.github.io/2014/12/06/1357/</id>
+    <link href="https://mountainboy.me/2014/12/06/1357/"/>
+    <id>https://mountainboy.me/2014/12/06/1357/</id>
     <published>2014-12-06T09:22:12.000Z</published>
     <updated>2018-10-28T04:11:17.735Z</updated>
     
@@ -531,27 +531,27 @@
     
     </summary>
     
-      <category term="ライフ" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%A9%E3%82%A4%E3%83%95/"/>
+      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/"/>
     
-      <category term="旅" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
+      <category term="旅" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
     
     
-      <category term="John Muir Trail" scheme="https://github.com/mountainboooy.github.io/tags/John-Muir-Trail/"/>
+      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
     
-      <category term="ジョン・ミューア・トレイル" scheme="https://github.com/mountainboooy.github.io/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
+      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
-      <category term="ロングトレイル" scheme="https://github.com/mountainboooy.github.io/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
+      <category term="ロングトレイル" scheme="https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
-      <category term="旅" scheme="https://github.com/mountainboooy.github.io/tags/%E6%97%85/"/>
+      <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
     
-      <category term="登山" scheme="https://github.com/mountainboooy.github.io/tags/%E7%99%BB%E5%B1%B1/"/>
+      <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
     
   </entry>
   
   <entry>
     <title>John Muir Trail – Day 21　登頂</title>
-    <link href="https://github.com/mountainboooy.github.io/2014/11/29/1254/"/>
-    <id>https://github.com/mountainboooy.github.io/2014/11/29/1254/</id>
+    <link href="https://mountainboy.me/2014/11/29/1254/"/>
+    <id>https://mountainboy.me/2014/11/29/1254/</id>
     <published>2014-11-29T02:08:17.000Z</published>
     <updated>2018-10-28T04:21:29.967Z</updated>
     
@@ -562,25 +562,25 @@
     
     </summary>
     
-      <category term="ライフ" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%A9%E3%82%A4%E3%83%95/"/>
+      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/"/>
     
-      <category term="旅" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
+      <category term="旅" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
     
     
-      <category term="John Muir Trail" scheme="https://github.com/mountainboooy.github.io/tags/John-Muir-Trail/"/>
+      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
     
-      <category term="ジョン・ミューア・トレイル" scheme="https://github.com/mountainboooy.github.io/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
+      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
-      <category term="旅" scheme="https://github.com/mountainboooy.github.io/tags/%E6%97%85/"/>
+      <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
     
-      <category term="登山" scheme="https://github.com/mountainboooy.github.io/tags/%E7%99%BB%E5%B1%B1/"/>
+      <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
     
   </entry>
   
   <entry>
     <title>John Muir Trail – Day 20　コンサートホール</title>
-    <link href="https://github.com/mountainboooy.github.io/2014/11/27/1230/"/>
-    <id>https://github.com/mountainboooy.github.io/2014/11/27/1230/</id>
+    <link href="https://mountainboy.me/2014/11/27/1230/"/>
+    <id>https://mountainboy.me/2014/11/27/1230/</id>
     <published>2014-11-26T15:05:10.000Z</published>
     <updated>2018-10-28T04:21:25.265Z</updated>
     
@@ -591,27 +591,27 @@
     
     </summary>
     
-      <category term="ライフ" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%A9%E3%82%A4%E3%83%95/"/>
+      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/"/>
     
-      <category term="旅" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
+      <category term="旅" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
     
     
-      <category term="John Muir Trail" scheme="https://github.com/mountainboooy.github.io/tags/John-Muir-Trail/"/>
+      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
     
-      <category term="ジョン・ミューア・トレイル" scheme="https://github.com/mountainboooy.github.io/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
+      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
-      <category term="ロングトレイル" scheme="https://github.com/mountainboooy.github.io/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
+      <category term="ロングトレイル" scheme="https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
-      <category term="旅" scheme="https://github.com/mountainboooy.github.io/tags/%E6%97%85/"/>
+      <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
     
-      <category term="登山" scheme="https://github.com/mountainboooy.github.io/tags/%E7%99%BB%E5%B1%B1/"/>
+      <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
     
   </entry>
   
   <entry>
     <title>John Muir Trail – Day 19　歩きながら考える</title>
-    <link href="https://github.com/mountainboooy.github.io/2014/11/26/1203/"/>
-    <id>https://github.com/mountainboooy.github.io/2014/11/26/1203/</id>
+    <link href="https://mountainboy.me/2014/11/26/1203/"/>
+    <id>https://mountainboy.me/2014/11/26/1203/</id>
     <published>2014-11-25T15:46:51.000Z</published>
     <updated>2018-10-28T04:21:15.725Z</updated>
     
@@ -622,20 +622,20 @@
     
     </summary>
     
-      <category term="デザイン" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="ライフ" scheme="https://github.com/mountainboooy.github.io/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/"/>
+      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/"/>
     
     
-      <category term="John Muir Trail" scheme="https://github.com/mountainboooy.github.io/tags/John-Muir-Trail/"/>
+      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
     
-      <category term="ジョン・ミューア・トレイル" scheme="https://github.com/mountainboooy.github.io/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
+      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
-      <category term="ロングトレイル" scheme="https://github.com/mountainboooy.github.io/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
+      <category term="ロングトレイル" scheme="https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
-      <category term="旅" scheme="https://github.com/mountainboooy.github.io/tags/%E6%97%85/"/>
+      <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
     
-      <category term="登山" scheme="https://github.com/mountainboooy.github.io/tags/%E7%99%BB%E5%B1%B1/"/>
+      <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
     
   </entry>
   

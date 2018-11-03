@@ -306,7 +306,7 @@ pre {
   grid-column: 1/span 12;
 }
 .post-title {
-  margin: 8px 0 12px;
+  margin: 16px 0 64px;
   font-weight: bold;
 }
 .post-tags {
@@ -314,7 +314,7 @@ pre {
   flex-flow: row wrap;
   justify-content: flex-start;
   align-items: flex-start;
-  margin: 0 -4px 32px;
+  margin: 0 -4px 24px;
 }
 .post-tag {
   margin: 4px;
@@ -413,6 +413,8 @@ pre {
   margin: 0 !important;
   font-size: 15px !important;
   font-weight: normal !important;
+  color: #002541 !important;
+  text-decoration: none !important;
 }
 .summary__tags {
   display: flex;

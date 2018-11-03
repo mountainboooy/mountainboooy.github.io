@@ -194,6 +194,11 @@ body {
   line-height: 1.5rem;
   -webkit-font-smoothing: antialiased;
 }
+@media (max-width: 575px) {
+  .container {
+    padding: 0 1rem;
+  }
+}
 h1 {
   font-size: 2rem;
   line-height: 2.5rem;
@@ -229,10 +234,6 @@ a:hover {
 }
 pre {
   margin: 24px 0;
-}
-.container {
-  max-width: 621px;
-  margin: 0 auto;
 }
 .btn {
   display: inline-block;
@@ -277,7 +278,32 @@ pre {
   flex-grow: 1;
 }
 .post {
-  padding: 52px 0 72px;
+  padding: 52px 0 0;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-column-gap: 40px;
+}
+.post .container {
+  max-width: 720px;
+  grid-column: 3/span 8;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .post .container {
+    grid-column: 2/span 10;
+  }
+}
+@media (min-width: 576px) and (max-width: 767px) {
+  .post .container {
+    grid-column: 2/span 10;
+  }
+}
+@media (max-width: 575px) {
+  .post .container {
+    grid-column: 1/span 12;
+  }
+}
+.post footer {
+  grid-column: 1/span 12;
 }
 .post-title {
   margin: 8px 0 12px;
@@ -352,6 +378,8 @@ pre {
 }
 .btn-tag:hover {
   background-color: #b1ddff;
+  color: #004a83;
+  text-decoration: underline;
 }
 .created {
   font-family: 'Roboto';
@@ -373,7 +401,7 @@ pre {
   font-weight: bold;
 }
 .summary__title a:hover {
-  color: #27a2ff;
+  text-decoration: underline;
 }
 .summary__desc {
   max-height: 4.5rem;

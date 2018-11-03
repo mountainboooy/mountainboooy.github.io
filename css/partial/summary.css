@@ -12,7 +12,7 @@
   font-weight: bold;
 }
 .summary__title a:hover {
-  color: text-link-color-hovered;
+  text-decoration: underline;
 }
 .summary__desc {
   max-height: 4.5rem;

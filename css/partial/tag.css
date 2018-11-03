@@ -8,4 +8,6 @@
 }
 .btn-tag:hover {
   background-color: tag-bg-color-hovered;
+  color: tag-text-color;
+  text-decoration: underline;
 }

@@ -1,5 +1,18 @@
 .post {
-  padding: 52px 0 72px;
+  padding: 52px 0 0;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-column-gap: 40px;
+}
+.post .container {
+  max-width: 720px;
+  grid-column: 3/span 8;
+responsive(md)
+responsive(sm)
+responsive(xs)
+}
+.post footer {
+  grid-column: 1/span 12;
 }
 .post-title {
   margin: 8px 0 12px;

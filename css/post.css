@@ -16,6 +16,7 @@ responsive(xs)
 }
 .post-title {
   margin: 8px 0 12px;
+  font-weight: bold;
 }
 .post-tags {
   display: flex;

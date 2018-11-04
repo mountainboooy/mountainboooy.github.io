@@ -136,14 +136,14 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/tags/iPhone/</loc>
+        <loc>https://mountainboy.me/tags/iOS7/</loc>
         <lastmod>2018-10-28T04:11:41.252Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://mountainboy.me/tags/iOS7/</loc>
+        <loc>https://mountainboy.me/tags/iPhone/</loc>
         <lastmod>2018-10-28T04:11:41.252Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -710,13 +710,6 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/tags/API/</loc>
-        <lastmod>2018-10-28T04:33:24.844Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://mountainboy.me/tags/Amazon/</loc>
         <lastmod>2018-10-28T04:33:24.844Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -732,6 +725,13 @@
 
     <url>
         <loc>https://mountainboy.me/tags/Android/</loc>
+        <lastmod>2018-10-28T04:33:24.844Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/API/</loc>
         <lastmod>2018-10-28T04:33:24.844Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

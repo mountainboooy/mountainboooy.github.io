@@ -40,11 +40,11 @@
       <category term="開発" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/%E9%96%8B%E7%99%BA/"/>
     
     
+      <category term="webサービス" scheme="https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
+    
       <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
     
       <category term="大阪" scheme="https://mountainboy.me/tags/%E5%A4%A7%E9%98%AA/"/>
-    
-      <category term="webサービス" scheme="https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
     
       <category term="京都" scheme="https://mountainboy.me/tags/%E4%BA%AC%E9%83%BD/"/>
     
@@ -172,11 +172,11 @@
       <category term="開発" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E9%96%8B%E7%99%BA/"/>
     
     
+      <category term="webサービス" scheme="https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
+    
       <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
     
       <category term="デザイン" scheme="https://mountainboy.me/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
-    
-      <category term="webサービス" scheme="https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
     
       <category term="UI Design" scheme="https://mountainboy.me/tags/UI-Design/"/>
     
@@ -236,9 +236,9 @@
       <category term="開発" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E9%96%8B%E7%99%BA/"/>
     
     
-      <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
-    
       <category term="webサービス" scheme="https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
+    
+      <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
     
       <category term="UI Design" scheme="https://mountainboy.me/tags/UI-Design/"/>
     
@@ -500,13 +500,13 @@
       <category term="開発" scheme="https://mountainboy.me/categories/%E9%96%8B%E7%99%BA/"/>
     
     
-      <category term="API" scheme="https://mountainboy.me/tags/API/"/>
-    
       <category term="Amazon" scheme="https://mountainboy.me/tags/Amazon/"/>
     
       <category term="Amazon Mobile Associates API" scheme="https://mountainboy.me/tags/Amazon-Mobile-Associates-API/"/>
     
       <category term="Android" scheme="https://mountainboy.me/tags/Android/"/>
+    
+      <category term="API" scheme="https://mountainboy.me/tags/API/"/>
     
       <category term="EC" scheme="https://mountainboy.me/tags/EC/"/>
     

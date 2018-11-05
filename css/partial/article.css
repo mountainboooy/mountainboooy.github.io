@@ -1,3 +1,7 @@
-img {
+.article {
+  font-size: 1rem;
+  line-height: 1.75rem;
+}
+.article img {
   max-width: 100%;
 }

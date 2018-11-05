@@ -224,7 +224,7 @@ h4 {
   font-weight: normal;
 }
 p {
-  margin: 1.5rem 0;
+  margin: 1.75rem 0;
 }
 a {
   color: #48b0ff;
@@ -456,7 +456,11 @@ pre {
 .summary-tag {
   margin: 4px;
 }
-img {
+.article {
+  font-size: 1rem;
+  line-height: 1.75rem;
+}
+.article img {
   max-width: 100%;
 }
 .header {

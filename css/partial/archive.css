@@ -1,15 +1,18 @@
 .archive {
   padding: 0 3rem;
+responsive(xs)
 }
 .archive > ul {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   grid-column-gap: 3rem;
+responsive(xs)
 }
 .archive > ul > li {
   grid-column: span 4;
 responsive(xl)
 responsive(md)
+responsive(xs)
 }
 .archive__page-nav {
   display: grid;

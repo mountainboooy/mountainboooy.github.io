@@ -2,6 +2,7 @@
   padding: 0 3rem;
   line-height: 4rem;
   display: flex;
+responsive(xs)
 }
 .header__main-title {
   font-size: 21px;

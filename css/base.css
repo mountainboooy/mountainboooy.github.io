@@ -73,16 +73,27 @@ pre {
 .align-center {
   text-align: center;
 }
+.hidden-xs {
+  display: block;
+responsive(xs)
+}
+.visible-xs {
+  display: none;
+responsive(xs)
+}
 .content {
   width: 100%;
   display: flex;
+responsive(xs)
 }
 .content-nav {
   width: 16rem;
   height: 100vh;
   background: #00f;
   flex-shrink: 0;
+responsive(xs)
 }
 .content-main {
   flex-grow: 1;
+responsive(xs)
 }

@@ -700,6 +700,10 @@ footer {
   align-items: center;
   -webkit-appearance: none;
   border: 0;
+  background: none;
+}
+.hero__btn:active {
+  background: rgba(0,0,0,0.3);
 }
 .hero__logo {
   width: 100%;
@@ -715,4 +719,51 @@ footer {
 }
 .hero__footer h4 {
   margin-bottom: 0.25rem;
+}
+.drawer {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.drawer .backdrop {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #000;
+  transition: opacity 300ms ease-out;
+  opacity: 0;
+}
+.drawer .backdrop.open {
+  opacity: 0.4;
+}
+.drawer ul {
+  width: 280px;
+  height: 100vh;
+  background: #fff;
+  transform: translateX(-400px);
+  transition: 300ms ease-out;
+  padding: 28px 0;
+}
+.drawer ul.open {
+  transform: translateX(0);
+}
+.drawer li {
+  font-size: 18px;
+  line-height: 56px;
+  font-weight: 600;
+  padding-left: 42px;
+  cursor: pointer;
+}
+.drawer li:hover {
+  background: rgba(0,0,0,0.05);
+}
+.drawer li a {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
 }

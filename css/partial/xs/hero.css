@@ -29,6 +29,10 @@
   align-items: center;
   -webkit-appearance: none;
   border: 0;
+  background: none;
+}
+.hero__btn:active {
+  background: rgba(0,0,0,0.3);
 }
 .hero__logo {
   width: 100%;

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mountainboy.me/"/>
-  <updated>2018-10-28T04:30:23.535Z</updated>
+  <updated>2018-11-09T14:53:43.193Z</updated>
   <id>https://mountainboy.me/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>UIのデザインとは法則を作る作業である</title>
+    <link href="https://mountainboy.me/2018/11/09/cjoa55ym2000kirn3qstddzm1/"/>
+    <id>https://mountainboy.me/2018/11/09/cjoa55ym2000kirn3qstddzm1/</id>
+    <published>2018-11-09T14:49:21.000Z</published>
+    <updated>2018-11-09T14:53:43.193Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;iOSのふらっとデザインがなぜうまく作用するのかを考えた。出てきた当初は使いづらかった。今はうまく使える。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+    
+    
+      <category term="Design UI" scheme="https://mountainboy.me/tags/Design-UI/"/>
+    
+  </entry>
   
   <entry>
     <title>自作の「新幹線予約サービス」リニューアル</title>
@@ -594,37 +614,6 @@
       <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/"/>
     
       <category term="旅" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
-    
-    
-      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
-    
-      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
-    
-      <category term="ロングトレイル" scheme="https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
-    
-      <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
-    
-      <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>John Muir Trail – Day 19　歩きながら考える</title>
-    <link href="https://mountainboy.me/2014/11/26/1203/"/>
-    <id>https://mountainboy.me/2014/11/26/1203/</id>
-    <published>2014-11-25T15:46:51.000Z</published>
-    <updated>2018-10-28T04:21:15.725Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;2014年9月14日  Vidette Meadow → Tyndall Creek&lt;br&gt;起床 6:30 気温 5℃&lt;/p&gt;
-&lt;p&gt;今日は最後のパス、フォレスターパス(4023m）に向けて1000m以上のupだ。これを超えれば残るはラスボス、マウントホイットニーだけ。ちなみにJMTの全行程でピーク（頂上）を踏むのは最後のマウントホイットニーだけなのだ。
-    
-    </summary>
-    
-      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
-    
-      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/"/>
     
     
       <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>

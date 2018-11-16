@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mountainboy.me/"/>
-  <updated>2018-11-09T14:53:43.193Z</updated>
+  <updated>2018-11-16T14:01:02.609Z</updated>
   <id>https://mountainboy.me/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>UIのデザインとは法則を作る作業である</title>
-    <link href="https://mountainboy.me/2018/11/09/cjoa55ym2000kirn3qstddzm1/"/>
-    <id>https://mountainboy.me/2018/11/09/cjoa55ym2000kirn3qstddzm1/</id>
+    <link href="https://mountainboy.me/2018/11/09/cjok3n5z0000pzkn3wsa8qtpb/"/>
+    <id>https://mountainboy.me/2018/11/09/cjok3n5z0000pzkn3wsa8qtpb/</id>
     <published>2018-11-09T14:49:21.000Z</published>
-    <updated>2018-11-09T14:53:43.193Z</updated>
+    <updated>2018-11-16T14:01:02.609Z</updated>
     
     <summary type="html">
     
@@ -32,7 +32,11 @@
       <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
     
-      <category term="Design UI" scheme="https://mountainboy.me/tags/Design-UI/"/>
+      <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
+    
+      <category term="UI" scheme="https://mountainboy.me/tags/UI/"/>
+    
+      <category term="iOS" scheme="https://mountainboy.me/tags/iOS/"/>
     
   </entry>
   
@@ -224,6 +228,8 @@
     
       <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
     
+      <category term="UI" scheme="https://mountainboy.me/tags/UI/"/>
+    
       <category term="UI Design" scheme="https://mountainboy.me/tags/UI-Design/"/>
     
       <category term="UIデザイン" scheme="https://mountainboy.me/tags/UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
@@ -231,8 +237,6 @@
       <category term="Hype" scheme="https://mountainboy.me/tags/Hype/"/>
     
       <category term="Tumult" scheme="https://mountainboy.me/tags/Tumult/"/>
-    
-      <category term="UI" scheme="https://mountainboy.me/tags/UI/"/>
     
       <category term="モック" scheme="https://mountainboy.me/tags/%E3%83%A2%E3%83%83%E3%82%AF/"/>
     
@@ -522,6 +526,8 @@
     
       <category term="API" scheme="https://mountainboy.me/tags/API/"/>
     
+      <category term="iOS" scheme="https://mountainboy.me/tags/iOS/"/>
+    
       <category term="Amazon" scheme="https://mountainboy.me/tags/Amazon/"/>
     
       <category term="Amazon Mobile Associates API" scheme="https://mountainboy.me/tags/Amazon-Mobile-Associates-API/"/>
@@ -529,8 +535,6 @@
       <category term="Android" scheme="https://mountainboy.me/tags/Android/"/>
     
       <category term="EC" scheme="https://mountainboy.me/tags/EC/"/>
-    
-      <category term="iOS" scheme="https://mountainboy.me/tags/iOS/"/>
     
       <category term="webサービス" scheme="https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
     

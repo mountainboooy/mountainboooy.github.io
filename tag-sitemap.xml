@@ -136,14 +136,14 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/tags/iOS7/</loc>
+        <loc>https://mountainboy.me/tags/iPhone/</loc>
         <lastmod>2018-10-28T04:11:41.252Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://mountainboy.me/tags/iPhone/</loc>
+        <loc>https://mountainboy.me/tags/iOS7/</loc>
         <lastmod>2018-10-28T04:11:41.252Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -235,13 +235,6 @@
 
     <url>
         <loc>https://mountainboy.me/tags/Tumult/</loc>
-        <lastmod>2018-10-28T04:13:09.771Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/UI/</loc>
         <lastmod>2018-10-28T04:13:09.771Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -577,13 +570,6 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/tags/Design/</loc>
-        <lastmod>2018-10-28T04:30:23.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://mountainboy.me/tags/UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</loc>
         <lastmod>2018-10-28T04:30:23.535Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -745,13 +731,6 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/tags/iOS/</loc>
-        <lastmod>2018-10-28T04:33:24.844Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/</loc>
         <lastmod>2018-10-28T04:33:24.844Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -801,8 +780,22 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/tags/Design-UI/</loc>
-        <lastmod>2018-11-09T14:53:43.193Z</lastmod>
+        <loc>https://mountainboy.me/tags/Design/</loc>
+        <lastmod>2018-11-16T14:01:02.609Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/UI/</loc>
+        <lastmod>2018-11-16T14:01:02.609Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/iOS/</loc>
+        <lastmod>2018-11-16T14:01:02.609Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

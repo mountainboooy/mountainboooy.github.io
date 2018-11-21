@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mountainboy.me/"/>
-  <updated>2018-11-19T10:39:16.795Z</updated>
+  <updated>2018-11-21T13:58:03.817Z</updated>
   <id>https://mountainboy.me/</id>
   
   <author>
@@ -17,9 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>理論と感覚の間にあるスイートスポット</title>
+    <link href="https://mountainboy.me/2018/11/21/cjor8h0t2006qy6n3hgwafam0/"/>
+    <id>https://mountainboy.me/2018/11/21/cjor8h0t2006qy6n3hgwafam0/</id>
+    <published>2018-11-21T13:28:39.000Z</published>
+    <updated>2018-11-21T13:58:03.817Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;理論的を詰めて作ったデザインが魅力的にならないことがある。どんなに「正しいもの」を作ったとしても、最終的に「良い印象」がなければゴールに辿りつくこはない。
+    
+    </summary>
+    
+    
+      <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Bootstrapのformのバリデーション</title>
-    <link href="https://mountainboy.me/2018/11/18/cjooebuz4000sctn3nwkcwskw/"/>
-    <id>https://mountainboy.me/2018/11/18/cjooebuz4000sctn3nwkcwskw/</id>
+    <link href="https://mountainboy.me/2018/11/18/cjor8h0pm000ky6n3mgc4uoum/"/>
+    <id>https://mountainboy.me/2018/11/18/cjor8h0pm000ky6n3mgc4uoum/</id>
     <published>2018-11-18T13:27:01.000Z</published>
     <updated>2018-11-19T10:39:16.795Z</updated>
     
@@ -40,8 +58,8 @@
   
   <entry>
     <title>UIのデザインとは法則を作る作業である</title>
-    <link href="https://mountainboy.me/2018/11/09/cjooebuz8000tctn3hklrmzf2/"/>
-    <id>https://mountainboy.me/2018/11/09/cjooebuz8000tctn3hklrmzf2/</id>
+    <link href="https://mountainboy.me/2018/11/09/cjor8h0pp000qy6n3ijnlrhlv/"/>
+    <id>https://mountainboy.me/2018/11/09/cjor8h0pp000qy6n3ijnlrhlv/</id>
     <published>2018-11-09T14:49:21.000Z</published>
     <updated>2018-11-16T14:01:02.609Z</updated>
     
@@ -589,36 +607,6 @@
       <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
       <category term="ロングトレイル" scheme="https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
-    
-      <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
-    
-      <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>John Muir Trail – Day 21　登頂</title>
-    <link href="https://mountainboy.me/2014/11/29/1254/"/>
-    <id>https://mountainboy.me/2014/11/29/1254/</id>
-    <published>2014-11-29T02:08:17.000Z</published>
-    <updated>2018-10-28T04:21:29.967Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;2014年9月17日  Tyndall Creek → Guiter Lake
-起床 5:30 気温 4℃&lt;/p&gt;
-&lt;p&gt;周囲のハイカーが準備する音で目が覚めた。どうやら自分が一番のんびりしていたようだ。なんとなく自分も急いで準備。朝食はいつもより多めにとった。天候は晴れ。今日はマウントホイットニーに登頂する。JMTの最終日だ。登頂後はホイットニーポータルという登山口まで降りて、そこからヒッチハイクで町に出る予定。
-    
-    </summary>
-    
-      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/"/>
-    
-      <category term="旅" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
-    
-    
-      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
-    
-      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
       <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
     

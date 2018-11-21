@@ -794,13 +794,6 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/tags/Design/</loc>
-        <lastmod>2018-11-19T10:39:16.795Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://mountainboy.me/tags/Bootstrap/</loc>
         <lastmod>2018-11-19T10:39:16.795Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -810,6 +803,13 @@
     <url>
         <loc>https://mountainboy.me/tags/Development/</loc>
         <lastmod>2018-11-19T10:39:16.795Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/Design/</loc>
+        <lastmod>2018-11-21T13:58:03.817Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

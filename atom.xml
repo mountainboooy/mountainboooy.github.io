@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mountainboy.me/"/>
-  <updated>2020-12-26T08:05:10.415Z</updated>
+  <updated>2018-11-21T13:58:03.817Z</updated>
   <id>https://mountainboy.me/</id>
   
   <author>
@@ -17,32 +17,9 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>これはテストです。</title>
-    <link href="https://mountainboy.me/2020/12/26/ckj5gd37s004iecn3bjdgikno/"/>
-    <id>https://mountainboy.me/2020/12/26/ckj5gd37s004iecn3bjdgikno/</id>
-    <published>2020-12-26T08:02:32.000Z</published>
-    <updated>2020-12-26T08:05:10.415Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;これはテストです。&lt;/p&gt;
-&lt;h1 id=&quot;this-is-tesat&quot;&gt;&lt;a href=&quot;#this-is-tesat&quot; class=&quot;headerlink&quot; title=&quot;this is tesat&quot;&gt;&lt;/a&gt;this is
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>理論と感覚の間にあるスイートスポット</title>
-    <link href="https://mountainboy.me/2018/11/21/ckj5gd39x006jecn33tcpb1jz/"/>
-    <id>https://mountainboy.me/2018/11/21/ckj5gd39x006jecn33tcpb1jz/</id>
+    <link href="https://mountainboy.me/2018/11/21/ckj5gh65m00m0ldn3gclgrcne/"/>
+    <id>https://mountainboy.me/2018/11/21/ckj5gh65m00m0ldn3gclgrcne/</id>
     <published>2018-11-21T13:28:39.000Z</published>
     <updated>2018-11-21T13:58:03.817Z</updated>
     
@@ -59,8 +36,8 @@
   
   <entry>
     <title>Bootstrapのformのバリデーション</title>
-    <link href="https://mountainboy.me/2018/11/18/ckj5gd351000pecn3lwl4sd5w/"/>
-    <id>https://mountainboy.me/2018/11/18/ckj5gd351000pecn3lwl4sd5w/</id>
+    <link href="https://mountainboy.me/2018/11/18/ckj5gh5ry000pldn3pcw4e0xu/"/>
+    <id>https://mountainboy.me/2018/11/18/ckj5gh5ry000pldn3pcw4e0xu/</id>
     <published>2018-11-18T13:27:01.000Z</published>
     <updated>2018-11-19T10:39:16.795Z</updated>
     
@@ -81,8 +58,8 @@
   
   <entry>
     <title>UIのデザインとは法則を作る作業である</title>
-    <link href="https://mountainboy.me/2018/11/09/ckj5gd352000secn32vu5s0n7/"/>
-    <id>https://mountainboy.me/2018/11/09/ckj5gd352000secn32vu5s0n7/</id>
+    <link href="https://mountainboy.me/2018/11/09/ckj5gh5s1000tldn3ntxopadk/"/>
+    <id>https://mountainboy.me/2018/11/09/ckj5gh5s1000tldn3ntxopadk/</id>
     <published>2018-11-09T14:49:21.000Z</published>
     <updated>2018-11-16T14:01:02.609Z</updated>
     
@@ -604,6 +581,36 @@
       <category term="webサービス" scheme="https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
     
       <category term="アイデア" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>John Muir Trail　感想</title>
+    <link href="https://mountainboy.me/2014/12/06/1357/"/>
+    <id>https://mountainboy.me/2014/12/06/1357/</id>
+    <published>2014-12-06T09:22:12.000Z</published>
+    <updated>2018-10-28T04:11:17.735Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;シエラの自然はダイナミックだった。でも一番印象に残ったのは自然ではなく、ハイカーの文化だった。老若男女、色んなハイカーがいた。カップルで歩くハイカー、熟年の夫婦、中年の友人同士、ソロのおじいさんなど。こんなに多彩な人たちが、ただ歩くという行為をそれぞれのスタイルで楽しんいる事に驚いた。
+    
+    </summary>
+    
+      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/"/>
+    
+      <category term="旅" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
+    
+    
+      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
+    
+      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
+    
+      <category term="ロングトレイル" scheme="https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
+    
+      <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
+    
+      <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
     
   </entry>
   

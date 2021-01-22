@@ -1,3 +1,21 @@
+window.onload = () => {
+  const headerToggle = document.getElementById('header__toggle')
+  headerToggle.onclick = toggleMenu
+  addRank()
+}
 
-function test () {
+function toggleMenu () {
+  const header = document.getElementById('header')
+  header.classList.toggle('menu-open')
+}
+
+function addRank () {
+  const box = document.getElementById('popular-posts-box')
+  const items = Array.from(box.getElementsByClassName('popular-posts-item'))
+  items.forEach((item, i) => {
+    const rankElement = document.createElement('div')
+    rankElement.classList = 'popular-posts__rank'
+    rankElement.innerHTML = i
+    item.append(rankElement)
+  })
 }

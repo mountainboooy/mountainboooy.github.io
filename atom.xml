@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>mountainboooy</title>
   
-  
+  <subtitle>山と旅とキャンプのブログ</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mountainboy.me/"/>
-  <updated>2020-12-26T14:23:06.674Z</updated>
+  <updated>2021-01-13T09:48:26.529Z</updated>
   <id>https://mountainboy.me/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>長いタイトルです。長いタイトルです。長いタイトルです。長いタイトルです。長いタイトルです。長いタイトルです。</title>
+    <link href="https://mountainboy.me/blog/ckk8c8wh2002nshn347pqzat7/"/>
+    <id>https://mountainboy.me/blog/ckk8c8wh2002nshn347pqzat7/</id>
+    <published>2021-01-09T12:36:48.000Z</published>
+    <updated>2021-01-13T09:48:26.529Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;button class=&quot;icon-button icon-button--dark&quot;&gt;takeru&lt;/button&gt;&lt;/p&gt;
+&lt;p&gt;&lt;button class=&quot;icon-button
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Snowpeak マルチコンテナSを購入</title>
-    <link href="https://mountainboy.me/blog/ckjfu31lu002ci4n3i4j2b7ol/"/>
-    <id>https://mountainboy.me/blog/ckjfu31lu002ci4n3i4j2b7ol/</id>
+    <link href="https://mountainboy.me/blog/ckk8c8wgw002hshn39nfa4p3n/"/>
+    <id>https://mountainboy.me/blog/ckk8c8wgw002hshn39nfa4p3n/</id>
     <published>2020-12-26T14:11:20.000Z</published>
-    <updated>2020-12-26T14:23:06.674Z</updated>
+    <updated>2021-01-17T14:44:31.516Z</updated>
     
     <summary type="html">
     
@@ -46,10 +69,10 @@
   
   <entry>
     <title>タトンカ4TCの試し張りと感想</title>
-    <link href="https://mountainboy.me/blog/ckjfu31m6002vi4n3giudpxnv/"/>
-    <id>https://mountainboy.me/blog/ckjfu31m6002vi4n3giudpxnv/</id>
+    <link href="https://mountainboy.me/blog/ckk8c8wk5006cshn3byliq79o/"/>
+    <id>https://mountainboy.me/blog/ckk8c8wk5006cshn3byliq79o/</id>
     <published>2020-12-11T14:57:39.000Z</published>
-    <updated>2021-01-02T15:07:22.495Z</updated>
+    <updated>2021-01-19T14:37:26.115Z</updated>
     
     <summary type="html">
     
@@ -57,8 +80,7 @@
       
         
         
-          &lt;p&gt;&lt;a href=&quot;https://mountainboy.me/blog/ckjf858x200pdcin3lrlkgxfw/&quot;&gt;先日購入したタトンカ4TC&lt;/a&gt;の試し張りを行った。実はタープを張るのは生まれて初めて。Youtubeでしっかり予習していった。
-&lt;a
+          &lt;p&gt;&lt;a
         
       
     
@@ -81,10 +103,10 @@
   
   <entry>
     <title>タトンカのレクタタープ 4TCを購入</title>
-    <link href="https://mountainboy.me/blog/ckjfu322k00p1i4n3wiafq85r/"/>
-    <id>https://mountainboy.me/blog/ckjfu322k00p1i4n3wiafq85r/</id>
+    <link href="https://mountainboy.me/blog/ckk8c8wfw0013shn3hgluadgp/"/>
+    <id>https://mountainboy.me/blog/ckk8c8wfw0013shn3hgluadgp/</id>
     <published>2020-12-10T04:31:49.000Z</published>
-    <updated>2021-01-02T05:06:37.946Z</updated>
+    <updated>2021-01-21T15:06:53.962Z</updated>
     
     <summary type="html">
     
@@ -111,8 +133,8 @@
   
   <entry>
     <title>初めてのキャンプ ogawaアポロンと共に</title>
-    <link href="https://mountainboy.me/blog/ckjfu31l50018i4n3jpvga5jb/"/>
-    <id>https://mountainboy.me/blog/ckjfu31l50018i4n3jpvga5jb/</id>
+    <link href="https://mountainboy.me/blog/ckk8c8wfv0011shn30btm1bav/"/>
+    <id>https://mountainboy.me/blog/ckk8c8wfv0011shn30btm1bav/</id>
     <published>2019-04-29T15:00:00.000Z</published>
     <updated>2020-12-31T10:46:46.697Z</updated>
     
@@ -146,8 +168,8 @@
   
   <entry>
     <title>️ogawaアポロンの試し張りでフレームを曲げてまった</title>
-    <link href="https://mountainboy.me/blog/ckjfu31kl000oi4n3bxvavzgs/"/>
-    <id>https://mountainboy.me/blog/ckjfu31kl000oi4n3bxvavzgs/</id>
+    <link href="https://mountainboy.me/blog/ckk8c8wfo000qshn384h0qfrw/"/>
+    <id>https://mountainboy.me/blog/ckk8c8wfo000qshn384h0qfrw/</id>
     <published>2019-03-19T15:00:00.000Z</published>
     <updated>2020-12-30T14:34:18.851Z</updated>
     
@@ -179,8 +201,8 @@
   
   <entry>
     <title>ファミリーテントで迷った末にogawaのアポロンを購入</title>
-    <link href="https://mountainboy.me/blog/ckjfu31ks000ti4n3zjv4a8o7/"/>
-    <id>https://mountainboy.me/blog/ckjfu31ks000ti4n3zjv4a8o7/</id>
+    <link href="https://mountainboy.me/blog/ckk8c8wfs000wshn3u73nfg5m/"/>
+    <id>https://mountainboy.me/blog/ckk8c8wfs000wshn3u73nfg5m/</id>
     <published>2019-02-28T15:00:00.000Z</published>
     <updated>2020-12-28T15:10:42.123Z</updated>
     
@@ -210,27 +232,9 @@
   </entry>
   
   <entry>
-    <title>理論と感覚の間にあるスイートスポット</title>
-    <link href="https://mountainboy.me/blog/ckjfu31op006xi4n32dzlg0vv/"/>
-    <id>https://mountainboy.me/blog/ckjfu31op006xi4n32dzlg0vv/</id>
-    <published>2018-11-21T13:28:39.000Z</published>
-    <updated>2018-11-21T13:58:03.817Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;理論的を詰めて作ったデザインが魅力的にならないことがある。どんなに「正しいもの」を作ったとしても、最終的に「良い印象」がなければゴールに辿りつくこはない。
-    
-    </summary>
-    
-    
-      <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Bootstrapのformのバリデーション</title>
-    <link href="https://mountainboy.me/blog/ckjfu31ku000ui4n3rfs4j49j/"/>
-    <id>https://mountainboy.me/blog/ckjfu31ku000ui4n3rfs4j49j/</id>
+    <link href="https://mountainboy.me/blog/ckk8c8wfi000kshn33o9usijt/"/>
+    <id>https://mountainboy.me/blog/ckk8c8wfi000kshn33o9usijt/</id>
     <published>2018-11-18T13:27:01.000Z</published>
     <updated>2018-11-19T10:39:16.795Z</updated>
     
@@ -246,30 +250,6 @@
       <category term="Bootstrap" scheme="https://mountainboy.me/tags/Bootstrap/"/>
     
       <category term="Development" scheme="https://mountainboy.me/tags/Development/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>UIのデザインとは法則を作る作業である</title>
-    <link href="https://mountainboy.me/blog/ckjfu31ky000wi4n3iux6mfse/"/>
-    <id>https://mountainboy.me/blog/ckjfu31ky000wi4n3iux6mfse/</id>
-    <published>2018-11-09T14:49:21.000Z</published>
-    <updated>2018-11-16T14:01:02.609Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;iOSのふらっとデザインがなぜうまく作用するのかを考えた。出てきた当初は使いづらかった。今はうまく使える。
-    
-    </summary>
-    
-      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
-    
-    
-      <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
-    
-      <category term="iOS" scheme="https://mountainboy.me/tags/iOS/"/>
-    
-      <category term="UI" scheme="https://mountainboy.me/tags/UI/"/>
     
   </entry>
   
@@ -305,9 +285,9 @@
     
       <category term="京都" scheme="https://mountainboy.me/tags/%E4%BA%AC%E9%83%BD/"/>
     
-      <category term="UIデザイン" scheme="https://mountainboy.me/tags/UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
-    
       <category term="新幹線" scheme="https://mountainboy.me/tags/%E6%96%B0%E5%B9%B9%E7%B7%9A/"/>
+    
+      <category term="UIデザイン" scheme="https://mountainboy.me/tags/UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
   </entry>
   
@@ -412,102 +392,6 @@
   </entry>
   
   <entry>
-    <title>UI検証 : プロダクトのランディングページ</title>
-    <link href="https://mountainboy.me/blog/1554/"/>
-    <id>https://mountainboy.me/blog/1554/</id>
-    <published>2015-05-27T15:15:22.000Z</published>
-    <updated>2018-10-28T04:11:46.352Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;自分はwebデザインの素人だ。とはいえ、今後はプロダクトのwebデザインに手をつける必要がありそうだ。なので最近のwebページのレイアウトをざっくりトレースしてみた。トップページのみ。
-    
-    </summary>
-    
-      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
-    
-      <category term="開発" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E9%96%8B%E7%99%BA/"/>
-    
-    
-      <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
-    
-      <category term="デザイン" scheme="https://mountainboy.me/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
-    
-      <category term="webサービス" scheme="https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
-    
-      <category term="UI Design" scheme="https://mountainboy.me/tags/UI-Design/"/>
-    
-      <category term="UIデザイン" scheme="https://mountainboy.me/tags/UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>プロトタイプツールのHype 3が超便利</title>
-    <link href="https://mountainboy.me/blog/1526/"/>
-    <id>https://mountainboy.me/blog/1526/</id>
-    <published>2015-05-24T14:02:55.000Z</published>
-    <updated>2018-10-28T04:13:09.771Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;プロトタイプツールのHype3が超便利なの感想をメモ。
-    
-    </summary>
-    
-      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
-    
-      <category term="開発" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E9%96%8B%E7%99%BA/"/>
-    
-    
-      <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
-    
-      <category term="UI" scheme="https://mountainboy.me/tags/UI/"/>
-    
-      <category term="UI Design" scheme="https://mountainboy.me/tags/UI-Design/"/>
-    
-      <category term="UIデザイン" scheme="https://mountainboy.me/tags/UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
-    
-      <category term="Hype" scheme="https://mountainboy.me/tags/Hype/"/>
-    
-      <category term="Tumult" scheme="https://mountainboy.me/tags/Tumult/"/>
-    
-      <category term="モック" scheme="https://mountainboy.me/tags/%E3%83%A2%E3%83%83%E3%82%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>UI考察：feedly</title>
-    <link href="https://mountainboy.me/blog/1517/"/>
-    <id>https://mountainboy.me/blog/1517/</id>
-    <published>2015-05-11T15:35:28.000Z</published>
-    <updated>2018-10-28T04:11:52.630Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;普段使っているRSSリーダアプリfeedlyのUIを検証してみた。普段はデスクトップアプリをメインに使っている。
-    
-    </summary>
-    
-      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
-    
-      <category term="開発" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E9%96%8B%E7%99%BA/"/>
-    
-    
-      <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
-    
-      <category term="webサービス" scheme="https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
-    
-      <category term="UI Design" scheme="https://mountainboy.me/tags/UI-Design/"/>
-    
-      <category term="UIデザイン" scheme="https://mountainboy.me/tags/UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
-    
-      <category term="feedly" scheme="https://mountainboy.me/tags/feedly/"/>
-    
-      <category term="アプリ" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%97%E3%83%AA/"/>
-    
-  </entry>
-  
-  <entry>
     <title>今日オープンの蔦屋書店大阪に行った</title>
     <link href="https://mountainboy.me/blog/1509/"/>
     <id>https://mountainboy.me/blog/1509/</id>
@@ -537,89 +421,223 @@
   </entry>
   
   <entry>
-    <title>UI考察：slack</title>
-    <link href="https://mountainboy.me/blog/1496/"/>
-    <id>https://mountainboy.me/blog/1496/</id>
-    <published>2015-05-08T15:08:30.000Z</published>
-    <updated>2018-10-28T04:23:33.452Z</updated>
+    <title>フォーリーアーティスト</title>
+    <link href="https://mountainboy.me/blog/1405/"/>
+    <id>https://mountainboy.me/blog/1405/</id>
+    <published>2015-04-18T14:50:11.000Z</published>
+    <updated>2018-10-28T04:13:06.932Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;巷で大人気のチャットツール、slackのUIを舐めてみた。あまり詳細な部分は見れてない。
+      &lt;p&gt;テレビでフォーリーアーティストとやらの特集をやっていた。フォーリーアーティストは映画の音を作る人たちのこと。驚いたことに映画の音の80%くらいは別途作成されて後で追加されるらしい。その製作方法がとても面白くてハマってしまった。
     
     </summary>
     
       <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/"/>
+      <category term="ブログ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/"/>
     
-      <category term="開発" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/%E9%96%8B%E7%99%BA/"/>
+      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E3%83%A9%E3%82%A4%E3%83%95/"/>
     
     
       <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
     
-      <category term="UI Design" scheme="https://mountainboy.me/tags/UI-Design/"/>
+      <category term="デザイン" scheme="https://mountainboy.me/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
     
-      <category term="slack UIデザイン" scheme="https://mountainboy.me/tags/slack-UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+      <category term="Movie" scheme="https://mountainboy.me/tags/Movie/"/>
     
-  </entry>
-  
-  <entry>
-    <title>情報ソースをまとめておく</title>
-    <link href="https://mountainboy.me/blog/1459/"/>
-    <id>https://mountainboy.me/blog/1459/</id>
-    <published>2015-05-06T13:43:03.000Z</published>
-    <updated>2018-10-28T04:14:01.503Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;情報のインプットは難しい。無計画にやると際限なく時間を使ってしまうし、やらなければ有益な情報を逃してしまう。なのであらかじめ習慣的に使う最低限の情報ソースをまとめておくことにした。日常的にこれらから情報をとりいれ、それ以上はできるだけ時間を使わない。定期的に見直して不要なものや足りないものは調整する。
-&lt;br&gt;&lt;br&gt;
-    
-    </summary>
-    
-      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
-    
-      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/"/>
-    
-      <category term="開発" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/%E9%96%8B%E7%99%BA/"/>
-    
-    
-      <category term="feedly" scheme="https://mountainboy.me/tags/feedly/"/>
-    
-      <category term="slack" scheme="https://mountainboy.me/tags/slack/"/>
-    
-      <category term="StackExchange" scheme="https://mountainboy.me/tags/StackExchange/"/>
-    
-      <category term="効率化" scheme="https://mountainboy.me/tags/%E5%8A%B9%E7%8E%87%E5%8C%96/"/>
-    
-      <category term="情報" scheme="https://mountainboy.me/tags/%E6%83%85%E5%A0%B1/"/>
+      <category term="映画" scheme="https://mountainboy.me/tags/%E6%98%A0%E7%94%BB/"/>
     
   </entry>
   
   <entry>
-    <title>Self Sizing Cells 選択時にセルの位置がずれてしまう問題を解決</title>
-    <link href="https://mountainboy.me/blog/1435/"/>
-    <id>https://mountainboy.me/blog/1435/</id>
-    <published>2015-04-24T15:52:13.000Z</published>
-    <updated>2018-10-28T04:11:24.395Z</updated>
+    <title>Amazon Mobile Associates APIについてちょっと調べた</title>
+    <link href="https://mountainboy.me/blog/1386/"/>
+    <id>https://mountainboy.me/blog/1386/</id>
+    <published>2014-12-07T04:44:46.000Z</published>
+    <updated>2018-10-28T04:33:24.844Z</updated>
     
     <summary type="html">
     
-      &lt;h4 id=&quot;問題&quot;&gt;&lt;a href=&quot;#問題&quot; class=&quot;headerlink&quot; title=&quot;問題&quot;&gt;&lt;/a&gt;問題&lt;/h4&gt;&lt;p&gt;iOS8からはtableViewのセルの高さを動的に計算できるようになった。使ってみるとひとつ問題が発生。セルを選択して次画面にナビゲーション遷移する場合、選択直後にセルの位置がずれてしまう。
+      &lt;p&gt;モバイルアプリでAmazonの商品を扱うためのAPIについて調べてみた。アプリ内で購入まで完結させる機能もある。商品が売れればアプリの開発者は最大6%のマージンを受け取ることができる。この内容を見るとすごく魅力的。
     
     </summary>
     
       <category term="開発" scheme="https://mountainboy.me/categories/%E9%96%8B%E7%99%BA/"/>
     
     
+      <category term="API" scheme="https://mountainboy.me/tags/API/"/>
+    
+      <category term="Amazon" scheme="https://mountainboy.me/tags/Amazon/"/>
+    
+      <category term="Amazon Mobile Associates API" scheme="https://mountainboy.me/tags/Amazon-Mobile-Associates-API/"/>
+    
+      <category term="Android" scheme="https://mountainboy.me/tags/Android/"/>
+    
+      <category term="EC" scheme="https://mountainboy.me/tags/EC/"/>
+    
       <category term="iOS" scheme="https://mountainboy.me/tags/iOS/"/>
     
-      <category term="iOS8" scheme="https://mountainboy.me/tags/iOS8/"/>
+      <category term="webサービス" scheme="https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
     
-      <category term="swift" scheme="https://mountainboy.me/tags/swift/"/>
+      <category term="アイデア" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/"/>
     
-      <category term="UITableView" scheme="https://mountainboy.me/tags/UITableView/"/>
+  </entry>
+  
+  <entry>
+    <title>John Muir Trail　感想</title>
+    <link href="https://mountainboy.me/blog/1357/"/>
+    <id>https://mountainboy.me/blog/1357/</id>
+    <published>2014-12-06T09:22:12.000Z</published>
+    <updated>2018-10-28T04:11:17.735Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;シエラの自然はダイナミックだった。でも一番印象に残ったのは自然ではなく、ハイカーの文化だった。老若男女、色んなハイカーがいた。カップルで歩くハイカー、熟年の夫婦、中年の友人同士、ソロのおじいさんなど。こんなに多彩な人たちが、ただ歩くという行為をそれぞれのスタイルで楽しんいる事に驚いた。
+    
+    </summary>
+    
+      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/"/>
+    
+      <category term="旅" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
+    
+    
+      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
+    
+      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
+    
+      <category term="ロングトレイル" scheme="https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
+    
+      <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
+    
+      <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>John Muir Trail – Day 21　登頂</title>
+    <link href="https://mountainboy.me/blog/1254/"/>
+    <id>https://mountainboy.me/blog/1254/</id>
+    <published>2014-11-29T02:08:17.000Z</published>
+    <updated>2018-10-28T04:21:29.967Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2014年9月17日  Tyndall Creek → Guiter Lake
+起床 5:30 気温 4℃&lt;/p&gt;
+&lt;p&gt;周囲のハイカーが準備する音で目が覚めた。どうやら自分が一番のんびりしていたようだ。なんとなく自分も急いで準備。朝食はいつもより多めにとった。天候は晴れ。今日はマウントホイットニーに登頂する。JMTの最終日だ。登頂後はホイットニーポータルという登山口まで降りて、そこからヒッチハイクで町に出る予定。
+    
+    </summary>
+    
+      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/"/>
+    
+      <category term="旅" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
+    
+    
+      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
+    
+      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
+    
+      <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
+    
+      <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>John Muir Trail – Day 20　コンサートホール</title>
+    <link href="https://mountainboy.me/blog/1230/"/>
+    <id>https://mountainboy.me/blog/1230/</id>
+    <published>2014-11-26T15:05:10.000Z</published>
+    <updated>2018-10-28T04:21:25.265Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2014年9月16日  Tyndall Creek → Guiter Lake
+起床 6:30 気温 5℃&lt;/p&gt;
+&lt;p&gt;ラスト2日。今日はマウントホイットニーへのアプローチだ。いつもよりゆっくり歩いて残り少ない歩数をかみしめた。
+    
+    </summary>
+    
+      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/"/>
+    
+      <category term="旅" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
+    
+    
+      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
+    
+      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
+    
+      <category term="ロングトレイル" scheme="https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
+    
+      <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
+    
+      <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>John Muir Trail – Day 19　歩きながら考える</title>
+    <link href="https://mountainboy.me/blog/1203/"/>
+    <id>https://mountainboy.me/blog/1203/</id>
+    <published>2014-11-25T15:46:51.000Z</published>
+    <updated>2018-10-28T04:21:15.725Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2014年9月14日  Vidette Meadow → Tyndall Creek
+起床 6:30 気温 5℃&lt;/p&gt;
+&lt;p&gt;今日は最後のパス、フォレスターパス(4023m）に向けて1000m以上のupだ。これを超えれば残るはラスボス、マウントホイットニーだけ。ちなみにJMTの全行程でピーク（頂上）を踏むのは最後のマウントホイットニーだけなのだ。
+    
+    </summary>
+    
+      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
+    
+      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/"/>
+    
+    
+      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
+    
+      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
+    
+      <category term="ロングトレイル" scheme="https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
+    
+      <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
+    
+      <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>John Muir Trail – Day 18　最後の補給</title>
+    <link href="https://mountainboy.me/blog/1176/"/>
+    <id>https://mountainboy.me/blog/1176/</id>
+    <published>2014-11-24T09:52:54.000Z</published>
+    <updated>2018-10-28T04:21:07.350Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2014年9月14日  Onion Valley → Vidette Meadow
+起床 6:30 気温 9℃&lt;/p&gt;
+&lt;p&gt;温かい。標高が低いからかな。
+9:00くらいになって祈るような気持ちで補給物資の受け取りに行った。管理者は帰ってきているだろうか。
+    
+    </summary>
+    
+      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/"/>
+    
+      <category term="旅" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
+    
+    
+      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
+    
+      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
+    
+      <category term="ロングトレイル" scheme="https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
+    
+      <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
+    
+      <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
     
   </entry>
   

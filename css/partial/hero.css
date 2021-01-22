@@ -1,0 +1,16 @@
+.hero {
+  padding: 36px 0 44px;
+  text-align: center;
+}
+.hero img {
+  margin: 0 auto;
+  max-width: 320px;
+}
+.hero__tagline {
+  width: 100%;
+  font-size: small-font-size;
+  font-weight: 600;
+  margin-top: 0.75rem;
+  text-align: center;
+  color: #a57f56;
+}

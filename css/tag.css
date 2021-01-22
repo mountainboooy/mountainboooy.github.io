@@ -1,3 +1,8 @@
-.tag .tag-title {
-  margin: 52px 0 56px;
+.tag-title {
+  margin: 0 0 2rem;
+}
+.tag-spacer {
+  width: 100%;
+  height: 4rem;
+responsive(xs)
 }

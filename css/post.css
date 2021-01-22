@@ -1,63 +1,31 @@
-.post {
-  padding: 52px 0 0;
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-column-gap: 40px;
+.container--post {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
 responsive(xs)
 }
-.post .container {
-  max-width: 720px;
-  grid-column: 3/span 8;
-responsive(md)
-responsive(sm)
-}
-.post footer {
-  grid-column: 1/span 12;
-}
-.post-title {
-  margin: 16px 0 64px;
-}
-.post-tags {
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: flex-start;
-  align-items: flex-start;
-  margin: 0 -4px 24px;
-}
-.post-tag {
-  margin: 4px;
-}
-.post .popular-posts {
-  list-style: none;
-  padding: 0;
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-column-gap: 40px;
+.post__date {
+  font-size: 1rem;
+  line-height: 2rem;
+  color: #808080;
+  font-weight: 600;
+  font-family: en-font-family;
 responsive(xs)
 }
-.post .popular-posts-item {
-  grid-column: span 6;
-  border-top: 1px solid splitter-color-dark;
-  padding: 0.5rem 0 3rem;
+.post__eyecatch-image {
+  margin-top: 2rem;
 responsive(xs)
 }
-.post .popular-posts-date {
-  font-family: 'Roboto';
-  color: text-color-dark-weak;
-  line-height: 24px;
-  font-weight: 500;
+.post__tags {
+  margin-top: 0.5rem;
+  line-height: 1.5rem;
 }
-.post .popular-posts-title a {
-  color: text-color-dark-strong;
-  text-decoration: none;
+.post__tag {
+unstyled-link()
+  color: #808080;
+  font-size: 12px;
+  font-weight: 600;
+  margin-right: 10px;
 }
-.post .popular-posts-title a:hover {
-  text-decoration: underline;
-}
-.post .popular-posts-excerpt {
-  max-height: 4.5rem;
-  overflow: hidden;
-}
-.post .popular-posts-excerpt p {
-  margin: 0;
+.post__tag:hover {
+  color: button-hover-bg-primary;
 }

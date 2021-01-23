@@ -80,14 +80,14 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/tags/Core-Graphics/</loc>
+        <loc>https://mountainboy.me/tags/iPhone/</loc>
         <lastmod>2018-10-28T04:11:38.834Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://mountainboy.me/tags/iPhone/</loc>
+        <loc>https://mountainboy.me/tags/Core-Graphics/</loc>
         <lastmod>2018-10-28T04:11:38.834Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -381,14 +381,14 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/tags/%E3%82%A2%E3%83%97%E3%83%AA/</loc>
+        <loc>https://mountainboy.me/tags/minne/</loc>
         <lastmod>2018-10-28T04:30:29.996Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://mountainboy.me/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</loc>
+        <loc>https://mountainboy.me/tags/%E3%82%A2%E3%83%97%E3%83%AA/</loc>
         <lastmod>2018-10-28T04:30:29.996Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -402,7 +402,7 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/tags/minne/</loc>
+        <loc>https://mountainboy.me/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</loc>
         <lastmod>2018-10-28T04:30:29.996Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -411,13 +411,6 @@
     <url>
         <loc>https://mountainboy.me/tags/%E5%A4%A7%E9%98%AA/</loc>
         <lastmod>2018-10-28T04:30:41.708Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/%E4%BA%AC%E9%83%BD/</loc>
-        <lastmod>2018-10-28T04:30:47.012Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -530,48 +523,6 @@
     <url>
         <loc>https://mountainboy.me/tags/%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/</loc>
         <lastmod>2018-10-28T04:33:24.844Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB/</loc>
-        <lastmod>2018-11-18T07:33:08.866Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/John-Muir-Trail/</loc>
-        <lastmod>2018-11-18T07:42:11.132Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/</loc>
-        <lastmod>2018-11-18T07:42:11.132Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/</loc>
-        <lastmod>2018-11-18T07:42:11.132Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/%E6%97%85/</loc>
-        <lastmod>2018-11-18T07:42:11.132Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/</loc>
-        <lastmod>2018-11-18T07:42:11.132Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -747,6 +698,55 @@
     <url>
         <loc>https://mountainboy.me/tags/%E3%83%AB%E3%83%BC%E3%83%84%E6%8E%A2%E3%81%97/</loc>
         <lastmod>2021-01-22T16:09:35.340Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB/</loc>
+        <lastmod>2021-01-23T00:21:33.668Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/%E4%BA%AC%E9%83%BD/</loc>
+        <lastmod>2021-01-23T00:28:18.325Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/</loc>
+        <lastmod>2021-01-23T00:31:23.470Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/John-Muir-Trail/</loc>
+        <lastmod>2021-01-23T00:31:49.385Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/</loc>
+        <lastmod>2021-01-23T00:31:49.385Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/%E6%97%85/</loc>
+        <lastmod>2021-01-23T00:31:49.385Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/</loc>
+        <lastmod>2021-01-23T00:31:49.385Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

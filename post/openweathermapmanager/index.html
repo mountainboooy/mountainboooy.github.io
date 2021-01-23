@@ -1,0 +1,89 @@
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/><title>無料天気予報API、OpenWeatherMapのためのiOSライブラリ JFOpenWeatherMapManager</title><!-- javascript--><script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script><script src="/js/main.js"></script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.css"><!-- Google Analytics--><!-- Global site tag (gtag.js)--><script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-41355170-3"></script><script>window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-41355170-3');
+</script><!-- Google AdSense--><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>(adsbygoogle = window.adsbygoogle || []).push({
+google_ad_client: "ca-pub-1424580573410744",
+enable_page_level_ads: true
+});
+</script><!-- Open graph      --><meta name="description" content="そのうち役にたちそうなのでメモ。 OpenWeatherMapは開発者に無料で天気情報を提供するオンラインサービス。APIはJSONやxmlで取得可能。このAPIをiOSやMac OSX でより簡単に利用できるライブラ">
+<meta name="keywords" content="API,iOS,JFOpenWeatherMapManger,OpenStreetMap,OpenWeatherMap,天気予報">
+<meta property="og:type" content="article">
+<meta property="og:title" content="無料天気予報API、OpenWeatherMapのためのiOSライブラリ JFOpenWeatherMapManager">
+<meta property="og:url" content="https://mountainboy.me/post/openweathermapmanager/index.html">
+<meta property="og:site_name" content="mountainboooy">
+<meta property="og:description" content="そのうち役にたちそうなのでメモ。 OpenWeatherMapは開発者に無料で天気情報を提供するオンラインサービス。APIはJSONやxmlで取得可能。このAPIをiOSやMac OSX でより簡単に利用できるライブラ">
+<meta property="og:locale" content="ja">
+<meta property="og:image" content="https://i.gyazo.com/9fc330a13762b7a9b89b015190216c6b.png">
+<meta property="og:updated_time" content="2018-10-28T04:14:16.778Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="無料天気予報API、OpenWeatherMapのためのiOSライブラリ JFOpenWeatherMapManager">
+<meta name="twitter:description" content="そのうち役にたちそうなのでメモ。 OpenWeatherMapは開発者に無料で天気情報を提供するオンラインサービス。APIはJSONやxmlで取得可能。このAPIをiOSやMac OSX でより簡単に利用できるライブラ">
+<meta name="twitter:image" content="https://i.gyazo.com/9fc330a13762b7a9b89b015190216c6b.png"><!-- javascript--><script src="/js/main.js"></script><!--css--><link rel="stylesheet" href="/css/style.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Roboto:wght@300;400;500;700&display=swap"><link rel="stylesheet" href="/css/prism-xonokai.css" type="text/css">
+<link rel="stylesheet" href="/css/prism-line-numbers.css" type="text/css"></head><body><div class="content"><div class="header" id="header"><div class="container"><a class="header__brand unstyled-link" href="/"><img src="/img/logo.svg"/><div class="header__brand__name">mountainboooy</div><div class="header__brand__tagline hidden-xs hidden-sm">- 山と旅とキャンプのブログ -</div></a><div class="header__collapse" id="header__collapse"> <div class="header__menu"><a class="header__menu-item" href="/about/">About</a></div><div class="header__socials"><div class="header__socials__item"><a class="icon-button icon-button--dark" href="https://twitter.com/mountainboooy" target="_blank" rel="noopener"><img src="/img/twitter_light.svg"/></a></div><div class="header__socials__item"> <a class="icon-button icon-button--dark" href="https://www.instagram.com/takeru80/" target="_blank" rel="noopener"><img src="/img/instagram_light.svg"/></a></div></div></div><button class="header__toggle" id="header__toggle"><div class="header__toggle-img"></div></button></div></div><div class="container container--post"><div class="col"><div class="main-col"><div class="post-col"><!-- date--><div class="post__date">2013.12.2</div><!--title--><h1 class="post-title">無料天気予報API、OpenWeatherMapのためのiOSライブラリ JFOpenWeatherMapManager</h1><!-- tags--><div class="post__tags"><a class="post__tag" href="/tags/API/">#API</a><a class="post__tag" href="/tags/iOS/">#iOS</a><a class="post__tag" href="/tags/JFOpenWeatherMapManger/">#JFOpenWeatherMapManger</a><a class="post__tag" href="/tags/OpenStreetMap/">#OpenStreetMap</a><a class="post__tag" href="/tags/OpenWeatherMap/">#OpenWeatherMap</a><a class="post__tag" href="/tags/天気予報/">#天気予報</a></div></div><div class="post__eyecatch-image"><img/></div><div class="post-col">    <!-- article--><div class="article"><p>そのうち役にたちそうなのでメモ。
+<a href="http://openweathermap.org/" title="OpenWeatherMap" target="_blank" rel="noopener">OpenWeatherMap</a>は開発者に無料で天気情報を提供するオンラインサービス。APIはJSONやxmlで取得可能。このAPIをiOSやMac OSX でより簡単に利用できるライブラ<a id="more"></a>リが<a href="https://github.com/jfield44/JFOpenWeatherMapManager" title="JFOpenWeatherMapManager" target="_blank" rel="noopener">JFOpenWeatherMapManager</a>。</p>
+<p><a href="https://i.gyazo.com/9fc330a13762b7a9b89b015190216c6b.png" target="_blank" rel="noopener"><img src="https://i.gyazo.com/9fc330a13762b7a9b89b015190216c6b.png" alt="c763a28b7cbae1305abb59db44a93234"></a></p>
+<p>&nbsp;</p>
+<p><span style="font-size: large;"><strong>使い方</strong></span></p>
+<p><strong>①ヘッダファイルをインポート</strong></p>
+<blockquote>
+<p>#import “JFWeatherData.h”</p>
+<p>#import “JFWeatherManager.h”</p>
+<p>#import “DataModels.h”
+<strong>②OpenWeatherMapのAPI_KEYを作成</strong>
+static NSString <em>API_KEY = @”YOUR_API_KEY_HERE”;
+<strong>③インスタンス作成</strong>
+JFWeatherManager </em>weatherManager = [[JFWeatherManager alloc]init];
+<strong>③情報を取得</strong>
+パラメータとして緯度軽度を渡すと、情報が取得できる
+[weatherManager fetchWeatherDataForLatitude:toAdd.coordinate.latitude andLongitude:toAdd.coordinate.longitude withAPIKeyOrNil:API_KEY :^(JFWeatherData *returnedWeatherData){</p>
+<p>NSLog(@”Latitude %.3f”,[returnedWeatherData latitudeCoordinateOfRequest]);</p>
+<p>NSLog(@”Longitude %.3f”,[returnedWeatherData longitudeCoordinateOfRequest]);</p>
+<p>NSLog(@”Conditions are %@”,[returnedWeatherData currentConditionsTextualDescription]);</p>
+<p>NSLog(@”Temperature is %f”,[returnedWeatherData temperatureInUnitFormat:kTemperatureCelcius]);</p>
+<p>NSLog(@”Sunrise is %@”,[returnedWeatherData sunriseTime]);</p>
+<p>NSLog(@”Sunset is %@”,[returnedWeatherData sunsetTime]);</p>
+<p>NSLog(@”Hours of Day Light are %@”,[returnedWeatherData dayLightHours]);</p>
+<p>NSLog(@”Humidity is %@”,[returnedWeatherData humidityPercentage]);</p>
+<p>NSLog(@”Pressure is %0.1f”,[returnedWeatherData pressureInUnitFormat:kPressureHectopascal]);</p>
+<p>NSLog(@”Wind Speed is %0.1f”,[returnedWeatherData windSpeedInUnitFormat:kWindSpeedMPH]);</p>
+<p>NSLog(@”Wind Direction is %@”,[returnedWeatherData windDirectionInGeographicalDirection]);</p>
+<p>NSLog(@”Cloud Coverage %@”,[returnedWeatherData cloudCovergePercentage]);</p>
+<p>NSLog(@”Rainfall Over Next 3h is %0.1fmm”,[returnedWeatherData rainFallVolumeOver3HoursInMillimeters]);</p>
+<p>NSLog(@”SnowFall Over Next 3h is %0.1fmm”,[returnedWeatherData snowFallVolumeOver3HoursInMillimeters]);</p>
+<p>}];
+<strong>④取得できるレスポンス情報は以下の通り</strong></p>
+<ul>
+<li><p>(NSString *)currentConditionsTextualDescription; //e.g Broken Clouds</p>
+</li>
+<li><p>(double)temperatureInUnitFormat:(TemperatureUnit)temperatureUnit; //e.g 3.0°C , Temperature Available in Kelvin, Celsius and Fahrenheit</p>
+</li>
+<li><p>(double)pressureInUnitFormat:(PressureUnit)pressureUnit; //e.g 1007.0 hPA , Pressure Available in Hectopascal, and Pascal</p>
+</li>
+<li><p>(NSString *)sunriseTime; //e.g 06:33</p>
+</li>
+<li><p>(NSString *)sunsetTime; //e.g 19:32</p>
+</li>
+<li><p>(NSString *)dayLightHours; //e.g 12:15</p>
+</li>
+<li><p>(NSString *)humidityPercentage; //e.g 88%</p>
+</li>
+<li><p>(NSString *)cloudCovergePercentage; //e.g 32%</p>
+</li>
+<li><p>(double)windSpeedInUnitFormat:(WindSpeedUnit)windSpeedUnit; //e.g 20.8 MPH, Wind Speed Available in Meters Per Second, Miles Per Hour, Kilometres Per Hour</p>
+</li>
+<li><p>(double)windDirectionInDegrees; //e.g 320°</p>
+</li>
+<li><p>(NSString *)windDirectionInGeographicalDirection; //e.g N (North)</p>
+</li>
+<li><p>(double)rainFallVolumeOver3HoursInMillimeters; //e.g 3mm</p>
+</li>
+<li><p>(double)snowFallVolumeOver3HoursInMillimeters; //e.g 7mm</p>
+</li>
+<li><p>(double)latitudeCoordinateOfRequest; //e.g 32.79</p>
+</li>
+<li><p>(double)longitudeCoordinateOfRequest; //e.g -96.0</p>
+</li>
+</ul>
+</blockquote>
+</div><div><h3 class="main-col__title">Related Posts</h3><ul class="related-posts"><li class="related-posts-item"><div class="related-posts-date">2014-12-07</div><div class="related-posts-img"><img src="https://i.gyazo.com/9cc78a9584633cf3a812d4f5b88a87f1.png" /></div><div class="related-posts-title"><h3><a href="/post/amazon-mobile-associates-api-reserch/" title="Amazon Mobile Associates APIについてちょっと調べた" rel="bookmark">Amazon Mobile Associates APIについてちょっと調べた</a></h3></div></li><li class="related-posts-item"><div class="related-posts-date">2014-04-18</div><div class="related-posts-img"><img src="https://i.gyazo.com/d7dd9694a511843045276ef3ee6061cb.jpg" /></div><div class="related-posts-title"><h3><a href="/post/techcrunch-hackathon/" title="TechCrunch主催のハッカソンに参加した" rel="bookmark">TechCrunch主催のハッカソンに参加した</a></h3></div></li><li class="related-posts-item"><div class="related-posts-date">2014-03-02</div><div class="related-posts-img"><img src="https://i.gyazo.com/09ff32cf35310f49e4c169ffef4bc6ed.png" /></div><div class="related-posts-title"><h3><a href="/post/23andme-result/" title="23andmeのDNA検査を受けてみた(後編）" rel="bookmark">23andmeのDNA検査を受けてみた(後編）</a></h3></div></li><li class="related-posts-item"><div class="related-posts-date">2014-01-27</div><div class="related-posts-img"><img src="https://i.gyazo.com/7dc8ac92c8c80f0436a267b1d1e5c693.jpg" /></div><div class="related-posts-title"><h3><a href="/post/23andme-try/" title="23andmeのDNA検査を受けてみた(前編）" rel="bookmark">23andmeのDNA検査を受けてみた(前編）</a></h3></div></li><li class="related-posts-item"><div class="related-posts-date">2013-12-04</div><div class="related-posts-img"><img src="https://i.gyazo.com/e57f091572aa7edf759b27e63cff8218.jpg" /></div><div class="related-posts-title"><h3><a href="/post/minne-release/" title="【リリース】手作り作品を購入・販売できるアプリ minne" rel="bookmark">【リリース】手作り作品を購入・販売できるアプリ minne</a></h3></div></li><li class="related-posts-item"><div class="related-posts-date">2014-07-03</div><div class="related-posts-img"><img src="https://i.gyazo.com/53fed70acd272a7736e6aa0918c6f48d.png" /></div><div class="related-posts-title"><h3><a href="/post/release_shinkansen_vacancy/" title="【リリース】iPhoneアプリ 新幹線の空席案内" rel="bookmark">【リリース】iPhoneアプリ 新幹線の空席案内</a></h3></div></li></ul></div></div></div><div class="side-col"><div id="popular-posts-box"><h3 class="side-col__title">Popular Posts</h3><ul class="popular-posts"><li class="popular-posts-item"><div class="popular-posts-date">2014-03-02</div><div class="popular-posts-img"><img src="https://i.gyazo.com/09ff32cf35310f49e4c169ffef4bc6ed.png" /></div><div class="popular-posts-title"><h3><a href="/post/23andme-result/" title="23andmeのDNA検査を受けてみた(後編）" rel="bookmark">23andmeのDNA検査を受けてみた(後編）</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-date">2014-01-27</div><div class="popular-posts-img"><img src="https://i.gyazo.com/7dc8ac92c8c80f0436a267b1d1e5c693.jpg" /></div><div class="popular-posts-title"><h3><a href="/post/23andme-try/" title="23andmeのDNA検査を受けてみた(前編）" rel="bookmark">23andmeのDNA検査を受けてみた(前編）</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-date">2019-03-20</div><div class="popular-posts-img"><img src="https://i.gyazo.com/95a218b1f95e3db7c856b3a5ea387cad.jpg" /></div><div class="popular-posts-title"><h3><a href="/post/apollon-try/" title="️ogawaアポロンの試し張りでフレームを曲げてまった" rel="bookmark">️ogawaアポロンの試し張りでフレームを曲げてまった</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-date">2018-11-18</div><div class="popular-posts-title"><h3><a href="/post/bootstrap-form-validation/" title="Bootstrapのformのバリデーション" rel="bookmark">Bootstrapのformのバリデーション</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-date">2014-12-07</div><div class="popular-posts-img"><img src="https://i.gyazo.com/9cc78a9584633cf3a812d4f5b88a87f1.png" /></div><div class="popular-posts-title"><h3><a href="/post/amazon-mobile-associates-api-reserch/" title="Amazon Mobile Associates APIについてちょっと調べた" rel="bookmark">Amazon Mobile Associates APIについてちょっと調べた</a></h3></div></li></ul></div><div><h3 class="side-col__title">Recent Posts</h3><ul class="popular-posts"><li class="popular-posts-item"><div class="popular-posts-date">2020-12-26</div><div class="popular-posts-img"><img src="https://i.gyazo.com/79c42c023192b24f9278d74c136ce427.jpg"/></div><div class="popular-posts-title"><h3><a href="/post/multi_container_m/" title="Snowpeak マルチコンテナSを購入">Snowpeak マルチコンテナSを購入</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-date">2020-12-11</div><div class="popular-posts-img"><img src="https://i.gyazo.com/2038f3ba03143ca54b35252cf029fc2c.jpg"/></div><div class="popular-posts-title"><h3><a href="/post/try-4tc/" title="タトンカ4TCの試し張りと感想">タトンカ4TCの試し張りと感想</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-date">2020-12-10</div><div class="popular-posts-img"><img src="https://i.gyazo.com/6fbf0193bcd0e67c218c3ade7a9812a8.jpg"/></div><div class="popular-posts-title"><h3><a href="/post/buy-tatonka/" title="タトンカのレクタタープ 4TCを購入">タトンカのレクタタープ 4TCを購入</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-date">2019-4-30</div><div class="popular-posts-img"><img/></div><div class="popular-posts-title"><h3><a href="/post/first-apollon/" title="初めてのキャンプ ogawaアポロンと共に">初めてのキャンプ ogawaアポロンと共に</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-date">2019-3-20</div><div class="popular-posts-img"><img/></div><div class="popular-posts-title"><h3><a href="/post/apollon-try/" title="️ogawaアポロンの試し張りでフレームを曲げてまった">️ogawaアポロンの試し張りでフレームを曲げてまった</a></h3></div></li></ul></div><div><h3 class="side-col__title">Tags</h3><ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/ロングトレイル/">ロングトレイル</a><span class="tag-list-count">30</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/旅/">旅</a><span class="tag-list-count">29</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/登山/">登山</a><span class="tag-list-count">28</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/John-Muir-Trail/">John Muir Trail</a><span class="tag-list-count">27</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ジョン・ミューア・トレイル/">ジョン・ミューア・トレイル</a><span class="tag-list-count">27</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/京都/">京都</a><span class="tag-list-count">8</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/大阪/">大阪</a><span class="tag-list-count">7</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/webサービス/">webサービス</a><span class="tag-list-count">6</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/キャンプ/">キャンプ</a><span class="tag-list-count">6</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ギア/">ギア</a><span class="tag-list-count">6</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/iOS/">iOS</a><span class="tag-list-count">6</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/API/">API</a><span class="tag-list-count">5</span></li></ul></div></div></div></div><footer class="footer"><div class="footer__upper-row"><a class="footer__logo" href="/"><img src="/img/footer_logo.png"/><div class="footer__tagline">- 山と旅とキャンプのブログ -</div></a></div><div class="footer__bottom-row"><div class="container"><div class="footer__copywrite">© 2021 Takeru Yoshihara </div><div class="footer__buttons"><a class="icon-button icon-button--light" href="https://twitter.com/mountainboooy" target="_blank" rel="noopener"><img src="/img/twitter_dark.svg"/></a><a class="icon-button icon-button--light" href="https://www.instagram.com/takeru80/" target="_blank" rel="noopener"><img src="/img/instagram_dark.svg"/></a></div></div></div></footer></div></body></html>

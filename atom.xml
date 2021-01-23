@@ -210,8 +210,8 @@
   
   <entry>
     <title>Bootstrapのformのバリデーション</title>
-    <link href="https://mountainboy.me/post/Bootstrap%E3%81%AEform%E3%81%AE%E3%83%90%E3%83%AA%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/"/>
-    <id>https://mountainboy.me/post/Bootstrapのformのバリデーション/</id>
+    <link href="https://mountainboy.me/post/bootstrap-form-validation/"/>
+    <id>https://mountainboy.me/post/bootstrap-form-validation/</id>
     <published>2018-11-18T13:27:01.000Z</published>
     <updated>2018-11-19T10:39:16.795Z</updated>
     
@@ -232,8 +232,8 @@
   
   <entry>
     <title>自作の「新幹線予約サービス」リニューアル</title>
-    <link href="https://mountainboy.me/post/%E8%87%AA%E4%BD%9C%E3%81%AE%E3%80%8C%E6%96%B0%E5%B9%B9%E7%B7%9A%E4%BA%88%E7%B4%84%E3%82%B5%E3%83%BC%E3%83%92%E3%82%99%E3%82%B9%E3%80%8D%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB/"/>
-    <id>https://mountainboy.me/post/自作の「新幹線予約サービス」リニューアル/</id>
+    <link href="https://mountainboy.me/post/shinkansen-reservation-renew/"/>
+    <id>https://mountainboy.me/post/shinkansen-reservation-renew/</id>
     <published>2017-01-26T15:39:09.000Z</published>
     <updated>2018-10-28T04:30:23.535Z</updated>
     
@@ -270,8 +270,8 @@
   
   <entry>
     <title>日付選択のUIの調査</title>
-    <link href="https://mountainboy.me/post/%E6%97%A5%E4%BB%98%E9%81%B8%E6%8A%9E%E3%81%AEui%E3%81%AE%E8%AA%BF%E6%9F%BB/"/>
-    <id>https://mountainboy.me/post/日付選択のuiの調査/</id>
+    <link href="https://mountainboy.me/post/datepicker/"/>
+    <id>https://mountainboy.me/post/datepicker/</id>
     <published>2016-09-23T11:04:57.000Z</published>
     <updated>2018-10-28T04:30:54.063Z</updated>
     
@@ -306,8 +306,8 @@
   
   <entry>
     <title>外国人旅行者向けに新幹線の予約サービスを作ってみた</title>
-    <link href="https://mountainboy.me/post/%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%97%85%E8%A1%8C%E8%80%85%E5%90%91%E3%81%91%E3%81%AB%E6%96%B0%E5%B9%B9%E7%B7%9A%E3%81%AE%E4%BA%88%E7%B4%84%E3%82%B5%E3%83%BC%E3%83%92%E3%82%99%E3%82%B9%E3%82%92%E4%BD%9C%E3%81%A3/"/>
-    <id>https://mountainboy.me/post/外国人旅行者向けに新幹線の予約サービスを作っ/</id>
+    <link href="https://mountainboy.me/post/shinkansen-reservation/"/>
+    <id>https://mountainboy.me/post/shinkansen-reservation/</id>
     <published>2016-09-20T14:13:17.000Z</published>
     <updated>2018-10-28T04:13:37.352Z</updated>
     
@@ -370,8 +370,8 @@
   
   <entry>
     <title>今日オープンの蔦屋書店大阪に行った</title>
-    <link href="https://mountainboy.me/post/%E4%BB%8A%E6%97%A5%E3%82%AA%E3%83%BC%E3%83%95%E3%82%9A%E3%83%B3%E3%81%AE%E8%94%A6%E5%B1%8B%E6%9B%B8%E5%BA%97%E5%A4%A7%E9%98%AA%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%9F/"/>
-    <id>https://mountainboy.me/post/今日オープンの蔦屋書店大阪に行った/</id>
+    <link href="https://mountainboy.me/post/tsutaya-shoten/"/>
+    <id>https://mountainboy.me/post/tsutaya-shoten/</id>
     <published>2015-05-09T02:30:47.000Z</published>
     <updated>2018-10-28T04:30:00.914Z</updated>
     
@@ -399,8 +399,8 @@
   
   <entry>
     <title>フォーリーアーティスト</title>
-    <link href="https://mountainboy.me/post/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88/"/>
-    <id>https://mountainboy.me/post/フォーリーアーティスト/</id>
+    <link href="https://mountainboy.me/post/sound-artist/"/>
+    <id>https://mountainboy.me/post/sound-artist/</id>
     <published>2015-04-18T14:50:11.000Z</published>
     <updated>2018-10-28T04:13:06.932Z</updated>
     
@@ -429,8 +429,8 @@
   
   <entry>
     <title>Amazon Mobile Associates APIについてちょっと調べた</title>
-    <link href="https://mountainboy.me/post/amazon-mobile-associates-api%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E8%AA%BF%E3%81%B8%E3%82%99%E3%81%9F/"/>
-    <id>https://mountainboy.me/post/amazon-mobile-associates-apiについてちょっと調べた/</id>
+    <link href="https://mountainboy.me/post/amazon-mobile-associates-api-reserch/"/>
+    <id>https://mountainboy.me/post/amazon-mobile-associates-api-reserch/</id>
     <published>2014-12-07T04:44:46.000Z</published>
     <updated>2018-10-28T04:33:24.844Z</updated>
     
@@ -493,10 +493,10 @@
   
   <entry>
     <title>John Muir Trail – Day 21　登頂</title>
-    <link href="https://mountainboy.me/post/john-muir-trail-day-21-%E3%81%8A%E3%82%8F%E3%82%8A/"/>
-    <id>https://mountainboy.me/post/john-muir-trail-day-21-おわり/</id>
+    <link href="https://mountainboy.me/post/john-muir-trail-day21/"/>
+    <id>https://mountainboy.me/post/john-muir-trail-day21/</id>
     <published>2014-11-29T02:08:17.000Z</published>
-    <updated>2018-10-28T04:21:29.967Z</updated>
+    <updated>2021-01-23T00:31:49.385Z</updated>
     
     <summary type="html">
     
@@ -523,10 +523,10 @@
   
   <entry>
     <title>John Muir Trail – Day 20　コンサートホール</title>
-    <link href="https://mountainboy.me/post/john-muir-trail-day-20-%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB/"/>
-    <id>https://mountainboy.me/post/john-muir-trail-day-20-コンサートホール/</id>
+    <link href="https://mountainboy.me/post/john-muir-trail-day20/"/>
+    <id>https://mountainboy.me/post/john-muir-trail-day20/</id>
     <published>2014-11-26T15:05:10.000Z</published>
-    <updated>2018-10-28T04:21:25.265Z</updated>
+    <updated>2021-01-23T00:31:23.470Z</updated>
     
     <summary type="html">
     
@@ -555,10 +555,10 @@
   
   <entry>
     <title>John Muir Trail – Day 19　歩きながら考える</title>
-    <link href="https://mountainboy.me/post/john-muir-trail-day-19-%E6%AD%A9%E3%81%8D%E3%81%AA%E3%81%8B%E3%82%99%E3%82%89%E8%80%83%E3%81%88%E3%82%8B/"/>
-    <id>https://mountainboy.me/post/john-muir-trail-day-19-歩きながら考える/</id>
+    <link href="https://mountainboy.me/post/john-muir-trail-day19/"/>
+    <id>https://mountainboy.me/post/john-muir-trail-day19/</id>
     <published>2014-11-25T15:46:51.000Z</published>
-    <updated>2018-10-28T04:21:15.725Z</updated>
+    <updated>2021-01-23T00:30:48.138Z</updated>
     
     <summary type="html">
     
@@ -587,10 +587,10 @@
   
   <entry>
     <title>John Muir Trail – Day 18　最後の補給</title>
-    <link href="https://mountainboy.me/post/john-muir-trail-day-18-%E6%9C%80%E5%BE%8C%E3%81%AE%E8%A3%9C%E7%B5%A6/"/>
-    <id>https://mountainboy.me/post/john-muir-trail-day-18-最後の補給/</id>
+    <link href="https://mountainboy.me/post/john-muir-trail-day18/"/>
+    <id>https://mountainboy.me/post/john-muir-trail-day18/</id>
     <published>2014-11-24T09:52:54.000Z</published>
-    <updated>2018-10-28T04:21:07.350Z</updated>
+    <updated>2021-01-23T00:30:15.458Z</updated>
     
     <summary type="html">
     
@@ -620,10 +620,10 @@
   
   <entry>
     <title>John Muir Trail – Day 17　人工物</title>
-    <link href="https://mountainboy.me/post/john-muir-trail-day-17-%E4%BA%BA%E5%B7%A5%E7%89%A9/"/>
-    <id>https://mountainboy.me/post/john-muir-trail-day-17-人工物/</id>
+    <link href="https://mountainboy.me/post/john-muir-trail-day17/"/>
+    <id>https://mountainboy.me/post/john-muir-trail-day17/</id>
     <published>2014-11-24T07:41:47.000Z</published>
-    <updated>2018-10-28T04:20:59.302Z</updated>
+    <updated>2021-01-23T00:29:52.333Z</updated>
     
     <summary type="html">
     

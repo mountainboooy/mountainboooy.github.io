@@ -8,6 +8,22 @@
     </url>
 
     <url>
+        <loc>https://mountainboy.me/post/john-muir-trail-intro/</loc>
+        <lastmod>2021-01-23T01:16:45.123Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/post/john-muir-trail-plan/</loc>
+        <lastmod>2021-01-23T00:51:49.328Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://mountainboy.me/post/john-muir-trail-day21/</loc>
         <lastmod>2021-01-23T00:31:49.385Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -176,14 +192,6 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/post/john-muir-trail-intro/</loc>
-        <lastmod>2021-01-23T00:16:18.842Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://mountainboy.me/post/23andme-result/</loc>
         <lastmod>2021-01-22T16:09:35.340Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -256,7 +264,7 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/post/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB%E3%82%92%E8%B8%8F%E7%A0%B4%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-5/</loc>
+        <loc>https://mountainboy.me/post/john-muir-trail-equipment/</loc>
         <lastmod>2018-11-18T07:42:11.132Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -264,7 +272,7 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/post/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB%E3%82%92%E8%B8%8F%E7%A0%B4%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-3%E3%80%90/</loc>
+        <loc>https://mountainboy.me/post/john-muir-trail-food/</loc>
         <lastmod>2018-11-18T07:33:08.866Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -288,7 +296,7 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/post/rakigaki/</loc>
+        <loc>https://mountainboy.me/post/rakugaki/</loc>
         <lastmod>2018-10-28T04:31:01.593Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -408,14 +416,6 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/post/%E3%82%B7%E3%82%99%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB%E3%82%92%E8%B8%8F%E7%A0%B4%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E2%91%A1%E3%80%90/</loc>
-        <lastmod>2018-10-28T04:27:57.381Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://mountainboy.me/post/jobhant/</loc>
         <lastmod>2018-10-28T04:26:20.626Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -496,7 +496,7 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/post/%E3%82%B7%E3%82%99%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB%E3%82%92%E8%B8%8F%E7%A0%B4%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-4/</loc>
+        <loc>https://mountainboy.me/post/john-muir-trail-supply/</loc>
         <lastmod>2018-10-28T04:12:37.790Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -528,7 +528,7 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/post/john-muir-trail-%E6%84%9F%E6%83%B3/</loc>
+        <loc>https://mountainboy.me/post/john-muir-trail-closing/</loc>
         <lastmod>2018-10-28T04:11:17.735Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

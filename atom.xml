@@ -443,19 +443,19 @@
       <category term="開発" scheme="https://mountainboy.me/categories/%E9%96%8B%E7%99%BA/"/>
     
     
-      <category term="API" scheme="https://mountainboy.me/tags/API/"/>
-    
-      <category term="webサービス" scheme="https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
-    
       <category term="Amazon" scheme="https://mountainboy.me/tags/Amazon/"/>
     
       <category term="Amazon Mobile Associates API" scheme="https://mountainboy.me/tags/Amazon-Mobile-Associates-API/"/>
     
       <category term="Android" scheme="https://mountainboy.me/tags/Android/"/>
     
+      <category term="API" scheme="https://mountainboy.me/tags/API/"/>
+    
       <category term="EC" scheme="https://mountainboy.me/tags/EC/"/>
     
       <category term="iOS" scheme="https://mountainboy.me/tags/iOS/"/>
+    
+      <category term="webサービス" scheme="https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
     
       <category term="アイデア" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2/"/>
     
@@ -463,8 +463,8 @@
   
   <entry>
     <title>John Muir Trail　感想</title>
-    <link href="https://mountainboy.me/post/john-muir-trail-%E6%84%9F%E6%83%B3/"/>
-    <id>https://mountainboy.me/post/john-muir-trail-感想/</id>
+    <link href="https://mountainboy.me/post/john-muir-trail-closing/"/>
+    <id>https://mountainboy.me/post/john-muir-trail-closing/</id>
     <published>2014-12-06T09:22:12.000Z</published>
     <updated>2018-10-28T04:11:17.735Z</updated>
     
@@ -479,13 +479,13 @@
       <category term="旅" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
     
     
-      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
-    
-      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
-    
       <category term="ロングトレイル" scheme="https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
       <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
+    
+      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
+    
+      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
       <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
     
@@ -511,11 +511,11 @@
       <category term="旅" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
     
     
+      <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
+    
       <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
     
       <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
-    
-      <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
     
       <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
     
@@ -541,13 +541,13 @@
       <category term="旅" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
     
     
-      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
-    
-      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
-    
       <category term="ロングトレイル" scheme="https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
       <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
+    
+      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
+    
+      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
       <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
     
@@ -573,13 +573,13 @@
       <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/"/>
     
     
-      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
-    
-      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
-    
       <category term="ロングトレイル" scheme="https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
       <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
+    
+      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
+    
+      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
       <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
     
@@ -606,13 +606,13 @@
       <category term="旅" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
     
     
-      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
-    
-      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
-    
       <category term="ロングトレイル" scheme="https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
       <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
+    
+      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
+    
+      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
       <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
     
@@ -638,13 +638,13 @@
       <category term="旅" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
     
     
-      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
-    
-      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
-    
       <category term="ロングトレイル" scheme="https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
       <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
+    
+      <category term="John Muir Trail" scheme="https://mountainboy.me/tags/John-Muir-Trail/"/>
+    
+      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
       <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
     

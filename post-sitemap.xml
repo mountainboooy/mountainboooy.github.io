@@ -8,6 +8,22 @@
     </url>
 
     <url>
+        <loc>https://mountainboy.me/post/myog-backpack/</loc>
+        <lastmod>2021-01-23T01:44:50.399Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/post/john-muir-trail-intro/</loc>
+        <lastmod>2021-01-23T01:42:25.785Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://mountainboy.me/post/john-muir-trail-day20/</loc>
         <lastmod>2021-01-23T01:41:53.163Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -42,14 +58,6 @@
     <url>
         <loc>https://mountainboy.me/post/john-muir-trail-day16/</loc>
         <lastmod>2021-01-23T01:40:00.568Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/post/john-muir-trail-intro/</loc>
-        <lastmod>2021-01-23T01:33:32.324Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -424,16 +432,8 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/post/%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%83%95%E3%82%A7%E3%82%A2%E3%80%8C%E7%81%AF%E3%81%97%E3%81%B2%E3%82%99%E3%81%A8%E3%81%AE%E9%9B%86%E3%81%84%E3%80%8D%E3%81%8B%E3%82%99%E3%82%88%E3%81%84%E3%83%A2%E3%83%8E%E3%81%9F%E3%82%99/</loc>
+        <loc>https://mountainboy.me/post/tomoshibito%E3%82%99/</loc>
         <lastmod>2018-10-28T04:26:10.632Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/post/%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%83%A9%E3%82%A4%E3%83%88%E4%BB%95%E6%A7%98%E3%81%AE%E3%83%8F%E3%82%99%E3%83%83%E3%82%AF%E3%83%8F%E3%82%9A%E3%83%83%E3%82%AF%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%97%E3%81%9F/</loc>
-        <lastmod>2018-10-28T04:25:42.841Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -504,7 +504,7 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/post/uiimage%E3%81%AE%E7%94%BB%E5%83%8F%E3%81%AE%E6%8B%A1%E5%A4%A7%E3%83%BB%E7%B8%AE%E5%B0%8F%E3%83%BB%E5%8F%8D%E8%BB%A2%E3%83%BB%E5%9B%9E%E8%BB%A2/</loc>
+        <loc>https://mountainboy.me/post/uiimage-editing/</loc>
         <lastmod>2018-10-28T04:11:38.834Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

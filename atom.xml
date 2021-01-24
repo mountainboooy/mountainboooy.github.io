@@ -211,44 +211,6 @@
   </entry>
   
   <entry>
-    <title>自作の「新幹線予約サービス」リニューアル</title>
-    <link href="https://mountainboy.me/post/shinkansen-reservation-renew/"/>
-    <id>https://mountainboy.me/post/shinkansen-reservation-renew/</id>
-    <published>2017-01-26T15:39:09.000Z</published>
-    <updated>2021-01-23T09:19:19.903Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;以前作った海外向けの&lt;a href=&quot;http://j-pilot.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;新幹線の予約サービス&lt;/a&gt;を大幅に更新してみた。デザインを更新し、サイト内での支払いを可能にした。
-    
-    </summary>
-    
-      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
-    
-      <category term="ブログ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/"/>
-    
-      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E3%83%A9%E3%82%A4%E3%83%95/"/>
-    
-      <category term="旅" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
-    
-      <category term="開発" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/%E9%96%8B%E7%99%BA/"/>
-    
-    
-      <category term="webサービス" scheme="https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
-    
-      <category term="Design" scheme="https://mountainboy.me/tags/Design/"/>
-    
-      <category term="大阪" scheme="https://mountainboy.me/tags/%E5%A4%A7%E9%98%AA/"/>
-    
-      <category term="京都" scheme="https://mountainboy.me/tags/%E4%BA%AC%E9%83%BD/"/>
-    
-      <category term="新幹線" scheme="https://mountainboy.me/tags/%E6%96%B0%E5%B9%B9%E7%B7%9A/"/>
-    
-      <category term="UIデザイン" scheme="https://mountainboy.me/tags/UI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
-    
-  </entry>
-  
-  <entry>
     <title>外国人旅行者向けに新幹線の予約サービスを作ってみた</title>
     <link href="https://mountainboy.me/post/shinkansen-reservation/"/>
     <id>https://mountainboy.me/post/shinkansen-reservation/</id>
@@ -620,6 +582,36 @@
 &lt;p&gt;昨晩は雨が降った。ポツポツとテントの中で嫌な音を聞いて飛び起き、靴を中に入れてもう一度寝た。この時期のシエラは95%が晴れ。でも5%は雨なのだ。&lt;/p&gt;
 &lt;p&gt;今日は3回目の補給地、ミューア・トレイル・ランチを目指す。1000mほどの下り行程。
 珍しく湿気がある。林の中の湖でうっすらと霧が立って幻想的だ。昨晩一緒にキャンプを張った3人組が湖畔でまったり休憩していた。3人くらいで歩くのっていいなあ。いつか釣り道具を持って、仲のいい友人と湖畔でキャンプを張って、コーヒー飲みながらまったり過ごそう。
+    
+    </summary>
+    
+      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/"/>
+    
+      <category term="旅" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
+    
+    
+      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
+    
+      <category term="ロングトレイル" scheme="https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
+    
+      <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
+    
+      <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>John Muir Trail – Day 10　順応</title>
+    <link href="https://mountainboy.me/post/john-muir-trail-day10/"/>
+    <id>https://mountainboy.me/post/john-muir-trail-day10/</id>
+    <published>2014-11-16T04:45:51.000Z</published>
+    <updated>2021-01-23T09:58:37.691Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2014年9月7日  Lake Thomas A Edison → Marry Lake
+起床 6:20 気温9℃
+朝起きてまず焚き火。 昨日見かけたパーティに倣った。松の葉に火をつけてあっという間に燃え始める。パチパチ音を立てて暖かい。やっぱり朝もコーヒーが欲しいなあ。これまではコーヒーなんてほとんど飲まなかったのに妙に恋しい。
     
     </summary>
     

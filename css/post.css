@@ -15,6 +15,9 @@ responsive(xs)
   margin-top: 2rem;
 responsive(xs)
 }
+.post__eyecatch-image img {
+  width: 100%;
+}
 .post__tags {
   margin-top: 0.5rem;
   line-height: 1.5rem;

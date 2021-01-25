@@ -80,48 +80,6 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/tags/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/</loc>
-        <lastmod>2021-01-23T08:22:33.025Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/</loc>
-        <lastmod>2021-01-23T08:27:51.654Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/ogawa/</loc>
-        <lastmod>2021-01-23T08:27:51.654Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/%E3%83%86%E3%83%B3%E3%83%88/</loc>
-        <lastmod>2021-01-23T08:27:51.654Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/</loc>
-        <lastmod>2021-01-23T08:27:51.654Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/%E3%82%AE%E3%82%A2/</loc>
-        <lastmod>2021-01-23T08:27:51.654Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://mountainboy.me/tags/shinkansen/</loc>
         <lastmod>2021-01-23T09:21:26.369Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -565,6 +523,62 @@
     <url>
         <loc>https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/</loc>
         <lastmod>2021-01-24T07:12:46.375Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF/</loc>
+        <lastmod>2021-01-25T14:27:45.843Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E5%A0%B4/</loc>
+        <lastmod>2021-01-25T14:27:45.843Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/</loc>
+        <lastmod>2021-01-25T14:29:43.467Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/</loc>
+        <lastmod>2021-01-25T14:29:43.467Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/ogawa/</loc>
+        <lastmod>2021-01-25T14:29:43.467Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/%E3%83%86%E3%83%B3%E3%83%88/</loc>
+        <lastmod>2021-01-25T14:29:43.467Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/%E3%82%AE%E3%82%A2/</loc>
+        <lastmod>2021-01-25T14:29:43.467Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/</loc>
+        <lastmod>2021-01-25T14:29:43.467Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

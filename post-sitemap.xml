@@ -8,6 +8,22 @@
     </url>
 
     <url>
+        <loc>https://mountainboy.me/post/first-apollon/</loc>
+        <lastmod>2021-01-25T14:29:43.467Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/post/camp-kajika-2019/</loc>
+        <lastmod>2021-01-25T14:27:45.843Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://mountainboy.me/post/john-muir-trail-closing/</loc>
         <lastmod>2021-01-24T07:12:46.375Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -418,14 +434,6 @@
     <url>
         <loc>https://mountainboy.me/post/apollon-try/</loc>
         <lastmod>2021-01-23T08:25:26.855Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/post/first-apollon/</loc>
-        <lastmod>2021-01-23T08:22:33.025Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

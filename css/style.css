@@ -419,6 +419,9 @@ img {
   max-width: 100%;
   vertical-align: bottom;
 }
+video {
+  max-width: 100%;
+}
 figure {
   margin: 2rem 0;
 }

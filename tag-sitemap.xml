@@ -185,62 +185,6 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/tags/DNA%E6%A4%9C%E6%9F%BB/</loc>
-        <lastmod>2021-01-24T06:25:33.316Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/google/</loc>
-        <lastmod>2021-01-24T06:25:33.316Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/23andMe/</loc>
-        <lastmod>2021-01-24T06:29:37.970Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/API/</loc>
-        <lastmod>2021-01-24T06:29:37.970Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/%E3%83%AB%E3%83%BC%E3%83%84%E6%8E%A2%E3%81%97/</loc>
-        <lastmod>2021-01-24T06:29:37.970Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/</loc>
-        <lastmod>2021-01-24T06:29:37.970Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/%E7%A7%91%E5%AD%A6/</loc>
-        <lastmod>2021-01-24T06:29:37.970Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/%E9%81%BA%E4%BC%9D%E5%AD%90/</loc>
-        <lastmod>2021-01-24T06:29:37.970Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://mountainboy.me/tags/%E3%83%8D%E3%82%B3/</loc>
         <lastmod>2021-01-24T06:31:07.889Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -726,6 +670,62 @@
     <url>
         <loc>https://mountainboy.me/tags/%E3%82%BF%E3%83%BC%E3%83%97/</loc>
         <lastmod>2021-02-08T15:04:18.128Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/</loc>
+        <lastmod>2021-02-13T05:43:46.950Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/%E7%A7%91%E5%AD%A6/</loc>
+        <lastmod>2021-02-13T05:43:46.950Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/%E9%81%BA%E4%BC%9D%E5%AD%90/</loc>
+        <lastmod>2021-02-13T05:43:46.950Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/23andMe/</loc>
+        <lastmod>2021-02-13T07:14:51.371Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/API/</loc>
+        <lastmod>2021-02-13T07:14:51.371Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/DNA%E6%A4%9C%E6%9F%BB/</loc>
+        <lastmod>2021-02-13T07:14:51.371Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/google/</loc>
+        <lastmod>2021-02-13T07:14:51.371Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/%E3%83%AB%E3%83%BC%E3%83%84%E6%8E%A2%E3%81%97/</loc>
+        <lastmod>2021-02-13T07:14:51.371Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

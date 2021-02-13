@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mountainboy.me/"/>
-  <updated>2021-01-30T15:28:14.904Z</updated>
+  <updated>2021-02-13T07:14:51.371Z</updated>
   <id>https://mountainboy.me/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>23andMeのDNA検査を受けてみた結果(医療情報編）</title>
+    <link href="https://mountainboy.me/post/23andme-result-medical/"/>
+    <id>https://mountainboy.me/post/23andme-result-medical/</id>
+    <published>2021-02-13T05:42:51.000Z</published>
+    <updated>2021-02-13T07:14:51.371Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;DNA検査のサービス23andMeが上場するというニュースを見かけた。ふと数年前に自分が検査を受けたことを思い出し、久々にログインしてみると放ったらかしにしてる間にかなりの解析結果が溜まっていた。中には重要な情報も含まれている。せっかくなので改めて公開してみることにした。
+
+        
+      
+    
+    </summary>
+    
+    
+      <category term="23andMe" scheme="https://mountainboy.me/tags/23andMe/"/>
+    
+      <category term="API" scheme="https://mountainboy.me/tags/API/"/>
+    
+      <category term="DNA検査" scheme="https://mountainboy.me/tags/DNA%E6%A4%9C%E6%9F%BB/"/>
+    
+      <category term="google" scheme="https://mountainboy.me/tags/google/"/>
+    
+      <category term="ルーツ探し" scheme="https://mountainboy.me/tags/%E3%83%AB%E3%83%BC%E3%83%84%E6%8E%A2%E3%81%97/"/>
+    
+  </entry>
   
   <entry>
     <title>初めてのフルサイズミラーレス一眼</title>
@@ -257,9 +290,9 @@
     </summary>
     
     
-      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
-    
       <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
+    
+      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
     
       <category term="デイキャンプ" scheme="https://mountainboy.me/tags/%E3%83%87%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
     
@@ -350,13 +383,13 @@
     </summary>
     
     
-      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
-    
       <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
     
       <category term="ogawa" scheme="https://mountainboy.me/tags/ogawa/"/>
     
       <category term="テント" scheme="https://mountainboy.me/tags/%E3%83%86%E3%83%B3%E3%83%88/"/>
+    
+      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
     
       <category term="ギア" scheme="https://mountainboy.me/tags/%E3%82%AE%E3%82%A2/"/>
     
@@ -385,13 +418,13 @@
     </summary>
     
     
-      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
-    
       <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
     
       <category term="ogawa" scheme="https://mountainboy.me/tags/ogawa/"/>
     
       <category term="テント" scheme="https://mountainboy.me/tags/%E3%83%86%E3%83%B3%E3%83%88/"/>
+    
+      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
     
       <category term="ギア" scheme="https://mountainboy.me/tags/%E3%82%AE%E3%82%A2/"/>
     
@@ -418,13 +451,13 @@
     </summary>
     
     
-      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
-    
       <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
     
       <category term="ogawa" scheme="https://mountainboy.me/tags/ogawa/"/>
     
       <category term="テント" scheme="https://mountainboy.me/tags/%E3%83%86%E3%83%B3%E3%83%88/"/>
+    
+      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
     
       <category term="ギア" scheme="https://mountainboy.me/tags/%E3%82%AE%E3%82%A2/"/>
     
@@ -451,9 +484,9 @@
     </summary>
     
     
-      <category term="自転車" scheme="https://mountainboy.me/tags/%E8%87%AA%E8%BB%A2%E8%BB%8A/"/>
-    
       <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
+    
+      <category term="自転車" scheme="https://mountainboy.me/tags/%E8%87%AA%E8%BB%A2%E8%BB%8A/"/>
     
       <category term="ツーリング" scheme="https://mountainboy.me/tags/%E3%83%84%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0/"/>
     
@@ -597,36 +630,6 @@
       <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/"/>
     
       <category term="旅" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
-    
-    
-      <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
-    
-      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
-    
-      <category term="ロングトレイル" scheme="https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
-    
-      <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>John Muir Trail – Day 18　歩きながら考える</title>
-    <link href="https://mountainboy.me/post/john-muir-trail-day18/"/>
-    <id>https://mountainboy.me/post/john-muir-trail-day18/</id>
-    <published>2014-11-25T15:46:51.000Z</published>
-    <updated>2021-01-23T09:41:09.617Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;2014年9月14日  Vidette Meadow → Tyndall Creek
-起床 6:30 気温 5℃&lt;/p&gt;
-&lt;p&gt;今日は最後のパス、フォレスターパス(4023m）に向けて1000m以上のupだ。これを超えれば残るはラスボス、マウントホイットニーだけ。ちなみにJMTの全行程でピーク（頂上）を踏むのは最後のマウントホイットニーだけなのだ。
-    
-    </summary>
-    
-      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
-    
-      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/"/>
     
     
       <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>

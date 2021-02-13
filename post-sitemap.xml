@@ -8,6 +8,30 @@
     </url>
 
     <url>
+        <loc>https://mountainboy.me/post/23andme-result-medical/</loc>
+        <lastmod>2021-02-13T07:14:51.371Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/post/23andme-try/</loc>
+        <lastmod>2021-02-13T05:43:46.950Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/post/23andme-result/</loc>
+        <lastmod>2021-02-13T05:42:26.356Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://mountainboy.me/post/buy-tatonka/</loc>
         <lastmod>2021-02-08T15:04:18.128Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -218,22 +242,6 @@
     <url>
         <loc>https://mountainboy.me/post/koharu-intro/</loc>
         <lastmod>2021-01-24T06:31:07.889Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/post/23andme-try/</loc>
-        <lastmod>2021-01-24T06:29:37.970Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/post/23andme-result/</loc>
-        <lastmod>2021-01-24T06:25:33.316Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

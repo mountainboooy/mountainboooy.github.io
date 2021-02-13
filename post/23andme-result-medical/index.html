@@ -1,0 +1,146 @@
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/><title>23andMeのDNA検査を受けてみた結果(医療情報編）</title><!-- javascript--><script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script><script src="/js/main.js"></script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.css"><!-- Google Analytics--><!-- Global site tag (gtag.js)--><script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-41355170-3"></script><script>window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-41355170-3');
+</script><!-- Google AdSense--><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>(adsbygoogle = window.adsbygoogle || []).push({
+google_ad_client: "ca-pub-1424580573410744",
+enable_page_level_ads: true
+});
+</script><!-- Open graph      --><meta name="description" content="DNA検査のサービス23andMeが上場するというニュースを見かけた。ふと数年前に自分が検査を受けたことを思い出し、久々にログインしてみると放ったらかしにしてる間にかなりの解析結果が溜まっていた。中には重要な情報も含まれている。せっかくなので改めて公開してみることにした。 検査を受ける経緯と当時の結果についての報告はこちら。  23andMeのDNA検査を受けてみた(準備編） 23andMeのDN">
+<meta name="keywords" content="23andMe,API,DNA検査,google,ルーツ探し">
+<meta property="og:type" content="article">
+<meta property="og:title" content="23andMeのDNA検査を受けてみた結果(医療情報編）">
+<meta property="og:url" content="https://mountainboy.me/post/23andme-result-medical/index.html">
+<meta property="og:site_name" content="mountainboooy">
+<meta property="og:description" content="DNA検査のサービス23andMeが上場するというニュースを見かけた。ふと数年前に自分が検査を受けたことを思い出し、久々にログインしてみると放ったらかしにしてる間にかなりの解析結果が溜まっていた。中には重要な情報も含まれている。せっかくなので改めて公開してみることにした。 検査を受ける経緯と当時の結果についての報告はこちら。  23andMeのDNA検査を受けてみた(準備編） 23andMeのDN">
+<meta property="og:locale" content="ja">
+<meta property="og:image" content="https://i.gyazo.com/2c5fcfd7a8c83e6ed9b9dbe8093fc4bb.jpg">
+<meta property="og:image" content="https://i.gyazo.com/21d492ae3558fd856d937491677a04c2.jpg">
+<meta property="og:image" content="https://i.gyazo.com/b2dc53422a1f112f70b220d99aff6741.png">
+<meta property="og:image" content="https://i.gyazo.com/1416d3962c79a322977afe24e2961c9f.jpg">
+<meta property="og:image" content="https://i.gyazo.com/be4151e3b8bd8db0f1bc4c2fe7e70c51.jpg">
+<meta property="og:image" content="https://i.gyazo.com/08f305ee1f3c681d34da73e638736dac.jpg">
+<meta property="og:image" content="https://i.gyazo.com/5079c7dbb92034a8b83ad048ac4c2f01.jpg">
+<meta property="og:image" content="https://i.gyazo.com/a46a6167d8b590c5cb14d5749e645e87.png">
+<meta property="og:image" content="https://i.gyazo.com/169388c6a066640daf01375830520f14.jpg">
+<meta property="og:updated_time" content="2021-02-13T07:14:51.371Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="23andMeのDNA検査を受けてみた結果(医療情報編）">
+<meta name="twitter:description" content="DNA検査のサービス23andMeが上場するというニュースを見かけた。ふと数年前に自分が検査を受けたことを思い出し、久々にログインしてみると放ったらかしにしてる間にかなりの解析結果が溜まっていた。中には重要な情報も含まれている。せっかくなので改めて公開してみることにした。 検査を受ける経緯と当時の結果についての報告はこちら。  23andMeのDNA検査を受けてみた(準備編） 23andMeのDN">
+<meta name="twitter:image" content="https://i.gyazo.com/2c5fcfd7a8c83e6ed9b9dbe8093fc4bb.jpg"><!-- javascript--><script src="/js/main.js"></script><!--css--><link rel="stylesheet" href="/css/style.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Roboto:wght@300;400;500;700&display=swap"><link rel="stylesheet" href="/css/prism-xonokai.css" type="text/css">
+<link rel="stylesheet" href="/css/prism-line-numbers.css" type="text/css"></head><body><div class="content"><div class="header" id="header"><div class="container"><a class="header__brand unstyled-link" href="/"><img src="/img/logo.svg"/><div class="header__brand__name">mountainboooy</div><div class="header__brand__tagline hidden-xs hidden-sm">- 山と旅とキャンプのブログ -</div></a><div class="header__collapse" id="header__collapse"> <div class="header__menu"><a class="header__menu-item" href="/about/">About</a></div><div class="header__socials"><div class="header__socials__item"><a class="icon-button icon-button--dark" href="https://twitter.com/mountainboooy" target="_blank" rel="noopener"><img src="/img/twitter_light.svg"/></a></div><div class="header__socials__item"> <a class="icon-button icon-button--dark" href="https://www.instagram.com/takeru80/" target="_blank" rel="noopener"><img src="/img/instagram_light.svg"/></a></div></div></div><button class="header__toggle" id="header__toggle"><div class="header__toggle-img"></div></button></div></div><div class="container container--post"><div class="col"><div class="main-col"><div class="post-col"><!-- date--><div class="post__date">2021.2.13</div><!--title--><h1 class="post-title">23andMeのDNA検査を受けてみた結果(医療情報編）</h1><!-- tags--><div class="post__tags"><a class="post__tag" href="/tags/23andMe/">#23andMe</a><a class="post__tag" href="/tags/API/">#API</a><a class="post__tag" href="/tags/DNA検査/">#DNA検査</a><a class="post__tag" href="/tags/google/">#google</a><a class="post__tag" href="/tags/ルーツ探し/">#ルーツ探し</a></div></div><div class="post__eyecatch-image"><img src="https://i.gyazo.com/de912553506a0423e11d7a87b76ab5d4.jpg"/></div><div class="post-col">    <!-- article--><div class="article"><p>DNA検査のサービス23andMeが上場するというニュースを見かけた。ふと数年前に自分が検査を受けたことを思い出し、久々にログインしてみると放ったらかしにしてる間にかなりの解析結果が溜まっていた。中には重要な情報も含まれている。せっかくなので改めて公開してみることにした。
+検査を受ける経緯と当時の結果についての報告はこちら。</p>
+<ul>
+<li><a href="https://mountainboy.me/post/23andme-try/">23andMeのDNA検査を受けてみた(準備編）</a></li>
+<li><a href="https://mountainboy.me/post/23andme-result/">23andMeのDNA検査を受けてみた結果(ご先祖情報編）</a></li>
+</ul>
+<p><strong>ここで紹介するのは医療・健康関係の解析結果</strong>。検査を受けた当時、23andmeはアメリカ食品医薬品局(FDA)の安全基準を満たしていないとして医療・健康情報の提供を停止していた。2018年にFDAの認可が下り、今では情報提供は再開されている。いつの間にか自分のアカウントにも多くの検査結果が届いていた。それでは以下詳細。</p>
+<h2 id="結果1-Health-Predisposition-病気発症のリスク"><a href="#結果1-Health-Predisposition-病気発症のリスク" class="headerlink" title="結果1 : Health Predisposition - 病気発症のリスク"></a>結果1 : Health Predisposition - 病気発症のリスク</h2><p>これは自分が発症する可能性のある病気についての報告。13種の病気について検査が行われ、そのうち3つの病気についてリスク因子が見つかってしまった。</p>
+<ul>
+<li><strong>Age-Related Macular Degeneration（加齢黄斑変性)</strong><br></li>
+<li><strong>リスク : Variant detected, not likely at increased risk（疑われる要因が検出されたがリスクが高くなる可能性は低い）</strong><br></li>
+</ul>
+<p>加齢に伴い網膜に老廃物が蓄積することで、視力が弱ってしまう病気らしい。生活習慣の影響が大きいので、摂取する栄養には気をつけたい。ビタミンC、ビタミンE、ベータカロチンや亜鉛のサプリメントが効果的とのこと。</p>
+<ul>
+<li><strong>病名 : Late-Onset Alzheimer’s Disease（遅発性アルツハイマー病）</strong><br></li>
+<li><strong>リスク : Slightly increased risk（他者に比べてわずかにリスクが高い）</strong></li>
+</ul>
+<p>認知症の原因となることで知られるアルツハイマー病。原因になる遺伝子 はAPOEと呼ばれており、ε 2、ε 3、およびε 4の3タイプがあるそうだ。この中でも今回検査で見つかったのは<strong>ε 4</strong>タイプ。このε 4を持っている場合、通常の3 ~10倍ほどアルツハイマー病の発症リスクが高まるらしい。”slightly increased risk（他者に比べてわずかにリスクが高い）” と表現されているが、中々ショッキングな話だ。23andmeのデータを見るとε 4の保有者の約20%強が85歳までにアルツハイマー病を発症している。</p>
+<ul>
+<li><strong>病名 : Type 2 Diabetes（2型糖尿病）</strong><br></li>
+<li><strong>リスク : typical likelihood（典型的な可能性）</strong></li>
+</ul>
+<p>23andMeの研究データに基づくと、自分のような遺伝学を持つ東アジア系の人々は、40歳から80歳の間のある時点で2型糖尿病を発症する可能性が推定32％あるとのこと。親族にも糖尿病は見られるのでこれは予測できていた。</p>
+<figure>
+  <img src="https://i.gyazo.com/2c5fcfd7a8c83e6ed9b9dbe8093fc4bb.jpg">
+  <figcaption>
+    ↑病気のレポートページ。詳細な数字や、取るべきアクションも別ページに記載されている。
+  </figcaption>
+</figure>
+
+<h2 id="結果2-Carrier-Status-病気の遺伝リスク"><a href="#結果2-Carrier-Status-病気の遺伝リスク" class="headerlink" title="結果2 : Carrier Status - 病気の遺伝リスク"></a>結果2 : Carrier Status - 病気の遺伝リスク</h2><p>この検査結果は自分の発症とは関係なく、子供に遺伝する病気のリスクについて示している。ブルーム症候群やカナバン病など聞きなれないものが多いが、44種の病気についての検査が行われた。その結果リスクは1つも見つからなかった。</p>
+<h2 id="結果3-Wellness-生活の特徴"><a href="#結果3-Wellness-生活の特徴" class="headerlink" title="結果3 : Wellness - 生活の特徴"></a>結果3 : Wellness - 生活の特徴</h2><p>運動や睡眠など、日常生活に関係する項目。書かれていたことはざっくりこんな感じ。</p>
+<ul>
+<li>他者に比べてお酒を飲んだあとは赤面しない</li>
+<li>コーヒーの消費量は他者に比べて少なめ</li>
+<li>眠りはそれほど深くない（寝起きが良い）</li>
+<li>体重は平均よりも3%ほど軽い</li>
+<li>乳糖不耐症（乳製品を消化できない）</li>
+<li>エリートアスリートによくある筋肉遺伝子と同じものを保有（本当か？？）</li>
+<li>よく寝返りをうつ</li>
+</ul>
+<h2 id="結果4-Traits-身体的特徴"><a href="#結果4-Traits-身体的特徴" class="headerlink" title="結果4 : Traits - 身体的特徴"></a>結果4 : Traits - 身体的特徴</h2><p>体の外見に関する特徴。</p>
+<ul>
+<li>背中の体毛は少ない</li>
+<li>禿げにくい</li>
+<li>割れアゴではない</li>
+<li>耳たぶが丸い</li>
+<li>耳垢は乾いている</li>
+<li>目の色はダークブラウン</li>
+<li>薬指が人差し指より長い</li>
+<li>そばかすが少ない</li>
+<li>髪質はストレート</li>
+<li>髪の色はダークブラウン</li>
+<li>足の親指がでかい</li>
+<li>富士額ではない</li>
+<li>感覚に関する特徴</li>
+<li>アスパラガスを食べた後のおしっこの匂いを嗅ぎ分けられる</li>
+<li>苦味を感じやすい</li>
+<li>コリアンダーを嫌いやすい</li>
+<li>甘味よりは塩味が好き</li>
+<li>その他特徴</li>
+<li>音程を合わせやすい</li>
+<li>高所恐怖症ではない</li>
+<li>人前で緊張しない</li>
+<li>足の裏が平</li>
+<li>髪の毛が太い</li>
+<li>乗り物酔いしやすい</li>
+<li>太陽を見てくしゃみが出にくい</li>
+<li>朝起きるのは7:48</li>
+</ul>
+<p><a href="https://gyazo.com/21d492ae3558fd856d937491677a04c2" target="_blank" rel="noopener"><img src="https://i.gyazo.com/21d492ae3558fd856d937491677a04c2.jpg" alt="Image from Gyazo"></a></p>
+<p>「乗り物に酔いやすい」とか、「乳製品を消化しづらい」みたいなのは知っておくと役に立ちそう。でも「薬指が人差し指より長い」とか「富士額ではない」みたいなのは役に立つんだろうか。まあ当たってはいるんだけど。</p>
+<p><strong>「アスパラガスを食べた後のおしっこの匂いを嗅ぎ分けられる」</strong>に至ってはもはや何が言いたいのかさっぱりだ。調べてみたところ、この「アスパラガス問題」は欧米では1800年代から続く有名な議論らしい。アスパラガスを食べた後はおしっこの匂いが強烈に臭くなるが、その臭いを嗅ぎ分けれる人とそうでない人が4:6くらいで分かれるとのこと。（僕は嗅ぎ分けられる方）ちょうど今日、冷蔵庫にアスパラガスが入っているのを見かけたので試してみようと思う。</p>
+<h2 id="（おまけ）-検出された近縁者がたくさん。-中にはかなり近い人も"><a href="#（おまけ）-検出された近縁者がたくさん。-中にはかなり近い人も" class="headerlink" title="（おまけ） 検出された近縁者がたくさん。 中にはかなり近い人も"></a>（おまけ） 検出された近縁者がたくさん。 中にはかなり近い人も</h2><p>23andMeでは自分の近縁に当たる人を列挙してくれる。2014年時点で136人が挙がっていた。2021年現在では398人に増えており、そのうち107人が3-4th cousin 以内の関係だということだ。</p>
+<p><a href="https://gyazo.com/b2dc53422a1f112f70b220d99aff6741" target="_blank" rel="noopener"><img src="https://i.gyazo.com/b2dc53422a1f112f70b220d99aff6741.png" alt="Image from Gyazo"></a></p>
+<p>~~th cousinの説明について は以下の画像が分かりやすい。</p>
+<p><figure>
+  <img src="https://i.gyazo.com/1416d3962c79a322977afe24e2961c9f.jpg">
+  <figcaption>
+    出典 : <a href="https://www.familysearch.org/blog/en/cousin-chart/" target="_blank" rel="noopener">Cousin Chart—Family Relationships Explained</a>
+  </figcaption></figure></p>
+<figure>
+
+<p><figure>
+  <img src="https://i.gyazo.com/be4151e3b8bd8db0f1bc4c2fe7e70c51.jpg">
+  <figcaption>
+    近縁者の地域分布
+  </figcaption></figure></p>
+<figure>
+
+<p><figure>
+  <img src="https://i.gyazo.com/08f305ee1f3c681d34da73e638736dac.jpg">
+  <figcaption>
+    関係が近い順に列挙された近縁者。アイコンや名前はモザイクをかけている。
+  </figcaption></figure></p>
+<figure>
+
+<p><figure>
+  <img src="https://i.gyazo.com/5079c7dbb92034a8b83ad048ac4c2f01.jpg">
+  <figcaption>
+    関係が近い人はファミリーツリーに表示される
+  </figcaption></figure></p>
+<figure>
+
+<p>一番関係が近い人では、なんと2nd-cousinに当たる人がいた。共通の曽祖父をもつ関係だ。日本人で実名っぽい名前で登録されていたが聞き覚えはない。両親にも確認してみたが知らないとのこと。場合によってはとてもデリケートな事情があるかもしれないので、他の親戚にもあまり詳しくは聞いていない。</p>
+<p><a href="https://gyazo.com/a46a6167d8b590c5cb14d5749e645e87" target="_blank" rel="noopener"><img src="https://i.gyazo.com/a46a6167d8b590c5cb14d5749e645e87.png" alt="Image from Gyazo"></a></p>
+<p><figure>
+  <img src="https://i.gyazo.com/169388c6a066640daf01375830520f14.jpg">
+  <figcaption>
+    見つかった2nd-cousinと自分の関係。（2nd-cousinの子供 または3rd-cousinの親も可能性に含まれるらしい）
+  </figcaption></figure></p>
+<figure>
+
+<h2 id="まとめ"><a href="#まとめ" class="headerlink" title="まとめ"></a>まとめ</h2><p>今回遺伝子検査を元にした医療情報を確認することで自分の病気のリスクを知ることができた。悪い報告もあったけど、知っておくことは大きな武器になる。病名を元に調べればたくさんの予防策が紹介されている。加齢黄斑変性についてはビタミンC、ビタミンE、ベータカロチンのサプリメントの高い効果が確認されているようだ。アルツハイマー病と糖尿病には運動や糖分控えなど共通する対策が多い。今後はこれらの情報を元に最善のアクションを心がけようと思う。</p>
+<p>検査を実施して7年経過しても、有益な情報が届き続けていることに一定の価値を感じる。その一方で、検査を受けた時には想像もしなかった情報や人間関係が数年経ってから発覚しており、少し戸惑っている。軽い気持ちで提供した遺伝子情報だったがもっと慎重に扱うべきなんだろう。</p>
+</figure></figure></figure></figure></figure></div><div><h3 class="main-col__title">Related Posts</h3><ul class="related-posts"><li class="related-posts-item"><div class="related-posts-date">2014-03-02</div><div class="related-posts-img"><img src="https://i.gyazo.com/09ff32cf35310f49e4c169ffef4bc6ed.png" /></div><div class="related-posts-title"><h3><a href="/post/23andme-result/" title="23andmeのDNA検査を受けてみた結果(ご先祖情報編）" rel="bookmark">23andmeのDNA検査を受けてみた結果(ご先祖情報編）</a></h3></div></li><li class="related-posts-item"><div class="related-posts-date">2014-01-27</div><div class="related-posts-img"><img src="https://i.gyazo.com/6ac8216baf58cbd4b5c09af717361758.png" /></div><div class="related-posts-title"><h3><a href="/post/23andme-try/" title="23andMeのDNA検査を受けてみた(準備編）" rel="bookmark">23andMeのDNA検査を受けてみた(準備編）</a></h3></div></li><li class="related-posts-item"><div class="related-posts-date">2014-04-18</div><div class="related-posts-img"><img src="https://i.gyazo.com/bb5453a29c1972052ecc0a6160cd2b94.jpg" /></div><div class="related-posts-title"><h3><a href="/post/techcrunch-hackathon/" title="TechCrunch主催のハッカソンに参加した" rel="bookmark">TechCrunch主催のハッカソンに参加した</a></h3></div></li></ul></div></div></div><div class="side-col"><div id="popular-posts-box"><h3 class="side-col__title">Popular Posts</h3><ul class="popular-posts"><li class="popular-posts-item"><div class="popular-posts-date">2014-11-02</div><div class="popular-posts-img"><img src="https://i.gyazo.com/609c918f47199ac3885b944d1ae3293a.jpg" /></div><div class="popular-posts-title"><h3><a href="/post/john-muir-trail-day5/" title="John Muir Trail – Day 5　疲労" rel="bookmark">John Muir Trail – Day 5　疲労</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-date">2014-03-02</div><div class="popular-posts-img"><img src="https://i.gyazo.com/09ff32cf35310f49e4c169ffef4bc6ed.png" /></div><div class="popular-posts-title"><h3><a href="/post/23andme-result/" title="23andmeのDNA検査を受けてみた結果(ご先祖情報編）" rel="bookmark">23andmeのDNA検査を受けてみた結果(ご先祖情報編）</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-date">2021-01-30</div><div class="popular-posts-img"><img src="https://i.gyazo.com/f0c23106d98c05327bf840cceddaa5d5.jpg" /></div><div class="popular-posts-title"><h3><a href="/post/a7-try/" title="初めてのフルサイズミラーレス一眼" rel="bookmark">初めてのフルサイズミラーレス一眼</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-date">2019-03-20</div><div class="popular-posts-img"><img src="https://i.gyazo.com/8c5123aa5ab5d85104022a23eee725b0.jpg" /></div><div class="popular-posts-title"><h3><a href="/post/apollon-try/" title="️ogawaアポロンの試し張りでフレームを曲げてまった" rel="bookmark">️ogawaアポロンの試し張りでフレームを曲げてまった</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-date">2017-08-15</div><div class="popular-posts-img"><img src="https://i.gyazo.com/571d72dc44cd9ac1a573d3921e24825f.jpg" /></div><div class="popular-posts-title"><h3><a href="/post/bike-camp-kannabe/" title="真夏の一番暑い時期にツーリングキャンプを決行" rel="bookmark">真夏の一番暑い時期にツーリングキャンプを決行</a></h3></div></li></ul></div><div><h3 class="side-col__title">Recent Posts</h3><ul class="popular-posts"><li class="popular-posts-item"><div class="popular-posts-date">2021-2-13</div><div class="popular-posts-img"><img src="https://i.gyazo.com/de912553506a0423e11d7a87b76ab5d4.jpg"/></div><div class="popular-posts-title"><h3><a href="/post/23andme-result-medical/" title="23andMeのDNA検査を受けてみた結果(医療情報編）">23andMeのDNA検査を受けてみた結果(医療情報編）</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-date">2021-1-30</div><div class="popular-posts-img"><img src="https://i.gyazo.com/df3d9eefe87a008eec035e44541bc778.jpg"/></div><div class="popular-posts-title"><h3><a href="/post/a7-try/" title="初めてのフルサイズミラーレス一眼">初めてのフルサイズミラーレス一眼</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-date">2021-1-30</div><div class="popular-posts-img"><img src="https://i.gyazo.com/50eeac8d504b6ca60b74d9e88719bb07.jpg"/></div><div class="popular-posts-title"><h3><a href="/post/pizza-yamada/" title="Snowpeak焚き火台Mとダッチオーブンでピザランチ">Snowpeak焚き火台Mとダッチオーブンでピザランチ</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-date">2021-1-27</div><div class="popular-posts-img"><img src="https://i.gyazo.com/5346701e54448a75f7a0a1777ca124b8.jpg"/></div><div class="popular-posts-title"><h3><a href="/post/buy-focus/" title="PAAGOWORKSのカメラバッグFOCUSをα7ⅲ用に買って失敗">PAAGOWORKSのカメラバッグFOCUSをα7ⅲ用に買って失敗</a></h3></div></li><li class="popular-posts-item"><div class="popular-posts-date">2020-12-26</div><div class="popular-posts-img"><img src="https://i.gyazo.com/79c42c023192b24f9278d74c136ce427.jpg"/></div><div class="popular-posts-title"><h3><a href="/post/multi_container_m/" title="ペグケースとしてSnowpeakのマルチコンテナSを購入">ペグケースとしてSnowpeakのマルチコンテナSを購入</a></h3></div></li></ul></div><div><h3 class="side-col__title">Tags</h3><ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/登山/">登山</a><span class="tag-list-count">30</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ロングトレイル/">ロングトレイル</a><span class="tag-list-count">29</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/旅/">旅</a><span class="tag-list-count">28</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ジョン・ミューア・トレイル/">ジョン・ミューア・トレイル</a><span class="tag-list-count">27</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/キャンプ/">キャンプ</a><span class="tag-list-count">9</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/京都/">京都</a><span class="tag-list-count">7</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ギア/">ギア</a><span class="tag-list-count">6</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/大阪/">大阪</a><span class="tag-list-count">5</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/アポロン/">アポロン</a><span class="tag-list-count">4</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/デザイン/">デザイン</a><span class="tag-list-count">4</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/API/">API</a><span class="tag-list-count">4</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/iOS/">iOS</a><span class="tag-list-count">4</span></li></ul></div></div></div></div><footer class="footer"><div class="footer__upper-row"><a class="footer__logo" href="/"><img src="/img/footer_logo.png"/><div class="footer__tagline">- 山と旅とキャンプのブログ -</div></a></div><div class="footer__bottom-row"><div class="container"><div class="footer__copywrite">© 2021 Takeru Yoshihara </div><div class="footer__buttons"><a class="icon-button icon-button--light" href="https://twitter.com/mountainboooy" target="_blank" rel="noopener"><img src="/img/twitter_dark.svg"/></a><a class="icon-button icon-button--light" href="https://www.instagram.com/takeru80/" target="_blank" rel="noopener"><img src="/img/instagram_dark.svg"/></a></div></div></div></footer></div></body></html>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mountainboy.me/"/>
-  <updated>2021-02-16T15:00:29.439Z</updated>
+  <updated>2021-02-25T14:19:35.995Z</updated>
   <id>https://mountainboy.me/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>平日のファミリーキャンプが色々最高だった</title>
+    <link href="https://mountainboy.me/post/weekday-camping/"/>
+    <id>https://mountainboy.me/post/weekday-camping/</id>
+    <published>2021-02-24T15:02:43.000Z</published>
+    <updated>2021-02-25T14:19:35.995Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;予約下手な我が家、平日に有休を取って冬キャンプを決行。
+場所は&lt;a href=&quot;http://www.grimm-camp.com/&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
+    
+      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
+    
+      <category term="グリム冒険の森" scheme="https://mountainboy.me/tags/%E3%82%B0%E3%83%AA%E3%83%A0%E5%86%92%E9%99%BA%E3%81%AE%E6%A3%AE/"/>
+    
+      <category term="滋賀" scheme="https://mountainboy.me/tags/%E6%BB%8B%E8%B3%80/"/>
+    
+  </entry>
   
   <entry>
     <title>大阪寝屋川市の南農園でいちご狩り</title>
@@ -579,13 +610,13 @@
     
       <category term="webサービス" scheme="https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
     
-      <category term="リリース" scheme="https://mountainboy.me/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/"/>
-    
-      <category term="新幹線" scheme="https://mountainboy.me/tags/%E6%96%B0%E5%B9%B9%E7%B7%9A/"/>
-    
       <category term="shinkansen" scheme="https://mountainboy.me/tags/shinkansen/"/>
     
       <category term="travel" scheme="https://mountainboy.me/tags/travel/"/>
+    
+      <category term="リリース" scheme="https://mountainboy.me/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/"/>
+    
+      <category term="新幹線" scheme="https://mountainboy.me/tags/%E6%96%B0%E5%B9%B9%E7%B7%9A/"/>
     
       <category term="旅行" scheme="https://mountainboy.me/tags/%E6%97%85%E8%A1%8C/"/>
     
@@ -614,34 +645,6 @@
       <category term="自作" scheme="https://mountainboy.me/tags/%E8%87%AA%E4%BD%9C/"/>
     
       <category term="ウルトラライト" scheme="https://mountainboy.me/tags/%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%83%A9%E3%82%A4%E3%83%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>John Muir Trail　歩き終えた後の感想</title>
-    <link href="https://mountainboy.me/post/john-muir-trail-closing/"/>
-    <id>https://mountainboy.me/post/john-muir-trail-closing/</id>
-    <published>2014-12-06T09:22:12.000Z</published>
-    <updated>2021-01-24T07:12:46.375Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;シエラの自然はダイナミックだった。でも一番印象に残ったのは自然ではなく、ハイカーの文化だった。老若男女、色んなハイカーがいた。カップルで歩くハイカー、熟年の夫婦、中年の友人同士、ソロのおじいさんなど。こんなに多彩な人たちが、ただ歩くという行為をそれぞれのスタイルで楽しんいる事に驚いた。
-    
-    </summary>
-    
-      <category term="ライフ" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/"/>
-    
-      <category term="旅" scheme="https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/"/>
-    
-    
-      <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
-    
-      <category term="ジョン・ミューア・トレイル" scheme="https://mountainboy.me/tags/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
-    
-      <category term="ロングトレイル" scheme="https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
-    
-      <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
     
   </entry>
   

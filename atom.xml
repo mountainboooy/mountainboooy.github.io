@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mountainboy.me/"/>
-  <updated>2021-03-02T14:48:21.586Z</updated>
+  <updated>2021-03-06T14:46:17.791Z</updated>
   <id>https://mountainboy.me/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://mountainboy.me/post/tatonka-fire/"/>
     <id>https://mountainboy.me/post/tatonka-fire/</id>
     <published>2021-03-02T14:36:32.000Z</published>
-    <updated>2021-03-02T14:48:21.586Z</updated>
+    <updated>2021-03-06T14:46:17.791Z</updated>
     
     <summary type="html">
     
@@ -55,7 +55,7 @@
     <link href="https://mountainboy.me/post/weekday-camping/"/>
     <id>https://mountainboy.me/post/weekday-camping/</id>
     <published>2021-02-24T15:02:43.000Z</published>
-    <updated>2021-02-25T14:19:35.995Z</updated>
+    <updated>2021-03-06T14:54:56.127Z</updated>
     
     <summary type="html">
     
@@ -136,11 +136,11 @@
     
       <category term="API" scheme="https://mountainboy.me/tags/API/"/>
     
+      <category term="ルーツ探し" scheme="https://mountainboy.me/tags/%E3%83%AB%E3%83%BC%E3%83%84%E6%8E%A2%E3%81%97/"/>
+    
       <category term="DNA検査" scheme="https://mountainboy.me/tags/DNA%E6%A4%9C%E6%9F%BB/"/>
     
       <category term="google" scheme="https://mountainboy.me/tags/google/"/>
-    
-      <category term="ルーツ探し" scheme="https://mountainboy.me/tags/%E3%83%AB%E3%83%BC%E3%83%84%E6%8E%A2%E3%81%97/"/>
     
   </entry>
   

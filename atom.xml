@@ -136,11 +136,11 @@
     
       <category term="API" scheme="https://mountainboy.me/tags/API/"/>
     
-      <category term="ルーツ探し" scheme="https://mountainboy.me/tags/%E3%83%AB%E3%83%BC%E3%83%84%E6%8E%A2%E3%81%97/"/>
-    
       <category term="DNA検査" scheme="https://mountainboy.me/tags/DNA%E6%A4%9C%E6%9F%BB/"/>
     
       <category term="google" scheme="https://mountainboy.me/tags/google/"/>
+    
+      <category term="ルーツ探し" scheme="https://mountainboy.me/tags/%E3%83%AB%E3%83%BC%E3%83%84%E6%8E%A2%E3%81%97/"/>
     
   </entry>
   
@@ -363,6 +363,37 @@
       <category term="京都" scheme="https://mountainboy.me/tags/%E4%BA%AC%E9%83%BD/"/>
     
       <category term="大正池グリーンパーク" scheme="https://mountainboy.me/tags/%E5%A4%A7%E6%AD%A3%E6%B1%A0%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%91%E3%83%BC%E3%82%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大阪から2時間以内、天川村で日帰り川遊び</title>
+    <link href="https://mountainboy.me/post/tenkawa-day/"/>
+    <id>https://mountainboy.me/post/tenkawa-day/</id>
+    <published>2020-08-13T14:12:03.000Z</published>
+    <updated>2021-03-06T14:21:16.106Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;今年もやってきた。奈良県天川村の川遊び。夏っぽさを味わうのにこれほど良い場所ない。でも去年のキャンプとはとは違って今年はコロナの影響下ということもあり、日帰りで遊べる場所を選択した。&lt;/p&gt;
+&lt;h2 id=&quot;場所&quot;&gt;&lt;a href=&quot;#場所&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="デイキャンプ" scheme="https://mountainboy.me/tags/%E3%83%87%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
+    
+      <category term="川遊び" scheme="https://mountainboy.me/tags/%E5%B7%9D%E9%81%8A%E3%81%B3/"/>
+    
+      <category term="天川村" scheme="https://mountainboy.me/tags/%E5%A4%A9%E5%B7%9D%E6%9D%91/"/>
+    
+      <category term="日帰り" scheme="https://mountainboy.me/tags/%E6%97%A5%E5%B8%B0%E3%82%8A/"/>
     
   </entry>
   
@@ -619,40 +650,6 @@
       <category term="神鍋高原" scheme="https://mountainboy.me/tags/%E7%A5%9E%E9%8D%8B%E9%AB%98%E5%8E%9F/"/>
     
       <category term="ハイマート佐仲" scheme="https://mountainboy.me/tags/%E3%83%8F%E3%82%A4%E3%83%9E%E3%83%BC%E3%83%88%E4%BD%90%E4%BB%B2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>外国人旅行者向けに新幹線の予約サービスを作ってみた</title>
-    <link href="https://mountainboy.me/post/shinkansen-reservation/"/>
-    <id>https://mountainboy.me/post/shinkansen-reservation/</id>
-    <published>2016-09-20T14:13:17.000Z</published>
-    <updated>2021-01-23T09:21:26.369Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;外国人旅行者向けに&lt;a href=&quot;http://www.j-pilot.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;新幹線の予約サービス&lt;/a&gt;を作ってみた。
-    
-    </summary>
-    
-      <category term="デザイン" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/"/>
-    
-      <category term="ブログ" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/"/>
-    
-      <category term="開発" scheme="https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E9%96%8B%E7%99%BA/"/>
-    
-    
-      <category term="webサービス" scheme="https://mountainboy.me/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
-    
-      <category term="リリース" scheme="https://mountainboy.me/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/"/>
-    
-      <category term="新幹線" scheme="https://mountainboy.me/tags/%E6%96%B0%E5%B9%B9%E7%B7%9A/"/>
-    
-      <category term="shinkansen" scheme="https://mountainboy.me/tags/shinkansen/"/>
-    
-      <category term="travel" scheme="https://mountainboy.me/tags/travel/"/>
-    
-      <category term="旅行" scheme="https://mountainboy.me/tags/%E6%97%85%E8%A1%8C/"/>
     
   </entry>
   

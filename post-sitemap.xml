@@ -8,8 +8,40 @@
     </url>
 
     <url>
+        <loc>https://mountainboy.me/post/try-4tc/</loc>
+        <lastmod>2021-03-07T14:39:16.845Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/post/pizza-yamada/</loc>
+        <lastmod>2021-03-07T14:26:42.732Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/post/a7-try/</loc>
+        <lastmod>2021-03-07T14:22:22.731Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/post/multi_container_m/</loc>
+        <lastmod>2021-03-07T14:16:24.427Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://mountainboy.me/post/weekday-camping/</loc>
-        <lastmod>2021-03-06T14:54:56.127Z</lastmod>
+        <lastmod>2021-03-06T14:57:18.899Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -106,30 +138,6 @@
     <url>
         <loc>https://mountainboy.me/post/bike-camp-kannabe/</loc>
         <lastmod>2021-02-03T15:04:24.153Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/post/a7-try/</loc>
-        <lastmod>2021-01-30T15:28:14.904Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/post/pizza-yamada/</loc>
-        <lastmod>2021-01-29T15:39:08.232Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/post/try-4tc/</loc>
-        <lastmod>2021-01-29T15:38:54.509Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -554,14 +562,6 @@
     <url>
         <loc>https://mountainboy.me/post/apollon-try/</loc>
         <lastmod>2021-01-23T08:25:26.855Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/post/multi_container_m/</loc>
-        <lastmod>2021-01-23T04:07:04.979Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

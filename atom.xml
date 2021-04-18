@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mountainboy.me/"/>
-  <updated>2021-04-18T06:41:31.012Z</updated>
+  <updated>2021-04-18T07:28:25.114Z</updated>
   <id>https://mountainboy.me/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://mountainboy.me/post/apollon-setting/"/>
     <id>https://mountainboy.me/post/apollon-setting/</id>
     <published>2021-04-18T05:50:13.000Z</published>
-    <updated>2021-04-18T06:41:31.012Z</updated>
+    <updated>2021-04-18T07:28:25.114Z</updated>
     
     <summary type="html">
     
@@ -507,9 +507,9 @@
     </summary>
     
     
-      <category term="ビワイチ" scheme="https://mountainboy.me/tags/%E3%83%93%E3%83%AF%E3%82%A4%E3%83%81/"/>
-    
       <category term="自転車" scheme="https://mountainboy.me/tags/%E8%87%AA%E8%BB%A2%E8%BB%8A/"/>
+    
+      <category term="ビワイチ" scheme="https://mountainboy.me/tags/%E3%83%93%E3%83%AF%E3%82%A4%E3%83%81/"/>
     
       <category term="琵琶湖" scheme="https://mountainboy.me/tags/%E7%90%B5%E7%90%B6%E6%B9%96/"/>
     

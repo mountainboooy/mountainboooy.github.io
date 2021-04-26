@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mountainboy.me/"/>
-  <updated>2021-04-18T07:32:48.057Z</updated>
+  <updated>2021-04-26T14:30:27.025Z</updated>
   <id>https://mountainboy.me/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>4〜5月の低山ハイキングのウェアについて考える</title>
+    <link href="https://mountainboy.me/post/layer-spring/"/>
+    <id>https://mountainboy.me/post/layer-spring/</id>
+    <published>2021-04-24T12:11:55.000Z</published>
+    <updated>2021-04-26T14:30:27.025Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;夏や冬のウェアについては条件がはっきりしているので決めやすい。暑いか寒いかに振れているので、Web上に溢れる情報に参照できるものがたくさんある。&lt;/p&gt;
+&lt;p&gt;春秋の服装については難しい。１日の中でも気温が変化するし、場所や標高によって条件が大きく異なる。自分が歩く山の条件
+        
+      
+    
+    </summary>
+    
+    
+      <category term="ギア" scheme="https://mountainboy.me/tags/%E3%82%AE%E3%82%A2/"/>
+    
+      <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
+    
+      <category term="ハイキング" scheme="https://mountainboy.me/tags/%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0/"/>
+    
+      <category term="ウェア" scheme="https://mountainboy.me/tags/%E3%82%A6%E3%82%A7%E3%82%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>1人でもできる、 アポロンの設営時間を短縮するポイント</title>
@@ -37,13 +68,13 @@
     </summary>
     
     
+      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
+    
       <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
     
       <category term="ogawa" scheme="https://mountainboy.me/tags/ogawa/"/>
     
       <category term="テント" scheme="https://mountainboy.me/tags/%E3%83%86%E3%83%B3%E3%83%88/"/>
-    
-      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
     
       <category term="ギア" scheme="https://mountainboy.me/tags/%E3%82%AE%E3%82%A2/"/>
     
@@ -132,9 +163,9 @@
     </summary>
     
     
-      <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
-    
       <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
+    
+      <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
     
       <category term="グリム冒険の森" scheme="https://mountainboy.me/tags/%E3%82%B0%E3%83%AA%E3%83%A0%E5%86%92%E9%99%BA%E3%81%AE%E6%A3%AE/"/>
     
@@ -197,11 +228,11 @@
     
       <category term="API" scheme="https://mountainboy.me/tags/API/"/>
     
-      <category term="ルーツ探し" scheme="https://mountainboy.me/tags/%E3%83%AB%E3%83%BC%E3%83%84%E6%8E%A2%E3%81%97/"/>
-    
       <category term="DNA検査" scheme="https://mountainboy.me/tags/DNA%E6%A4%9C%E6%9F%BB/"/>
     
       <category term="google" scheme="https://mountainboy.me/tags/google/"/>
+    
+      <category term="ルーツ探し" scheme="https://mountainboy.me/tags/%E3%83%AB%E3%83%BC%E3%83%84%E6%8E%A2%E3%81%97/"/>
     
   </entry>
   
@@ -259,11 +290,11 @@
     
       <category term="Snowpeak" scheme="https://mountainboy.me/tags/Snowpeak/"/>
     
+      <category term="山田池公園" scheme="https://mountainboy.me/tags/%E5%B1%B1%E7%94%B0%E6%B1%A0%E5%85%AC%E5%9C%92/"/>
+    
       <category term="焚き火台M" scheme="https://mountainboy.me/tags/%E7%84%9A%E3%81%8D%E7%81%AB%E5%8F%B0M/"/>
     
       <category term="ダッチオーブン" scheme="https://mountainboy.me/tags/%E3%83%80%E3%83%83%E3%83%81%E3%82%AA%E3%83%BC%E3%83%96%E3%83%B3/"/>
-    
-      <category term="山田池公園" scheme="https://mountainboy.me/tags/%E5%B1%B1%E7%94%B0%E6%B1%A0%E5%85%AC%E5%9C%92/"/>
     
   </entry>
   
@@ -353,8 +384,6 @@
     
       <category term="ギア" scheme="https://mountainboy.me/tags/%E3%82%AE%E3%82%A2/"/>
     
-      <category term="山田池公園" scheme="https://mountainboy.me/tags/%E5%B1%B1%E7%94%B0%E6%B1%A0%E5%85%AC%E5%9C%92/"/>
-    
       <category term="タトンカ4TC" scheme="https://mountainboy.me/tags/%E3%82%BF%E3%83%88%E3%83%B3%E3%82%AB4TC/"/>
     
       <category term="タープ" scheme="https://mountainboy.me/tags/%E3%82%BF%E3%83%BC%E3%83%97/"/>
@@ -362,6 +391,8 @@
       <category term="FIELDOOR" scheme="https://mountainboy.me/tags/FIELDOOR/"/>
     
       <category term="ポール" scheme="https://mountainboy.me/tags/%E3%83%9D%E3%83%BC%E3%83%AB/"/>
+    
+      <category term="山田池公園" scheme="https://mountainboy.me/tags/%E5%B1%B1%E7%94%B0%E6%B1%A0%E5%85%AC%E5%9C%92/"/>
     
   </entry>
   
@@ -417,9 +448,9 @@
     </summary>
     
     
-      <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
-    
       <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
+    
+      <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
     
       <category term="京都" scheme="https://mountainboy.me/tags/%E4%BA%AC%E9%83%BD/"/>
     
@@ -507,9 +538,9 @@
     </summary>
     
     
-      <category term="ビワイチ" scheme="https://mountainboy.me/tags/%E3%83%93%E3%83%AF%E3%82%A4%E3%83%81/"/>
-    
       <category term="自転車" scheme="https://mountainboy.me/tags/%E8%87%AA%E8%BB%A2%E8%BB%8A/"/>
+    
+      <category term="ビワイチ" scheme="https://mountainboy.me/tags/%E3%83%93%E3%83%AF%E3%82%A4%E3%83%81/"/>
     
       <category term="琵琶湖" scheme="https://mountainboy.me/tags/%E7%90%B5%E7%90%B6%E6%B9%96/"/>
     
@@ -536,9 +567,9 @@
     </summary>
     
     
-      <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
-    
       <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
+    
+      <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
     
       <category term="デイキャンプ" scheme="https://mountainboy.me/tags/%E3%83%87%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
     
@@ -605,41 +636,6 @@
       <category term="ゴールデンウィーク" scheme="https://mountainboy.me/tags/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF/"/>
     
       <category term="キャンプ場" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E5%A0%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>初めてのファミリーキャンプでogawaアポロンを使ってみた感想</title>
-    <link href="https://mountainboy.me/post/first-apollon/"/>
-    <id>https://mountainboy.me/post/first-apollon/</id>
-    <published>2019-04-29T15:00:00.000Z</published>
-    <updated>2021-01-25T14:29:43.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;先日購入したアポロンのデビュー戦。試し張りでフレームを曲げてしまって以来はじめてのキャンプ。ファミリーキャンプでは子供の相手をしながらの設営となるため、作業に手間取ることは許されない。緊張の初戦。&lt;/p&gt;
-&lt;p&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
-    
-      <category term="ogawa" scheme="https://mountainboy.me/tags/ogawa/"/>
-    
-      <category term="テント" scheme="https://mountainboy.me/tags/%E3%83%86%E3%83%B3%E3%83%88/"/>
-    
-      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
-    
-      <category term="ギア" scheme="https://mountainboy.me/tags/%E3%82%AE%E3%82%A2/"/>
-    
-      <category term="グループキャンプ" scheme="https://mountainboy.me/tags/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
     
   </entry>
   

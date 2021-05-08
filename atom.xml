@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mountainboy.me/"/>
-  <updated>2021-05-08T04:57:22.043Z</updated>
+  <updated>2021-05-08T11:45:22.229Z</updated>
   <id>https://mountainboy.me/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PeakDesignのCaptureをOMM Classic25で使ってみた</title>
+    <link href="https://mountainboy.me/post/capture-omm/"/>
+    <id>https://mountainboy.me/post/capture-omm/</id>
+    <published>2021-05-08T11:29:18.000Z</published>
+    <updated>2021-05-08T11:45:22.229Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;山歩きの最中にミラーレス一眼で軽快に写真を撮りたい&quot;&gt;&lt;a href=&quot;#山歩きの最中にミラーレス一眼で軽快に写真を撮りたい&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="カメラ" scheme="https://mountainboy.me/tags/%E3%82%AB%E3%83%A1%E3%83%A9/"/>
+    
+      <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
+    
+      <category term="PeakDesign" scheme="https://mountainboy.me/tags/PeakDesign/"/>
+    
+      <category term="OMM" scheme="https://mountainboy.me/tags/OMM/"/>
+    
+      <category term="Classic25" scheme="https://mountainboy.me/tags/Classic25/"/>
+    
+      <category term="ハイキング" scheme="https://mountainboy.me/tags/%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>デッドスペースの少ないキャンプ用コンテナを探す → Slowerのコンテナボックスを購入</title>
@@ -103,13 +137,13 @@
     </summary>
     
     
-      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
-    
       <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
     
       <category term="ogawa" scheme="https://mountainboy.me/tags/ogawa/"/>
     
       <category term="テント" scheme="https://mountainboy.me/tags/%E3%83%86%E3%83%B3%E3%83%88/"/>
+    
+      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
     
       <category term="ギア" scheme="https://mountainboy.me/tags/%E3%82%AE%E3%82%A2/"/>
     
@@ -198,9 +232,9 @@
     </summary>
     
     
-      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
-    
       <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
+    
+      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
     
       <category term="グリム冒険の森" scheme="https://mountainboy.me/tags/%E3%82%B0%E3%83%AA%E3%83%A0%E5%86%92%E9%99%BA%E3%81%AE%E6%A3%AE/"/>
     
@@ -263,11 +297,11 @@
     
       <category term="API" scheme="https://mountainboy.me/tags/API/"/>
     
+      <category term="ルーツ探し" scheme="https://mountainboy.me/tags/%E3%83%AB%E3%83%BC%E3%83%84%E6%8E%A2%E3%81%97/"/>
+    
       <category term="DNA検査" scheme="https://mountainboy.me/tags/DNA%E6%A4%9C%E6%9F%BB/"/>
     
       <category term="google" scheme="https://mountainboy.me/tags/google/"/>
-    
-      <category term="ルーツ探し" scheme="https://mountainboy.me/tags/%E3%83%AB%E3%83%BC%E3%83%84%E6%8E%A2%E3%81%97/"/>
     
   </entry>
   
@@ -483,9 +517,9 @@
     </summary>
     
     
-      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
-    
       <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
+    
+      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
     
       <category term="京都" scheme="https://mountainboy.me/tags/%E4%BA%AC%E9%83%BD/"/>
     
@@ -573,9 +607,9 @@
     </summary>
     
     
-      <category term="自転車" scheme="https://mountainboy.me/tags/%E8%87%AA%E8%BB%A2%E8%BB%8A/"/>
-    
       <category term="ビワイチ" scheme="https://mountainboy.me/tags/%E3%83%93%E3%83%AF%E3%82%A4%E3%83%81/"/>
+    
+      <category term="自転車" scheme="https://mountainboy.me/tags/%E8%87%AA%E8%BB%A2%E8%BB%8A/"/>
     
       <category term="琵琶湖" scheme="https://mountainboy.me/tags/%E7%90%B5%E7%90%B6%E6%B9%96/"/>
     
@@ -602,46 +636,13 @@
     </summary>
     
     
-      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
-    
       <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
+    
+      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
     
       <category term="デイキャンプ" scheme="https://mountainboy.me/tags/%E3%83%87%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
     
       <category term="知明湖キャンプ場" scheme="https://mountainboy.me/tags/%E7%9F%A5%E6%98%8E%E6%B9%96%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E5%A0%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>自作のバックパックでテント泊の縦走を試してみた</title>
-    <link href="https://mountainboy.me/post/rayway-hira/"/>
-    <id>https://mountainboy.me/post/rayway-hira/</id>
-    <published>2019-05-05T14:55:32.000Z</published>
-    <updated>2021-01-28T15:22:31.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;自作したバックパックでテント泊の縦走を試してみた。これまで簡単な日帰り登山程度の用途では試していたが、テントを持った本格的な山歩きでは未使用のままだった。使い心地はどうなのか？ 耐久性は十分なのか？ いつもの登山とは全く違う冒険の感覚でワクワクする。&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
-    
-      <category term="比良山" scheme="https://mountainboy.me/tags/%E6%AF%94%E8%89%AF%E5%B1%B1/"/>
-    
-      <category term="自作ギア" scheme="https://mountainboy.me/tags/%E8%87%AA%E4%BD%9C%E3%82%AE%E3%82%A2/"/>
-    
-      <category term="MYOG" scheme="https://mountainboy.me/tags/MYOG/"/>
-    
-      <category term="Ray-Way" scheme="https://mountainboy.me/tags/Ray-Way/"/>
     
   </entry>
   

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mountainboy.me/"/>
-  <updated>2021-05-20T11:28:22.830Z</updated>
+  <updated>2021-05-23T02:19:07.196Z</updated>
   <id>https://mountainboy.me/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>低山ハイキングにはテーマを設定するとすごく楽しいという話</title>
+    <link href="https://mountainboy.me/post/hiking-theme/"/>
+    <id>https://mountainboy.me/post/hiking-theme/</id>
+    <published>2021-05-23T01:29:33.000Z</published>
+    <updated>2021-05-23T02:19:07.196Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;最近は低山ハイクばかり&quot;&gt;&lt;a href=&quot;#最近は低山ハイクばかり&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
+    
+      <category term="ハイキング" scheme="https://mountainboy.me/tags/%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>京都一周トレイルを歩く 北山西コース 比叡山〜大原</title>
@@ -41,11 +67,11 @@
     
       <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
     
+      <category term="ハイキング" scheme="https://mountainboy.me/tags/%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0/"/>
+    
       <category term="ロングトレイル" scheme="https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
       <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
-    
-      <category term="ハイキング" scheme="https://mountainboy.me/tags/%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0/"/>
     
       <category term="京都" scheme="https://mountainboy.me/tags/%E4%BA%AC%E9%83%BD/"/>
     
@@ -106,13 +132,13 @@
     
       <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
     
+      <category term="ハイキング" scheme="https://mountainboy.me/tags/%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0/"/>
+    
       <category term="PeakDesign" scheme="https://mountainboy.me/tags/PeakDesign/"/>
     
       <category term="OMM" scheme="https://mountainboy.me/tags/OMM/"/>
     
       <category term="Classic25" scheme="https://mountainboy.me/tags/Classic25/"/>
-    
-      <category term="ハイキング" scheme="https://mountainboy.me/tags/%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0/"/>
     
   </entry>
   
@@ -618,37 +644,6 @@
       <category term="京都" scheme="https://mountainboy.me/tags/%E4%BA%AC%E9%83%BD/"/>
     
       <category term="芋掘り" scheme="https://mountainboy.me/tags/%E8%8A%8B%E6%8E%98%E3%82%8A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>大阪から2時間以内、天川村で日帰り川遊び</title>
-    <link href="https://mountainboy.me/post/tenkawa-day/"/>
-    <id>https://mountainboy.me/post/tenkawa-day/</id>
-    <published>2020-08-13T14:12:03.000Z</published>
-    <updated>2021-03-06T14:21:16.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;今年もやってきた。奈良県天川村の川遊び。夏っぽさを味わうのにこれほど良い場所ない。でも去年のキャンプとはとは違って今年はコロナの影響下ということもあり、日帰りで遊べる場所を選択した。&lt;/p&gt;
-&lt;h2 id=&quot;場所&quot;&gt;&lt;a href=&quot;#場所&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="デイキャンプ" scheme="https://mountainboy.me/tags/%E3%83%87%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
-    
-      <category term="川遊び" scheme="https://mountainboy.me/tags/%E5%B7%9D%E9%81%8A%E3%81%B3/"/>
-    
-      <category term="天川村" scheme="https://mountainboy.me/tags/%E5%A4%A9%E5%B7%9D%E6%9D%91/"/>
-    
-      <category term="日帰り" scheme="https://mountainboy.me/tags/%E6%97%A5%E5%B8%B0%E3%82%8A/"/>
     
   </entry>
   

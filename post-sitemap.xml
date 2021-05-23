@@ -8,6 +8,22 @@
     </url>
 
     <url>
+        <loc>https://mountainboy.me/post/hiking-theme/</loc>
+        <lastmod>2021-05-23T02:19:07.196Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/post/apollon-try/</loc>
+        <lastmod>2021-05-23T01:30:12.166Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://mountainboy.me/post/kyoto-trail-ohara/</loc>
         <lastmod>2021-05-20T11:28:22.830Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -618,14 +634,6 @@
     <url>
         <loc>https://mountainboy.me/post/buy-apollon/</loc>
         <lastmod>2021-01-23T08:27:51.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/post/apollon-try/</loc>
-        <lastmod>2021-01-23T08:25:26.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

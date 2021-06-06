@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mountainboy.me/"/>
-  <updated>2021-05-23T02:19:07.196Z</updated>
+  <updated>2021-06-06T09:32:55.075Z</updated>
   <id>https://mountainboy.me/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>石清水八幡宮の参道を子供と歩いてみた</title>
+    <link href="https://mountainboy.me/post/iwashimizu/"/>
+    <id>https://mountainboy.me/post/iwashimizu/</id>
+    <published>2021-06-06T09:12:31.000Z</published>
+    <updated>2021-06-06T09:32:55.075Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;石清水八幡宮の参道を子供と一緒に歩いてみた。本当はもうちょっとしっかりしたハイキングに行きたいけど、まあ子供が簡単に歩ける程度の散歩道として選択。&lt;/p&gt;
+&lt;h2 id=&quot;石清水八幡宮について&quot;&gt;&lt;a href=&quot;#石清水八幡宮について&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="散歩" scheme="https://mountainboy.me/tags/%E6%95%A3%E6%AD%A9/"/>
+    
+      <category term="子供" scheme="https://mountainboy.me/tags/%E5%AD%90%E4%BE%9B/"/>
+    
+      <category term="ハイキング" scheme="https://mountainboy.me/tags/%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0/"/>
+    
+      <category term="石清水八幡宮" scheme="https://mountainboy.me/tags/%E7%9F%B3%E6%B8%85%E6%B0%B4%E5%85%AB%E5%B9%A1%E5%AE%AE/"/>
+    
+      <category term="京都" scheme="https://mountainboy.me/tags/%E4%BA%AC%E9%83%BD/"/>
+    
+  </entry>
   
   <entry>
     <title>低山ハイキングにはテーマを設定するとすごく楽しいという話</title>
@@ -69,11 +102,11 @@
     
       <category term="ハイキング" scheme="https://mountainboy.me/tags/%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0/"/>
     
+      <category term="京都" scheme="https://mountainboy.me/tags/%E4%BA%AC%E9%83%BD/"/>
+    
       <category term="ロングトレイル" scheme="https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
       <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
-    
-      <category term="京都" scheme="https://mountainboy.me/tags/%E4%BA%AC%E9%83%BD/"/>
     
   </entry>
   
@@ -132,13 +165,13 @@
     
       <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
     
-      <category term="PeakDesign" scheme="https://mountainboy.me/tags/PeakDesign/"/>
+      <category term="ハイキング" scheme="https://mountainboy.me/tags/%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0/"/>
     
       <category term="OMM" scheme="https://mountainboy.me/tags/OMM/"/>
     
-      <category term="Classic25" scheme="https://mountainboy.me/tags/Classic25/"/>
+      <category term="PeakDesign" scheme="https://mountainboy.me/tags/PeakDesign/"/>
     
-      <category term="ハイキング" scheme="https://mountainboy.me/tags/%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0/"/>
+      <category term="Classic25" scheme="https://mountainboy.me/tags/Classic25/"/>
     
   </entry>
   
@@ -389,11 +422,11 @@
     
       <category term="API" scheme="https://mountainboy.me/tags/API/"/>
     
+      <category term="ルーツ探し" scheme="https://mountainboy.me/tags/%E3%83%AB%E3%83%BC%E3%83%84%E6%8E%A2%E3%81%97/"/>
+    
       <category term="DNA検査" scheme="https://mountainboy.me/tags/DNA%E6%A4%9C%E6%9F%BB/"/>
     
       <category term="google" scheme="https://mountainboy.me/tags/google/"/>
-    
-      <category term="ルーツ探し" scheme="https://mountainboy.me/tags/%E3%83%AB%E3%83%BC%E3%83%84%E6%8E%A2%E3%81%97/"/>
     
   </entry>
   
@@ -573,11 +606,11 @@
     
       <category term="ギア" scheme="https://mountainboy.me/tags/%E3%82%AE%E3%82%A2/"/>
     
+      <category term="山田池公園" scheme="https://mountainboy.me/tags/%E5%B1%B1%E7%94%B0%E6%B1%A0%E5%85%AC%E5%9C%92/"/>
+    
       <category term="タトンカ4TC" scheme="https://mountainboy.me/tags/%E3%82%BF%E3%83%88%E3%83%B3%E3%82%AB4TC/"/>
     
       <category term="タープ" scheme="https://mountainboy.me/tags/%E3%82%BF%E3%83%BC%E3%83%97/"/>
-    
-      <category term="山田池公園" scheme="https://mountainboy.me/tags/%E5%B1%B1%E7%94%B0%E6%B1%A0%E5%85%AC%E5%9C%92/"/>
     
       <category term="FIELDOOR" scheme="https://mountainboy.me/tags/FIELDOOR/"/>
     
@@ -613,37 +646,6 @@
       <category term="タトンカ4TC" scheme="https://mountainboy.me/tags/%E3%82%BF%E3%83%88%E3%83%B3%E3%82%AB4TC/"/>
     
       <category term="タープ" scheme="https://mountainboy.me/tags/%E3%82%BF%E3%83%BC%E3%83%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>京都の静かで人が少ないキャンプ場大正池グリーンパーク</title>
-    <link href="https://mountainboy.me/post/taishoike-2020/"/>
-    <id>https://mountainboy.me/post/taishoike-2020/</id>
-    <published>2020-11-20T14:12:20.000Z</published>
-    <updated>2021-02-17T15:17:37.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;京都府井手町にあるキャンプ場、大正池グリーンパークにて一泊のファミリーキャンプを楽しんできた。人が少なく紅葉を落ち着いて楽しめる最高のキャンプ場だった。これは穴場かもしれない。
-（メイン画像出典 : &lt;a href=&quot;https://taishoike.com/&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
-    
-      <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
-    
-      <category term="京都" scheme="https://mountainboy.me/tags/%E4%BA%AC%E9%83%BD/"/>
-    
-      <category term="大正池グリーンパーク" scheme="https://mountainboy.me/tags/%E5%A4%A7%E6%AD%A3%E6%B1%A0%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%91%E3%83%BC%E3%82%AF/"/>
     
   </entry>
   

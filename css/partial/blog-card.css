@@ -1,0 +1,60 @@
+.blog-card {
+  border: 1px solid border-color;
+  max-width: 480px;
+  margin-bottom: 2rem;
+}
+.blog-card .hbc-card {
+  position: relative;
+}
+.blog-card .hbc-link {
+  text-decoration: none;
+  color: text-color;
+  line-height: 1.5rem;
+}
+.blog-card .hbc-link:hover {
+  color: link-hover-color;
+}
+.blog-card .hbc-info {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 136px;
+  top: 12px;
+responsive(xs)
+}
+.blog-card .hbc-site-name {
+  font-size: 14px;
+  line-height: 1.5rem;
+  color: #808080;
+  margin-left: 8px;
+}
+.blog-card .hbc-contents {
+  display: flex;
+}
+.blog-card .hbc-thumbnail {
+  flex: 0 0 120px;
+  height: 120px;
+responsive(xs)
+}
+.blog-card .hbc-thumbnail img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.blog-card .hbc-text {
+  padding: 44px 16px 0;
+  font-size: 15px;
+responsive(xs)
+}
+.blog-card .hbc-title {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.blog-card .hbc-description {
+  display: none;
+}
+.blog-card .hbc-url {
+  display: none;
+}

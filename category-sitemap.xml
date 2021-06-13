@@ -8,20 +8,6 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/</loc>
-        <lastmod>2021-01-23T09:21:26.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E9%96%8B%E7%99%BA/</loc>
-        <lastmod>2021-01-23T09:21:26.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://mountainboy.me/categories/%E3%83%96%E3%83%AD%E3%82%B0/%E6%97%85/</loc>
         <lastmod>2021-01-23T12:58:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -36,71 +22,8 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/</loc>
-        <lastmod>2021-01-24T06:13:03.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/categories/%E3%83%96%E3%83%AD%E3%82%B0/%E9%96%8B%E7%99%BA/</loc>
-        <lastmod>2021-01-24T06:20:46.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/</loc>
-        <lastmod>2021-01-24T06:36:34.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E9%96%8B%E7%99%BA/</loc>
         <lastmod>2021-01-24T06:37:39.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/categories/%E6%97%85/</loc>
-        <lastmod>2021-01-24T06:45:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</loc>
-        <lastmod>2021-01-24T06:48:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E9%96%8B%E7%99%BA/</loc>
-        <lastmod>2021-01-24T06:48:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/</loc>
-        <lastmod>2021-01-24T07:12:46.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/</loc>
-        <lastmod>2021-01-24T07:12:46.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/categories/%E3%83%96%E3%83%AD%E3%82%B0/</loc>
-        <lastmod>2021-02-13T05:43:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -122,6 +45,83 @@
     <url>
         <loc>https://mountainboy.me/categories/%E3%83%96%E3%83%AD%E3%82%B0/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/%E9%96%8B%E7%99%BA/</loc>
         <lastmod>2021-02-13T05:43:46.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E9%96%8B%E7%99%BA/</loc>
+        <lastmod>2021-06-13T07:27:05.525Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/</loc>
+        <lastmod>2021-06-13T07:27:05.528Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/categories/%E3%83%A9%E3%82%A4%E3%83%95/</loc>
+        <lastmod>2021-06-13T07:27:05.529Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/</loc>
+        <lastmod>2021-06-13T07:27:05.529Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/categories/%E6%97%85/</loc>
+        <lastmod>2021-06-13T07:27:05.529Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%A9%E3%82%A4%E3%83%95/%E6%97%85/</loc>
+        <lastmod>2021-06-13T07:27:05.529Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/categories/%E3%83%96%E3%83%AD%E3%82%B0/</loc>
+        <lastmod>2021-06-13T07:27:05.530Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</loc>
+        <lastmod>2021-06-13T07:27:05.530Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/categories/%E3%83%96%E3%83%AD%E3%82%B0/%E9%96%8B%E7%99%BA/</loc>
+        <lastmod>2021-06-13T07:27:05.530Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/</loc>
+        <lastmod>2021-06-13T07:27:05.530Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/%E3%83%96%E3%83%AD%E3%82%B0/%E9%96%8B%E7%99%BA/</loc>
+        <lastmod>2021-06-13T07:27:05.530Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

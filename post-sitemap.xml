@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://mountainboy.me/post/taishoike-2020/</loc>
+        <lastmod>2021-06-16T14:15:32.962Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://mountainboy.me/post/buy-tatonka/</loc>
         <lastmod>2021-06-16T13:00:52.601Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -136,7 +144,7 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/post/koharu-intro/</loc>
+        <loc>https://mountainboy.me/post/kyoto-trail-1/</loc>
         <lastmod>2021-06-13T07:27:05.528Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -144,7 +152,7 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/post/kyoto-trail-1/</loc>
+        <loc>https://mountainboy.me/post/koharu-intro/</loc>
         <lastmod>2021-06-13T07:27:05.528Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -200,7 +208,7 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/post/coworking-yokohama/</loc>
+        <loc>https://mountainboy.me/post/design-loves-engineering-1/</loc>
         <lastmod>2021-06-13T07:27:05.525Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -208,7 +216,7 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/post/design-loves-engineering-1/</loc>
+        <loc>https://mountainboy.me/post/coworking-yokohama/</loc>
         <lastmod>2021-06-13T07:27:05.525Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -330,14 +338,6 @@
     <url>
         <loc>https://mountainboy.me/post/tenkawa-day/</loc>
         <lastmod>2021-03-06T14:21:16.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/post/taishoike-2020/</loc>
-        <lastmod>2021-02-17T15:17:37.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

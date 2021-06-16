@@ -165,13 +165,13 @@
     
       <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
     
-      <category term="PeakDesign" scheme="https://mountainboy.me/tags/PeakDesign/"/>
+      <category term="ハイキング" scheme="https://mountainboy.me/tags/%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0/"/>
     
       <category term="OMM" scheme="https://mountainboy.me/tags/OMM/"/>
     
-      <category term="Classic25" scheme="https://mountainboy.me/tags/Classic25/"/>
+      <category term="PeakDesign" scheme="https://mountainboy.me/tags/PeakDesign/"/>
     
-      <category term="ハイキング" scheme="https://mountainboy.me/tags/%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0/"/>
+      <category term="Classic25" scheme="https://mountainboy.me/tags/Classic25/"/>
     
   </entry>
   
@@ -262,13 +262,13 @@
     </summary>
     
     
+      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
+    
       <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
     
       <category term="ogawa" scheme="https://mountainboy.me/tags/ogawa/"/>
     
       <category term="テント" scheme="https://mountainboy.me/tags/%E3%83%86%E3%83%B3%E3%83%88/"/>
-    
-      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
     
       <category term="ギア" scheme="https://mountainboy.me/tags/%E3%82%AE%E3%82%A2/"/>
     
@@ -355,9 +355,9 @@
     </summary>
     
     
-      <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
-    
       <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
+    
+      <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
     
       <category term="グリム冒険の森" scheme="https://mountainboy.me/tags/%E3%82%B0%E3%83%AA%E3%83%A0%E5%86%92%E9%99%BA%E3%81%AE%E6%A3%AE/"/>
     
@@ -420,11 +420,11 @@
     
       <category term="API" scheme="https://mountainboy.me/tags/API/"/>
     
+      <category term="ルーツ探し" scheme="https://mountainboy.me/tags/%E3%83%AB%E3%83%BC%E3%83%84%E6%8E%A2%E3%81%97/"/>
+    
       <category term="DNA検査" scheme="https://mountainboy.me/tags/DNA%E6%A4%9C%E6%9F%BB/"/>
     
       <category term="google" scheme="https://mountainboy.me/tags/google/"/>
-    
-      <category term="ルーツ探し" scheme="https://mountainboy.me/tags/%E3%83%AB%E3%83%BC%E3%83%84%E6%8E%A2%E3%81%97/"/>
     
   </entry>
   
@@ -480,9 +480,9 @@
     
       <category term="デイキャンプ" scheme="https://mountainboy.me/tags/%E3%83%87%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
     
-      <category term="Snowpeak" scheme="https://mountainboy.me/tags/Snowpeak/"/>
-    
       <category term="焚き火台M" scheme="https://mountainboy.me/tags/%E7%84%9A%E3%81%8D%E7%81%AB%E5%8F%B0M/"/>
+    
+      <category term="Snowpeak" scheme="https://mountainboy.me/tags/Snowpeak/"/>
     
       <category term="ダッチオーブン" scheme="https://mountainboy.me/tags/%E3%83%80%E3%83%83%E3%83%81%E3%82%AA%E3%83%BC%E3%83%96%E3%83%B3/"/>
     
@@ -594,7 +594,8 @@
         
         
           &lt;p&gt;先日購入したタトンカ4TCの試し張りを行った。実はタープを張るのは生まれて初めて。Youtubeでしっかり予習していった。（購入までの経緯は以下リンク↓）&lt;/p&gt;
-&lt;div class=&quot;blog-card&quot;&gt;&lt;div class=&quot;hbc-link-wrap&quot;&gt;&lt;a
+
+&lt;h2 id=&quot;使用するポール&quot;&gt;&lt;a href=&quot;#使用するポール&quot;
         
       
     
@@ -622,7 +623,7 @@
     <link href="https://mountainboy.me/post/buy-tatonka/"/>
     <id>https://mountainboy.me/post/buy-tatonka/</id>
     <published>2020-12-10T04:31:49.000Z</published>
-    <updated>2021-06-13T07:39:02.071Z</updated>
+    <updated>2021-06-16T13:00:52.601Z</updated>
     
     <summary type="html">
     
@@ -630,7 +631,7 @@
       
         
         
-          &lt;p&gt;難燃性のタープを探し、迷った末にタトンカ4TCを購入した。ここでは購入に到るまでの経緯や途中で迷った候補を紹介。&lt;/p&gt;
+          &lt;p&gt;難燃性のタープを探し、迷った末にタトンカ4TCを購入しました。ここでは購入に到るまでの経緯や、途中で迷った候補の製品を紹介します。&lt;/p&gt;
 &lt;h2 id=&quot;とりあえず開封シーン&quot;&gt;&lt;a href=&quot;#とりあえず開封シーン&quot; class=&quot;headerlink&quot;
         
       

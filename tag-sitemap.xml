@@ -353,6 +353,13 @@
     </url>
 
     <url>
+        <loc>https://mountainboy.me/tags/%E3%83%AB%E3%83%BC%E3%83%84%E6%8E%A2%E3%81%97/</loc>
+        <lastmod>2021-06-12T08:34:56.373Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://mountainboy.me/tags/DNA%E6%A4%9C%E6%9F%BB/</loc>
         <lastmod>2021-06-12T08:34:56.373Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -367,8 +374,8 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/tags/%E3%83%AB%E3%83%BC%E3%83%84%E6%8E%A2%E3%81%97/</loc>
-        <lastmod>2021-06-12T08:34:56.373Z</lastmod>
+        <loc>https://mountainboy.me/tags/%E6%95%A3%E6%AD%A9/</loc>
+        <lastmod>2021-06-13T07:27:05.524Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -389,13 +396,6 @@
 
     <url>
         <loc>https://mountainboy.me/tags/%E7%90%B5%E7%90%B6%E6%B9%96/</loc>
-        <lastmod>2021-06-13T07:27:05.524Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/%E6%95%A3%E6%AD%A9/</loc>
         <lastmod>2021-06-13T07:27:05.524Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -689,14 +689,14 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/tags/MYOG/</loc>
+        <loc>https://mountainboy.me/tags/%E3%83%90%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%82%AF/</loc>
         <lastmod>2021-06-13T07:46:18.639Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://mountainboy.me/tags/%E3%83%90%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%82%AF/</loc>
+        <loc>https://mountainboy.me/tags/MYOG/</loc>
         <lastmod>2021-06-13T07:46:18.639Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

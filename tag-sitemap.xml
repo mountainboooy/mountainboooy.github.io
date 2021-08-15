@@ -360,6 +360,13 @@
     </url>
 
     <url>
+        <loc>https://mountainboy.me/tags/%E6%95%A3%E6%AD%A9/</loc>
+        <lastmod>2021-06-13T07:27:05.524Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://mountainboy.me/tags/%E8%87%AA%E8%BB%A2%E8%BB%8A/</loc>
         <lastmod>2021-06-13T07:27:05.524Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -375,13 +382,6 @@
 
     <url>
         <loc>https://mountainboy.me/tags/%E7%90%B5%E7%90%B6%E6%B9%96/</loc>
-        <lastmod>2021-06-13T07:27:05.524Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/%E6%95%A3%E6%AD%A9/</loc>
         <lastmod>2021-06-13T07:27:05.524Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -682,14 +682,14 @@
     </url>
 
     <url>
-        <loc>https://mountainboy.me/tags/MYOG/</loc>
+        <loc>https://mountainboy.me/tags/%E8%87%AA%E4%BD%9C%E3%82%AE%E3%82%A2/</loc>
         <lastmod>2021-06-13T07:46:18.639Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://mountainboy.me/tags/%E8%87%AA%E4%BD%9C%E3%82%AE%E3%82%A2/</loc>
+        <loc>https://mountainboy.me/tags/MYOG/</loc>
         <lastmod>2021-06-13T07:46:18.639Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -893,21 +893,21 @@
 
     <url>
         <loc>https://mountainboy.me/tags/%E3%82%AE%E3%82%A2/</loc>
-        <lastmod>2021-08-15T06:08:40.105Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mountainboy.me/tags/OMM/</loc>
-        <lastmod>2021-08-15T06:08:40.105Z</lastmod>
+        <lastmod>2021-08-15T06:13:12.187Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://mountainboy.me/tags/%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0/</loc>
-        <lastmod>2021-08-15T06:08:40.105Z</lastmod>
+        <lastmod>2021-08-15T06:13:12.187Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mountainboy.me/tags/OMM/</loc>
+        <lastmod>2021-08-15T06:13:12.187Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

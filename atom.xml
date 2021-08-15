@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mountainboy.me/"/>
-  <updated>2021-08-15T06:08:40.105Z</updated>
+  <updated>2021-08-15T06:13:12.187Z</updated>
   <id>https://mountainboy.me/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://mountainboy.me/post/omm-impression/"/>
     <id>https://mountainboy.me/post/omm-impression/</id>
     <published>2021-08-15T05:40:27.000Z</published>
-    <updated>2021-08-15T06:08:40.105Z</updated>
+    <updated>2021-08-15T06:13:12.187Z</updated>
     
     <summary type="html">
     
@@ -39,9 +39,9 @@
     
       <category term="ギア" scheme="https://mountainboy.me/tags/%E3%82%AE%E3%82%A2/"/>
     
-      <category term="OMM" scheme="https://mountainboy.me/tags/OMM/"/>
-    
       <category term="ハイキング" scheme="https://mountainboy.me/tags/%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0/"/>
+    
+      <category term="OMM" scheme="https://mountainboy.me/tags/OMM/"/>
     
   </entry>
   
@@ -131,11 +131,11 @@
     
       <category term="ハイキング" scheme="https://mountainboy.me/tags/%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0/"/>
     
+      <category term="京都" scheme="https://mountainboy.me/tags/%E4%BA%AC%E9%83%BD/"/>
+    
       <category term="ロングトレイル" scheme="https://mountainboy.me/tags/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/"/>
     
       <category term="旅" scheme="https://mountainboy.me/tags/%E6%97%85/"/>
-    
-      <category term="京都" scheme="https://mountainboy.me/tags/%E4%BA%AC%E9%83%BD/"/>
     
   </entry>
   
@@ -192,15 +192,15 @@
     
       <category term="カメラ" scheme="https://mountainboy.me/tags/%E3%82%AB%E3%83%A1%E3%83%A9/"/>
     
-      <category term="PeakDesign" scheme="https://mountainboy.me/tags/PeakDesign/"/>
-    
-      <category term="OMM" scheme="https://mountainboy.me/tags/OMM/"/>
-    
-      <category term="Classic25" scheme="https://mountainboy.me/tags/Classic25/"/>
-    
       <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
     
       <category term="ハイキング" scheme="https://mountainboy.me/tags/%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0/"/>
+    
+      <category term="OMM" scheme="https://mountainboy.me/tags/OMM/"/>
+    
+      <category term="PeakDesign" scheme="https://mountainboy.me/tags/PeakDesign/"/>
+    
+      <category term="Classic25" scheme="https://mountainboy.me/tags/Classic25/"/>
     
   </entry>
   
@@ -543,13 +543,13 @@
     
       <category term="α7ⅲ" scheme="https://mountainboy.me/tags/%CE%B17%E2%85%B2/"/>
     
-      <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
-    
       <category term="PAAGOWORKS" scheme="https://mountainboy.me/tags/PAAGOWORKS/"/>
     
       <category term="FOCUS" scheme="https://mountainboy.me/tags/FOCUS/"/>
     
       <category term="カメラバッグ" scheme="https://mountainboy.me/tags/%E3%82%AB%E3%83%A1%E3%83%A9%E3%83%90%E3%83%83%E3%82%B0/"/>
+    
+      <category term="登山" scheme="https://mountainboy.me/tags/%E7%99%BB%E5%B1%B1/"/>
     
   </entry>
   

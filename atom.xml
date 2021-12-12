@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mountainboy.me/"/>
-  <updated>2021-08-16T09:24:47.235Z</updated>
+  <updated>2021-12-11T12:59:24.119Z</updated>
   <id>https://mountainboy.me/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>アポロンを売却しました</title>
+    <link href="https://mountainboy.me/post/sell-apollon/"/>
+    <id>https://mountainboy.me/post/sell-apollon/</id>
+    <published>2021-12-11T12:55:23.000Z</published>
+    <updated>2021-12-11T12:59:24.119Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;アポロンを売ってしまました。2019年に買って以来とても気に入っていた。
+    ファミリーキャンプを始めようと妻と一緒にテントを探し、大阪キャンパルにてその迫力にひとめぼれして購入。
+   
+        
+      
+    
+    </summary>
+    
+    
+      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
+    
+      <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
+    
+      <category term="ogawa" scheme="https://mountainboy.me/tags/ogawa/"/>
+    
+      <category term="テント" scheme="https://mountainboy.me/tags/%E3%83%86%E3%83%B3%E3%83%88/"/>
+    
+      <category term="ギア" scheme="https://mountainboy.me/tags/%E3%82%AE%E3%82%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>ポンコタンチェアを1年間使った感想</title>
@@ -322,13 +356,13 @@
     </summary>
     
     
+      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
+    
       <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
     
       <category term="ogawa" scheme="https://mountainboy.me/tags/ogawa/"/>
     
       <category term="テント" scheme="https://mountainboy.me/tags/%E3%83%86%E3%83%B3%E3%83%88/"/>
-    
-      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
     
       <category term="ギア" scheme="https://mountainboy.me/tags/%E3%82%AE%E3%82%A2/"/>
     
@@ -415,9 +449,9 @@
     </summary>
     
     
-      <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
-    
       <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
+    
+      <category term="アポロン" scheme="https://mountainboy.me/tags/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3/"/>
     
       <category term="グリム冒険の森" scheme="https://mountainboy.me/tags/%E3%82%B0%E3%83%AA%E3%83%A0%E5%86%92%E9%99%BA%E3%81%AE%E6%A3%AE/"/>
     
@@ -540,9 +574,9 @@
     
       <category term="デイキャンプ" scheme="https://mountainboy.me/tags/%E3%83%87%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
     
-      <category term="Snowpeak" scheme="https://mountainboy.me/tags/Snowpeak/"/>
-    
       <category term="焚き火台M" scheme="https://mountainboy.me/tags/%E7%84%9A%E3%81%8D%E7%81%AB%E5%8F%B0M/"/>
+    
+      <category term="Snowpeak" scheme="https://mountainboy.me/tags/Snowpeak/"/>
     
       <category term="ダッチオーブン" scheme="https://mountainboy.me/tags/%E3%83%80%E3%83%83%E3%83%81%E3%82%AA%E3%83%BC%E3%83%96%E3%83%B3/"/>
     
@@ -609,34 +643,6 @@
       <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
     
       <category term="子供" scheme="https://mountainboy.me/tags/%E5%AD%90%E4%BE%9B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>スノーピークのマルチコンテナSをペグケースとして使う</title>
-    <link href="https://mountainboy.me/post/multi_container_m/"/>
-    <id>https://mountainboy.me/post/multi_container_m/</id>
-    <published>2020-12-26T14:11:20.000Z</published>
-    <updated>2021-06-13T12:42:43.815Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;ペグやハンマーなどテント設営周りの道具を入れるためのコンテナを探すことにした。元々アポロンに付属していたペグなので幕体と一緒に収納していたが、これが運ぶのが大変！ アポロンはただでさえ重苦しいので、ペグやハンマーを一緒に収納すると25kg近くになってしまう。そこでこれらの道具を分けて収納したくなったのだ。
-    
-    </summary>
-    
-    
-      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
-    
-      <category term="ギア" scheme="https://mountainboy.me/tags/%E3%82%AE%E3%82%A2/"/>
-    
-      <category term="Snowpeak" scheme="https://mountainboy.me/tags/Snowpeak/"/>
-    
-      <category term="ペグケース" scheme="https://mountainboy.me/tags/%E3%83%9A%E3%82%B0%E3%82%B1%E3%83%BC%E3%82%B9/"/>
-    
-      <category term="マルチコンテナ" scheme="https://mountainboy.me/tags/%E3%83%9E%E3%83%AB%E3%83%81%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A/"/>
-    
-      <category term="収納" scheme="https://mountainboy.me/tags/%E5%8F%8E%E7%B4%8D/"/>
     
   </entry>
   

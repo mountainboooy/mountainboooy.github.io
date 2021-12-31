@@ -754,6 +754,10 @@ button {
 .summary:hover .summary__tags {
   color: #a57f56;
 }
+.article img {
+  max-height: 520px;
+  object-fit: contain;
+}
 .header {
   border-top: 6px solid #3a3128;
   border-bottom: 1px solid #eae8e6;

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mountainboy.me/"/>
-  <updated>2022-10-08T06:17:25.502Z</updated>
+  <updated>2023-01-07T09:37:41.083Z</updated>
   <id>https://mountainboy.me/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>バイクが納車された（HONDA CRF250L）</title>
+    <link href="https://mountainboy.me/post/crf-get/"/>
+    <id>https://mountainboy.me/post/crf-get/</id>
+    <published>2023-01-07T05:50:13.000Z</published>
+    <updated>2023-01-07T09:37:41.083Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;なんとバイクを購入してしまった。HONDAのCRF250L。&lt;/p&gt;
+&lt;h2 id=&quot;買ったのはこんなバイク&quot;&gt;&lt;a href=&quot;#買ったのはこんなバイク&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="バイク" scheme="https://mountainboy.me/tags/%E3%83%90%E3%82%A4%E3%82%AF/"/>
+    
+      <category term="CRF250L" scheme="https://mountainboy.me/tags/CRF250L/"/>
+    
+  </entry>
   
   <entry>
     <title>パックラフトで木津川ダウンリバー</title>
@@ -614,38 +641,6 @@
       <category term="お遍路" scheme="https://mountainboy.me/tags/%E3%81%8A%E9%81%8D%E8%B7%AF/"/>
     
       <category term="四国" scheme="https://mountainboy.me/tags/%E5%9B%9B%E5%9B%BD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>タトンカのタープの真下で焚き火を試してみた</title>
-    <link href="https://mountainboy.me/post/tatonka-fire/"/>
-    <id>https://mountainboy.me/post/tatonka-fire/</id>
-    <published>2021-03-02T14:36:32.000Z</published>
-    <updated>2021-06-13T12:13:16.012Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;冬場のキャンプでより暖かく焚き火を楽しむために、TC素材のレクタタープ
-        
-      
-    
-    </summary>
-    
-    
-      <category term="キャンプ" scheme="https://mountainboy.me/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/"/>
-    
-      <category term="ギア" scheme="https://mountainboy.me/tags/%E3%82%AE%E3%82%A2/"/>
-    
-      <category term="タトンカ4TC" scheme="https://mountainboy.me/tags/%E3%82%BF%E3%83%88%E3%83%B3%E3%82%AB4TC/"/>
-    
-      <category term="タープ" scheme="https://mountainboy.me/tags/%E3%82%BF%E3%83%BC%E3%83%97/"/>
-    
-      <category term="焚き火" scheme="https://mountainboy.me/tags/%E7%84%9A%E3%81%8D%E7%81%AB/"/>
     
   </entry>
   
